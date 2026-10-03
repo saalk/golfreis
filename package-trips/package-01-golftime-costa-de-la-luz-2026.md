@@ -101,6 +101,10 @@ Alle gezamenlijke extra wijn bij eten, drank/kroketjes en tips/fooien van alle 8
 | **Tip/fooi** | **€70,00** | **€8,75** |
 | **Diner & drankjes — totaal** | **€1.595,05** | **€199,38** |
 
+Het totale bedrag van alle geregistreerde transacties bedraagt **€2.994,65**. Dit bedrag is niet volledig doorgevoerd in de kostenverdeling hierboven. Een aantal transacties was namelijk uitsluitend aan één persoon gericht of betrof kosten die buiten de afgesproken categorieën vallen, zoals een stoel, clubkosten, een chauffeur, een individueel rondje en enkele afzonderlijke lunch-/maaltijdkosten.
+
+Voor de gezamenlijke kostenverdeling zijn daarom alleen de relevante kosten voor **buggy/trolly, tip/fooi, drank/kroketjes en wijn bij het eten** meegenomen. Hierdoor sluit het totaal van deze categorieën niet aan op het volledige bedrag van €2.994,65, maar wel op de kosten die daadwerkelijk gezamenlijk over de deelnemers zijn verdeeld.
+
 ## Historisch totaal
 
 | Kostenpost | Totaal | p.p. |
