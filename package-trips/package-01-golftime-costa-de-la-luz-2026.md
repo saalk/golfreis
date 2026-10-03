@@ -63,14 +63,21 @@ Alle genoemde transferprijzen zijn retourprijzen.
 
 De zeven rondes waren Nuevo Portil, El Rompido North, Quinta do Vale, Bellavista, El Rompido South, Islantilla en opnieuw Nuevo Portil.
 
-## Ontbijt, diner & drankjes — historische 2026
+## Ontbijt & lunch — historische 2026
 
-| Kostenpost | Waarde |
+Het ontbijt was inbegrepen in de pakketprijs. Lunch was niet inbegrepen en werd door de deelnemers apart afgerekend.
+
+| Kostenpost | p.p. |
 |---|---:|
 | Ontbijt | In pakket |
-| Diner | In pakket |
+| Lunchbox | €6,50 per golfdag |
+| Water | €4,00 per golfdag |
+| **Lunch + water** | **€10,50 per golfdag** |
+| **7 golfrondes — extra lunch + water** | **€73,50** |
 
-### Extra categorie — Drinken
+## Diner & drankjes — historische 2026
+
+Het diner was inbegrepen in de pakketprijs.
 
 Alleen gezamenlijke extra drankjes en wijn van alle 8 deelnemers worden meegenomen.
 
@@ -90,9 +97,14 @@ De gecombineerde post “Drankjes kroketjes” is niet meegenomen omdat het dran
 | Verblijf / pakket | €10.800,00 | €1.350,00 |
 | Vervoer | Onderdeel van pakket | — |
 | Golf | Onderdeel van pakket; berekende greenfee-referentie €410,00 p.p. | €410,00 |
-| Ontbijt, diner & drankjes | In pakket + €1.070,75 drank | €133,84 drank |
+| Ontbijt | In pakket | — |
+| Diner | In pakket | — |
+| Extra wijn bij eten | €324,00 | €40,50 |
+| Extra drankjes | €746,75 | €93,34 |
+| Extra lunch + water | €588,00 | €73,50 |
 | **Historische pakketprijs** | **€14.766,00** | **€1.845,76** |
+| **Pakketprijs + alle extra's** | **€16.424,75** | **€2.053,10** |
 
-De €1.070,75 gedeelde drankkosten zijn aanvullende historische kosten en zijn niet inbegrepen in de pakketprijs van €14.766,00.
+De €1.070,75 gedeelde drankkosten en €588,00 lunch/water zijn aanvullende historische kosten en zijn niet inbegrepen in de pakketprijs van €14.766,00.
 
 [← Georganiseerde golfreizen](index.md)
