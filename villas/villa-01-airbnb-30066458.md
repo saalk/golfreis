@@ -33,11 +33,11 @@ De overige kosten worden centraal op [Villa's](index.md) bijgehouden:
 |---|---:|---:|
 | Vlucht | centrale 2027-referentie | €450,00 |
 | Vervoer | €1.344,12¹ | €168,02¹ |
-| Golf | €7.464,00¹ | €933,00¹ |
+| Golf | €3.732,00¹ | €466,50¹ |
 | Ontbijt & lunch | €336,00¹ | €42,00¹ |
 | Diner inclusief wijn | €2.702,50¹ | €337,81¹ |
 | Drankjes | €150,00¹ | €18,75¹ |
 
-¹ Voor Villa Marazul 2027 zijn vervoer, ontbijt & lunch en diner met **15%** verhoogd ten opzichte van de historische Villa Albufeira 78 2024-basis. Golf 2027 gebruikt uitsluitend zeven banen met Golfamore-korting: Pine Cliffs, Pinheiros Altos, Castro Marim, NAU Salgados, Boavista, Villa Sol en Palmares.
+¹ Voor Villa Marazul 2027 zijn vervoer, ontbijt & lunch en diner met **15%** verhoogd ten opzichte van de historische Villa Albufeira 78 2024-basis. Golf 2027 gebruikt uitsluitend zeven banen met Golfamore-korting; de begroting gebruikt de prijs ná korting: Pine Cliffs, Pinheiros Altos, Castro Marim, NAU Salgados, Boavista, Villa Sol en Palmares, samen €466,50 p.p.
 
 [← Villa's](index.md)
