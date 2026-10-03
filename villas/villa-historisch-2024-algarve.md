@@ -62,17 +62,4 @@ De diners waren:
 - Copos & Petiscos: €370
 - Cabana Fresca: €465
 
-## Historische totale kosten
-
-| Kostenpost | Totaal | p.p. |
-|---|---:|---:|
-| Vlucht | €1.752,00 | €219,00 |
-| Vakantiehuis + toeristenbelasting | €1.391,00 | €173,88 |
-| Vervoer | €1.168,80 | €146,10 |
-| Golf | €4.504,00 | €563,00 |
-| Eten | €2.792,10 | €349,01 |
-| **Totaal** | **€11.607,90** | **€1.450,99** |
-
-Dit is een historische referentie en geen actuele prijs voor 2027. Buggy's, consumpties op de golfbaan en de borg zijn niet in het totaal opgenomen.
-
 [← Villa's](index.md) · [← Vergelijkingen](../comparisons/villa-comparison.md)
