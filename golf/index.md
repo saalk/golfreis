@@ -4,15 +4,15 @@
 
 Eenvoudige vergelijking van de greenfee **per persoon**. Alleen de greenfee is opgenomen; buggy, trolley, reistijd en andere persoonlijke of praktische kosten staan hier niet in.
 
-De kolom **2026 p.p.** is waar mogelijk bijgewerkt naar de actuele **oktober 2026** greenfee. Als een baan momenteel Golfamore-partner is, staat de actuele Golfamore-prijs erachter als **GA**. Golfamore geeft bij partnerbanen 50% korting op het reguliere greenfee; voorwaarden en geldige speeldagen kunnen per baan verschillen.
+De kolom **2026 p.p.** is waar mogelijk bijgewerkt naar de actuele **oktober 2026** greenfee. Voor Quinta do Lago South + Laranjal is ook de actuele **Q2-combi deal** vermeld. Als een baan momenteel Golfamore-partner is, staat de actuele Golfamore-prijs erachter als **GA**. Golfamore geeft bij partnerbanen 50% korting op het reguliere greenfee; voorwaarden en geldige speeldagen kunnen per baan verschillen.
 
 De kolom **2027 p.p.** gebruikt een bekende 2027-prijs als die beschikbaar is. Als nog geen echte 2027-greenfee bekend is, is de 2026-prijs als uitgangspunt genomen met een kleine verwachte stijging van circa 5%.
 
 | Golfbaan | 2023 p.p. | 2024 p.p. | 2026 p.p. | 2027 p.p. |
 |---|---:|---:|---:|---:|
 | Pine Cliffs Golf Course | €34,00 | **€36,00 obv. GA** | ca. €90 | ca. €95 indicatie |
-| Quinta do Lago South | — | €152,50 | €243 | ca. €255 indicatie |
-| Quinta do Lago Laranjal | — | €152,50 | €223 | ca. €234 indicatie |
+| Quinta do Lago South | — | **€152,50 combi Q2** | €243 / **€206 Q2** | ca. €255 / **ca. €216 Q2** indicatie |
+| Quinta do Lago Laranjal | — | **€152,50 combi Q2** | €223 / **€206 Q2** | ca. €234 / **ca. €216 Q2** indicatie |
 | Pinheiros Altos Campo de Golfe | €74,00 | **€74,00 obv. GA** | €122 / €61 GA | ca. €128 indicatie |
 | Castro Marim | — | **€52,50 obv. GA** | €104 / €52 GA | ca. €109 indicatie |
 | NAU Salgados | — | **€52,50 obv. GA** | €139 / €69,50 GA | €139 indicatie |
@@ -65,6 +65,7 @@ De kolom **2027 p.p.** gebruikt een bekende 2027-prijs als die beschikbaar is. A
 - **2024 daadwerkelijk met Golfamore gespeeld:** Pine Cliffs €36,00, Pinheiros Altos €74,00, Castro Marim €52,50, NAU Salgados €52,50 en Boavista €52,00. De genoemde 2024-prijzen zijn dus de **daadwerkelijk betaalde greenfees op basis van GA-korting**.
 - **2023:** Pine Cliffs, Pinheiros Altos, Villa Sol, Alamos en Palmares zijn met een kortingskaart gespeeld. Het specifieke kaarttype is voor deze rondes niet vastgelegd.
 - **2026:** actuele bedragen zijn zoveel mogelijk gebaseerd op de **oktober 2026** greenfee. Waar alleen een seizoens- of indicatieprijs beschikbaar is, is dat niet als definitieve betaalde prijs bedoeld.
+- **Quinta do Lago Q2:** de combi-deal bestaat ook in 2026. Q2 is 1x South + 1x Laranjal; voor 6 september t/m 31 oktober 2026 is de officiële prijs €412 totaal = €206 p.p. In 2024 is in de reis €152,50 p.p. betaald voor deze combi. Voor 2027 is circa €216 p.p. als werkbare indicatie gebruikt.
 - **2027:** waar geen echte 2027-greenfee bekend is, is circa 5% stijging ten opzichte van 2026 gebruikt als werkbare indicatie. Bekende 2027-prijzen zijn ongewijzigd overgenomen.
 - Buggy, trolley, vervoer, reistijd en andere persoonlijke kosten worden bewust niet in deze vergelijking opgenomen.
 
