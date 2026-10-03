@@ -31,7 +31,7 @@ De overige kosten worden centraal op [Villa's](index.md) bijgehouden:
 
 | Kostenpost | Totaal | p.p. |
 |---|---:|---:|
-| Vlucht | centrale referentie | €438,00 |
+| Vlucht | centrale 2027-referentie | €450,00 |
 | Vervoer | €1.168,80¹ | €146,10¹ |
 | Golf | €4.504,00¹ | €563,00¹ |
 | Ontbijt & lunch | €292,10¹ | €36,51¹ |
