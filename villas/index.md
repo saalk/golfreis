@@ -21,13 +21,13 @@ Alle bedragen hieronder zijn **per persoon**. De historische villa uit 2024 word
 | Vlucht | €450,00¹ | €438,00 | €450,00¹ |
 | Accommodatie | €220,00 | €173,88 | €409,13 |
 | Vervoer | €168,02¹ | €146,10 | €146,10¹ |
-| Golf | €933,00¹ | €563,00 | €933,00¹ |
+| Golf | €466,50¹ | €563,00 | €466,50¹ |
 | Ontbijt & lunch | €42,00¹ | €36,51 | €42,00¹ |
 | Diner inclusief wijn | €337,81¹ | €293,75 | €337,81¹ |
 | Drankjes | €18,75¹ | €18,75 | €18,75¹ |
-| **Totaal** | **€2.169,58¹** | **€1.669,99** | **€2.287,24¹** |
+| **Totaal** | **€1.703,08¹** | **€1.669,99** | **€1.820,74¹** |
 
-¹ Voor 2027 wordt een vluchtbudget van **€450,00 p.p. inclusief bagage** aangehouden. De historische 2024-kolom gebruikt de werkelijk betaalde €438,00 p.p.; de €150 drankjes binnen de oorspronkelijke €442,10 post zijn een schatting. Voor 2027 wordt voor golf uitsluitend gerekend met banen met Golfamore-korting: Pine Cliffs, Pinheiros Altos, Castro Marim, NAU Salgados, Boavista, Villa Sol en Palmares, samen €933,00 p.p.
+¹ Voor 2027 wordt een vluchtbudget van **€450,00 p.p. inclusief bagage** aangehouden. De historische 2024-kolom gebruikt de werkelijk betaalde €438,00 p.p.; de €150 drankjes binnen de oorspronkelijke €442,10 post zijn een schatting. Voor 2027 wordt voor golf uitsluitend gerekend met banen met Golfamore-korting: Pine Cliffs, Pinheiros Altos, Castro Marim, NAU Salgados, Boavista, Villa Sol en Palmares, samen €466,50 p.p. na Golfamore-korting.
 
 ## Centrale kostenreferentie voor villa's
 
@@ -37,11 +37,11 @@ Voor nieuwe villa's worden de niet-accommodatiekosten centraal als referentie ge
 |---|---:|
 | Vlucht | €450,00 |
 | Vervoer | €168,02 |
-| Golf | €933,00 |
+| Golf | €466,50 |
 | Ontbijt & lunch | €42,00 |
 | Diner inclusief wijn | €337,81 |
 | Drankjes | €18,75 |
-| **Totaal niet-accommodatie** | **€1.878,11** |
+| **Totaal niet-accommodatie** | **€1.411,61** |
 
 De bedragen zijn een mix van het 2027-vluchtbudget en historische 2024-referenties; overige 2027-kosten worden later geactualiseerd.
 
