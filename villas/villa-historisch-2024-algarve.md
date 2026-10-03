@@ -40,9 +40,11 @@ De borg van €50 is niet als kosten meegenomen.
 
 ## Vlucht — historische 2024
 
+De vluchtprijs van **€438,00 p.p.** was inclusief vlucht, bagage, golfuitrusting en cabinebagage.
+
 | Item | Totaal | p.p. |
 |---|---:|---:|
-| Vlucht | **€1.752,00** | **€219,00** |
+| Vlucht inclusief bagage, golfuitrusting en cabinebagage | **€3.504,00** | **€438,00** |
 
 ## Vervoer — historische 2024
 
