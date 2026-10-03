@@ -60,7 +60,7 @@ Buggy's en trolleys zijn persoonlijke kosten en worden niet meegenomen. Persoonl
 
 | Kostenpost | Villa Marazul 2027 p.p. | Villa Albufeira 78 2024 p.p. | Golftime 2026 p.p. |
 |---|---:|---:|---:|
-| **Vlucht** | €450,00¹ | €438,00 | €461,38³ |
+| **Vlucht** | €450,00¹ | €400,00 | €461,38³ |
 | **Verblijf** | €220,00 | €173,88 | ca. €836,19² |
 | **Vervoer** | €168,02¹ | €146,10 | ca. €103,81² |
 | **Golf** | €533,00¹ | €563,00 | ca. €410,00² |
