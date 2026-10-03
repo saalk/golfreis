@@ -16,7 +16,7 @@ Centraal overzicht van de villa-opties voor de golfreis van **8 personen, begin 
 
 Alle bedragen hieronder zijn **per persoon**. De historische villa uit 2024 wordt bewust naast de huidige 2027-prijsindicatie opgenomen, ook al is deze villa niet meer te boeken. Zo blijft zichtbaar wat het werkelijke kostenniveau van de eerdere reis was.
 
-| Kostenpost | [Villa Marazul](villa-01-airbnb-30066458.md) 2027 p.p. | [Villa Albufeira 78](villa-historisch-2024-algarve.md) 2024 p.p. | [Villa Albufeira 78](villa-historisch-2024-algarme.md) 2027 p.p. |
+| Kostenpost | [Villa Marazul](villa-01-airbnb-30066458.md) 2027 p.p. | [Villa Albufeira 78](villa-historisch-2024-algarve.md) 2024 p.p. | [Villa Albufeira 78](villa-historisch-2024-algarve.md) 2027 p.p. |
 |---|---:|---:|---:|
 | Vlucht | centraal | €219,00 | €219,00¹ |
 | Accommodatie | €220,00 | €173,88 | €409,13 |
