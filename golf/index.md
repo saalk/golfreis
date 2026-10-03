@@ -8,54 +8,54 @@ De kolom **2026 p.p.** is waar mogelijk bijgewerkt naar de actuele **oktober 202
 
 De kolom **2027 p.p.** gebruikt een bekende 2027-prijs als die beschikbaar is. Als nog geen echte 2027-greenfee bekend is, is de 2026-prijs als uitgangspunt genomen met een kleine verwachte stijging van circa 5%.
 
-| Golfbaan | 2023 p.p. | 2024 p.p. | 2026 p.p. | 2027 p.p. |
-|---|---:|---:|---:|---:|
-| Pine Cliffs Golf Course | €34,00 | **€36,00 obv. GA** | ca. €90 | ca. €95 indicatie |
-| Quinta do Lago South | — | **€152,50 combi Q2** | €243 / **€206 Q2** | ca. €255 / **ca. €216 Q2** indicatie |
-| Quinta do Lago Laranjal | — | **€152,50 combi Q2** | €223 / **€206 Q2** | ca. €234 / **ca. €216 Q2** indicatie |
-| Pinheiros Altos Campo de Golfe | €74,00 | **€74,00 obv. GA** | €122 / €61 GA | ca. €128 indicatie |
-| Castro Marim | — | **€52,50 obv. GA** | €104 / €52 GA | ca. €109 indicatie |
-| NAU Salgados | — | **€52,50 obv. GA** | €139 / €69,50 GA | €139 indicatie |
-| Boavista Golf | — | **€52,00 obv. GA** | €120 / €60 GA | €120 indicatie |
-| Villa Sol | €80,00 | — | €167 / €83,50 GA | ca. €175 indicatie |
-| Alamos | €66,00 | — | €119 | ca. €125 indicatie |
-| Vale do Lobo Ocean | €113,00 | — | €177 | ca. €186 indicatie |
-| Vale do Lobo Royal | €113,00 | — | €177 | ca. €186 indicatie |
-| Palmares Golf (Praia / Alvor) | €69,00 | — | €159 / €79,50 GA | ca. €167 indicatie |
-| Monte Rei Golf Club | — | €220,00 | €255 | €248 indicatie |
-| Quinta do Lago Golf Club | — | — | — | — |
-| Dom Pedro Victoria | — | €175,00 | — | — |
-| Vale do Lobo Golf Club | — | €190,00 | — | — |
-| Ombria | — | €160,00 | €131 | ca. €138 indicatie |
-| Dom Pedro Old Course | — | €175,00 | €274 | €197 indicatie |
-| Quinta de Cima | — | €190,00 | €145 / €72,50 GA | €214 indicatie |
-| Amendoeira Golf Resort — Faldo / O'Connor | — | ca. €160,00 | €116 / €58 GA | ca. €122 indicatie |
-| Espiche | — | — | €90 | ca. €95 indicatie |
-| Quinta do Vale | — | — | €95,00 | €99,00 / €86 groep 8+ |
-| Pestana Golf Gramacho Course | — | €129,00 | €167 / €83,50 GA | €145 indicatie |
-| Quinta da Ria | — | €121,00 | €145 / €72,50 GA | €136 indicatie |
-| Dom Pedro Pinhal Golf | — | €121,00 | — | — |
-| Pestana Vila Sol Golf | — | €122,00 | €167 / €83,50 GA | €137 indicatie |
-| San Lorenzo | — | €180,00 | €161 | €203 indicatie |
-| NAU Alamos | — | — | €119 | ca. €125 indicatie |
-| Benamor Golf | — | €86,00 | €113 / €56,50 GA* | €97 indicatie |
-| Balaia Golf Village | — | — | — | — |
-| Parque da Floresta / Santo Antonio | — | — | €68 | ca. €71 indicatie |
-| Dom Pedro Millennium Golf Course | — | €121,00 | €170 | €136 indicatie |
-| Pestana Golf Silves Course | — | €99,00 | €167 / €83,50 GA | €111 indicatie |
-| Pestana / Vale da Pinta | — | €129,00 | €167 / €83,50 GA | €145 indicatie |
-| NAU Morgado do Reguengo — Morgado / Álamos | — | — | €119 | ca. €125 indicatie |
-| Penina Golf & Resort Le Meridien | — | — | €110 / €55 GA* | ca. €116 indicatie |
-| Pestana Alto Golf | — | €76,00 | €131 / €65,50 GA | €86 indicatie |
-| Vale de Milho | — | — | €50 | ca. €53 indicatie |
-| Dom Pedro Laguna Golf Course | — | €121,00 | €123 | €136 indicatie |
-| Pestana Beloura | — | €75,00 | €104 / €52 GA | €84 indicatie |
-| Colina Verde Golf Maragota | — | — | — | — |
-| Nuevo Portil Golf | — | — | €45 indicatie | €45 indicatie |
-| El Rompido North | — | — | €59,00 | €75,00 |
-| Bellavista Golf Club | — | — | ca. €46 indicatie | ca. €47 indicatie |
-| El Rompido South | — | — | €59,00 | €75,00 |
-| Islantilla Golf | — | — | €61,00 | €63,00 |
+| Golfbaan | Land | 2023 p.p. | 2024 p.p. | 2026 p.p. | 2027 p.p. |
+|---|---|---:|---:|---:|---:|
+| Nuevo Portil Golf | Spanje | — | — | €45 indicatie | €45 indicatie |  |
+| El Rompido North | Spanje | — | — | €59,00 | €75,00 |  |
+| Bellavista Golf Club | Spanje | — | — | ca. €46 indicatie | ca. €47 indicatie |  |
+| El Rompido South | Spanje | — | — | €59,00 | €75,00 |  |
+| Islantilla Golf | Spanje | — | — | €61,00 | €63,00 |  |
+| Pine Cliffs Golf Course | Portugal | €34,00 | **€36,00 obv. GA** | ca. €90 | ca. €95 indicatie |  |
+| Quinta do Lago South | Portugal | — | **€152,50 combi Q2** | €243 / **€206 Q2** | ca. €255 / **ca. €216 Q2** indicatie |  |
+| Quinta do Lago Laranjal | Portugal | — | **€152,50 combi Q2** | €223 / **€206 Q2** | ca. €234 / **ca. €216 Q2** indicatie |  |
+| Pinheiros Altos Campo de Golfe | Portugal | €74,00 | **€74,00 obv. GA** | €122 / €61 GA | ca. €128 indicatie |  |
+| Castro Marim | Portugal | — | **€52,50 obv. GA** | €104 / €52 GA | ca. €109 indicatie |  |
+| NAU Salgados | Portugal | — | **€52,50 obv. GA** | €139 / €69,50 GA | €139 indicatie |  |
+| Boavista Golf | Portugal | — | **€52,00 obv. GA** | €120 / €60 GA | €120 indicatie |  |
+| Villa Sol | Portugal | €80,00 | — | €167 / €83,50 GA | ca. €175 indicatie |  |
+| Alamos | Portugal | €66,00 | — | €119 | ca. €125 indicatie |  |
+| Vale do Lobo Ocean | Portugal | €113,00 | — | €177 | ca. €186 indicatie |  |
+| Vale do Lobo Royal | Portugal | €113,00 | — | €177 | ca. €186 indicatie |  |
+| Palmares Golf (Praia / Alvor) | Portugal | €69,00 | — | €159 / €79,50 GA | ca. €167 indicatie |  |
+| Monte Rei Golf Club | Portugal | — | €220,00 | €255 | €248 indicatie |  |
+| Quinta do Lago Golf Club | Portugal | — | — | — | — |  |
+| Dom Pedro Victoria | Portugal | — | €175,00 | — | — |  |
+| Vale do Lobo Golf Club | Portugal | — | €190,00 | — | — |  |
+| Ombria | Portugal | — | €160,00 | €131 | ca. €138 indicatie |  |
+| Dom Pedro Old Course | Portugal | — | €175,00 | €274 | €197 indicatie |  |
+| Quinta de Cima | Portugal | — | €190,00 | €145 / €72,50 GA | €214 indicatie |  |
+| Amendoeira Golf Resort — Faldo / O'Connor | Portugal | — | ca. €160,00 | €116 / €58 GA | ca. €122 indicatie |  |
+| Espiche | Portugal | — | — | €90 | ca. €95 indicatie |  |
+| Quinta do Vale | Portugal | — | — | €95,00 | €99,00 / €86 groep 8+ |  |
+| Pestana Golf Gramacho Course | Portugal | — | €129,00 | €167 / €83,50 GA | €145 indicatie |  |
+| Quinta da Ria | Portugal | — | €121,00 | €145 / €72,50 GA | €136 indicatie |  |
+| Dom Pedro Pinhal Golf | Portugal | — | €121,00 | — | — |  |
+| Pestana Vila Sol Golf | Portugal | — | €122,00 | €167 / €83,50 GA | €137 indicatie |  |
+| San Lorenzo | Portugal | — | €180,00 | €161 | €203 indicatie |  |
+| NAU Alamos | Portugal | — | — | €119 | ca. €125 indicatie |  |
+| Benamor Golf | Portugal | — | €86,00 | €113 / €56,50 GA* | €97 indicatie |  |
+| Balaia Golf Village | Portugal | — | — | — | — |  |
+| Parque da Floresta / Santo Antonio | Portugal | — | — | €68 | ca. €71 indicatie |  |
+| Dom Pedro Millennium Golf Course | Portugal | — | €121,00 | €170 | €136 indicatie |  |
+| Pestana Golf Silves Course | Portugal | — | €99,00 | €167 / €83,50 GA | €111 indicatie |  |
+| Pestana / Vale da Pinta | Portugal | — | €129,00 | €167 / €83,50 GA | €145 indicatie |  |
+| NAU Morgado do Reguengo — Morgado / Álamos | Portugal | — | — | €119 | ca. €125 indicatie |  |
+| Penina Golf & Resort Le Meridien | Portugal | — | — | €110 / €55 GA* | ca. €116 indicatie |  |
+| Pestana Alto Golf | Portugal | — | €76,00 | €131 / €65,50 GA | €86 indicatie |  |
+| Vale de Milho | Portugal | — | — | €50 | ca. €53 indicatie |  |
+| Dom Pedro Laguna Golf Course | Portugal | — | €121,00 | €123 | €136 indicatie |  |
+| Pestana Beloura | Portugal | — | €75,00 | €104 / €52 GA | €84 indicatie |  |
+| Colina Verde Golf Maragota | Portugal | — | — | — | — |  |
 
 ### Notities
 
