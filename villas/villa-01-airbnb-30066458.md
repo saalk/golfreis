@@ -31,11 +31,13 @@ De overige kosten worden centraal op [Villa's](index.md) bijgehouden:
 
 | Kostenpost | Totaal | p.p. |
 |---|---:|---:|
-| Vlucht | centrale referentie | centrale referentie |
+| Vlucht | centrale referentie | €438,00 |
 | Vervoer | €1.168,80¹ | €146,10¹ |
 | Golf | €4.504,00¹ | €563,00¹ |
-| Ontbijt, diner & drankjes | €2.792,10¹ | €349,01¹ |
+| Ontbijt & lunch | €292,10¹ | €36,51¹ |
+| Diner inclusief wijn | €2.350,00¹ | €293,75¹ |
+| Drankjes | €150,00¹ | €18,75¹ |
 
-¹ Historische 2024-referentie, nog niet gecontroleerd voor 2027.
+¹ Historische 2024-referentie, nog niet gecontroleerd voor 2027. De €150,00 drankjes is een schatting binnen de historische boodschappenpost.
 
 [← Villa's](index.md)
