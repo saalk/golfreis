@@ -36,13 +36,28 @@ De kostenvergelijking gebruikt steeds dezelfde groepen en onderliggende items:
 | **Ontbijt & lunch** | Ontbijt en lunch |
 | **Diner** | Diner; wijn wordt apart vermeld wanneer deze niet duidelijk onderdeel is van het diner |
 | **Drankjes** | Gezamenlijke extra drankjes buiten het diner |
+| **Tip/fooi** | Gezamenlijke fooien wanneer deze niet al in een andere post zijn opgenomen |
 
-Buggy's en trolleys zijn persoonlijke kosten en worden niet meegenomen. Persoonlijke uitgaven en niet-gedeelde consumpties blijven eveneens buiten de gezamenlijke vergelijking.
+### Afbakening gezamenlijke kosten
+
+Voor de vergelijking worden alleen **gezamenlijke kosten** meegenomen.
+
+**Wel meegenomen**
+- gezamenlijke vlucht-, verblijf-, vervoer-, golf-, ontbijt/lunch- en dinerkosten;
+- gezamenlijke **wijn bij het eten** wanneer die niet in de pakket- of dinerprijs zit;
+- gezamenlijke **drankjes/kroketjes** buiten het diner;
+- gezamenlijke **tip/fooi**.
+
+**Niet meegenomen**
+- **buggy/trolly**;
+- transacties of uitgaven die uitsluitend aan één persoon zijn gericht;
+- persoonlijke uitgaven en niet-gedeelde consumpties;
+- overige kosten die niet binnen de afgesproken gezamenlijke categorieën vallen.
 
 ## Kostenvergelijking
 
 - Eerst worden de kosten in de pakketprijs en de vergelijkbare villa-kosten getoond.
-- Daarna volgen de extra kosten bovenop de pakketprijs: wijn, extra drankjes en lunch/water.
+- Daarna volgen de extra kosten bovenop de pakketprijs: wijn, extra drankjes, tip/fooi en lunch/water.
 - **Golftime 2026:** de pakketprijs van **€1.350 p.p.** bevat hotel, halfpension, golf en transfers.
   - Verblijf + halfpension: ca. **€836,19 p.p.** (afgeleide interne waarde).
   - Vervoer en golf zijn alleen interne schattingen en worden niet nogmaals bij het pakket opgeteld.
@@ -69,9 +84,10 @@ Buggy's en trolleys zijn persoonlijke kosten en worden niet meegenomen. Persoonl
 | **Kosten in basisvergelijking** | **€1.769,58¹** | **€1.622,24** | **€1.811,38³** |
 |  |  |  |  |
 | **Extra wijn bij eten** | inbegrepen in diner | inbegrepen in diner | + €40,50 |
-| **Extra drankjes** | €18,75¹ | €18,75 | + €93,34 |
+| **Extra drankjes** | €18,75¹ | €18,75 | + €150,13 |
+| **Extra tip/fooi** | — | — | + €8,75 |
 | **Extra lunch + water** | — | — | + €73,50⁴ |
-| **Basis + alle extra's** | **€1.788,33¹** | **€1.640,99** | **€2.018,72³ ⁴** |
+| **Basis + alle meegenomen extra's** | **€1.788,33¹** | **€1.640,99** | **€2.084,26³ ⁴** |
 
 ### Belangrijkste verschillen
 
@@ -106,9 +122,9 @@ Dit is een **2027 begrotingsreferentie**, geen betaalde 2027-pakketprijs. De €
 
 Bij de historische 2024-villa zat de wijn al in de dinerbedragen. De zeven diners bedroegen samen €2.350,00 (€293,75 p.p.) **inclusief wijn**. Er is daarom geen afzonderlijk wijnbedrag voor de villa toegevoegd.
 
-Bij het pakket is de wijn die gezamenlijk bij het eten is afgerekend (€40,50 p.p.) wél een extra kostenpost. De overige gezamenlijke drankjes (€93,34 p.p.) staan eveneens apart. De lunchbox en het water zijn bij het pakket geen onderdeel van de pakketprijs en zijn daarom als extra lunchkosten opgenomen.
+Bij het pakket is de wijn die gezamenlijk bij het eten is afgerekend (€40,50 p.p.) wél een extra kostenpost. De gezamenlijke drank/kroketjes (€150,13 p.p.) en de gezamenlijke tip/fooi (€8,75 p.p.) staan eveneens apart. De lunchbox en het water zijn bij het pakket geen onderdeel van de pakketprijs en zijn daarom als extra lunchkosten opgenomen. **Buggy/trolly en persoonlijke transacties zijn niet meegenomen.**
 
-De historische basisvergelijking van €1.811,38 p.p. bestaat uit de vlucht inclusief bagage, golfbagage en de gemarkeerde boekings-/organisatiekosten (€461,38 p.p.), plus de pakketbundel (€1.350,00 p.p.). Binnen die bundel is het verblijf + halfpension geraamd op ca. €836,19 p.p., naast ca. €103,81 vervoer en €410,00 golf.
+De historische basisvergelijking van **€1.811,38 p.p.** bestaat uit de vlucht inclusief bagage, golfbagage en de gemarkeerde boekings-/organisatiekosten (€461,38 p.p.), plus de pakketbundel (€1.350,00 p.p.). Binnen die bundel is het verblijf + halfpension geraamd op ca. €836,19 p.p., naast ca. €103,81 vervoer en €410,00 golf.
 
 De onderliggende pagina's bevatten de historische onderbouwingen en de individuele items waar die beschikbaar zijn:
 
