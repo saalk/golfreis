@@ -42,8 +42,6 @@ Buggy's en trolleys zijn persoonlijke kosten en worden niet meegenomen. Persoonl
 
 ## Kostenvergelijking
 
-Dit is uitsluitend de **managementsamenvatting**. De tabel bevat geen individuele transfers, afzonderlijke golfbanen, restaurants of andere reisdetails.
-
 De villa-kolommen zijn opgebouwd door de onderliggende kosten per onderdeel op te tellen. Voor het pakket geldt een andere behandeling: de **€1.350 p.p. verblijf-/pakketprijs bevat al hotel, halfpension, golf en transfers**. De daaronder vermelde bedragen voor vervoer en golf zijn daarom alleen **geschatte interne pakketwaarden** en worden niet nogmaals bij het pakket totaal opgeteld.
 
 | Kostenpost | Villa Marazul 2027 p.p. | Villa Albufeira 78 2027 p.p. | Golftime 2026 p.p. |
