@@ -27,7 +27,7 @@ Vergelijkingssite voor een golftrip voor 8 personen, gepland voor begin oktober 
 
 Iedere kandidaat-reis wordt op dezelfde manier doorgerekend voor **8 personen, 7 nachten en 7 golfrondes**. Golf wordt daarbij gepland op de aankomstdag en niet op de vertrekdag.
 
-De vergelijking bestaat uit zes eenvoudige kostenposten:
+De vergelijking bestaat uit vijf eenvoudige kostenposten:
 
 | Kostenpost | Wat nemen we mee? |
 |---|---|
@@ -35,8 +35,7 @@ De vergelijking bestaat uit zes eenvoudige kostenposten:
 | **Verblijf** | Villa of hotel/package voor 7 nachten |
 | **Vervoer** | Huurauto's/busje, brandstof, parkeren, tol en luchthaven-/golftransfers |
 | **Golf** | 7 golfrondes |
-| **Ontbijt/diner** | Ontbijtboodschappen bij een villa en 7 diners buiten de deur, of inbegrepen hotelmaaltijden |
-| **Drankjes** | Alleen extra drankjes/wijn die aantoonbaar door alle 8 deelnemers gezamenlijk zijn betaald |
+| **Ontbijt, diner & drankjes** | Ontbijtboodschappen bij een villa, 7 diners buiten de deur of inbegrepen hotelmaaltijden, plus alleen extra drankjes/wijn die aantoonbaar door alle 8 deelnemers gezamenlijk zijn betaald |
 
 **Buiten beschouwing:** buggy's en trolleys, omdat dit persoonlijke golfkosten zijn. Ook persoonlijke uitgaven en niet-gedeelde consumpties worden niet in de gezamenlijke vergelijking opgenomen.
 
@@ -68,16 +67,14 @@ Onderstaande tabel is de centrale **villa-versus-package kostenvergelijking**. B
 | Luchthaven ↔ hotel en hotel ↔ golf | € — | in pakket |
 | **Golf** |  | **in pakket** |
 | 7 golfrondes | € — | in pakket |
-| **Ontbijt/diner** | **€2.800,00 / €350,00 p.p.** | **in pakket** |
+| **Ontbijt, diner & drankjes** | **€2.800,00 / €350,00 p.p. + ontbijt** | **€1.070,75 / €133,84 p.p. + in pakket** |
 | Ontbijt | € — | in pakket |
 | Diner - Restaurante Solgamba, 3 gangen + wijn | €2.800,00 / **€350,00 p.p.** | in pakket |
-| **Drankjes** |  | **€1.070,75 / €133,84 p.p.** |
-| Wijn bij eten | € — | €324,00 / **€40,50 p.p.** |
-| Overig | € — | €746,75 / **€93,34 p.p.** |
+| Gezamenlijke extra drankjes/wijn | € — | €1.070,75 / **€133,84 p.p.** |
 | **Pakketreis** |  | **€275,00 / €34,38 p.p.** |
 | Kosten reisorganisatie | € — | €275,00 / **€34,38 p.p.** |
-| **Totaal historische reis** | **€2.520,00 + overige villa-kosten / €315,00 + overige villa-kosten p.p.** | **€14.491,00 / €1.811,38 p.p.** |
-| **Totaal inclusief gezamenlijke drankjes** | **€2.520,00 + overige villa-kosten / €315,00 + overige villa-kosten p.p.** | **€15.561,75 / €1.945,22 p.p.** |
+| **Totaal historische reis** | **€2.800,00 + ontbijt + overige villa-kosten / €350,00 + ontbijt + overige villa-kosten p.p.** | **€14.491,00 / €1.811,38 p.p.** |
+| **Totaal inclusief gezamenlijke drankjes** | **€2.800,00 + ontbijt + overige villa-kosten / €350,00 + ontbijt + overige villa-kosten p.p.** | **€15.561,75 / €1.945,22 p.p.** |
 
 ### Richtprijs diner - Restaurante Solgamba
 
@@ -97,7 +94,7 @@ De historische Golftime-reis kostte **€14.491,00 voor 8 personen**, oftewel **
 
 Deze bedragen tellen samen op tot **€14.491,00**. Bagage wordt hiermee dus niet langer buiten beschouwing gelaten.
 
-Voor **Drankjes** nemen we de gezamenlijke extra drankjes/wijn apart mee. De historische €1.070,75 is opgesplitst in **€324,00 wijn bij eten** en **€746,75 overig**, oftewel respectievelijk **€40,50 en €93,34 per persoon**. Dit bedrag was geen onderdeel van de pakketprijs en wordt daarom als aanvullende gezamenlijke kosten getoond.
+Voor **Ontbijt, diner & drankjes** nemen we de gezamenlijke extra drankjes/wijn apart mee. De historische €1.070,75 is opgesplitst in **€324,00 wijn bij eten** en **€746,75 overig**, oftewel respectievelijk **€40,50 en €93,34 per persoon**. Dit bedrag was geen onderdeel van de pakketprijs en wordt daarom als aanvullende gezamenlijke kosten getoond.
 
 Buggy's, trolleys, persoonlijke uitgaven en niet door alle 8 deelnemers gedeelde consumpties blijven uitgesloten.
 
