@@ -73,13 +73,23 @@ Buggy's en trolleys zijn persoonlijke kosten en worden niet meegenomen. Persoonl
 | **Extra lunch + water** | — | — | + €73,50⁴ |
 | **Basis + alle extra's** | **€1.788,33¹** | **€1.640,99** | **€2.018,72³ ⁴** |
 
-¹ Voor de villa's wordt voor 2027 **€450,00 p.p. inclusief bagage** als vluchtbudget aangehouden. De historische 2024-vlucht wordt op €400,00 p.p. gezet, inclusief vlucht, bagage en golfuitrusting; cabinebagage wordt niet meegerekend. De overige villa-bedragen zijn historische 2024-referenties met voor **Vervoer, Ontbijt & lunch en Diner** een opslag van **15%** voor Villa Marazul 2027. Voor golf is voor 2027 gerekend met dezelfde zeven banen als bij de historische Villa Albufeira 2024; de beschikbare 2027-GA-greenfees zijn €107,00, €83,50, €72,50, €72,50, €68,50, €68,00 en €61,00 p.p., samen **€533,00 p.p.** De historische €442,10 voor ontbijt/boodschappen is opgesplitst in €292,10 ontbijt & lunch en €150,00 drankjes; daarom is €42,00 p.p. ontbijt & lunch en €18,75 p.p. drankjes voor Villa Marazul 2027.
+### Belangrijkste verschillen
 
-² Geschatte interne waarde van het **verblijf + halfpension** binnen de pakketprijs. Berekening: €1.350,00 pakketprijs − €410,00 golf − €103,81 vervoer = ca. €836,19 p.p. Deze waarde is afgeleid uit de beschikbare 2026-gegevens en wordt **niet bovenop de pakketprijs opgeteld**.
+- **Golf:** 2027 €533 p.p. tegenover 2024 €572 p.p. → **€39 goedkoper**. In 2024 waren vooral **Quinta do Lago South + Laranjal (€305 p.p. voor 2 rondes)** de uitschieters.
+- **Vlucht:** 2027 €450 p.p. tegenover 2024 €400 p.p. → **€50 duurder**.
+- **Vervoer:** 2027 €168,02 tegenover 2024 €146,10 → **€21,92 duurder**.
+- **Ontbijt & lunch:** 2027 €42,00 tegenover 2024 €36,51 → **€5,49 duurder**.
+- **Diner:** 2027 €337,81 tegenover 2024 €293,75 → **€44,06 duurder**.
+- **Drankjes:** beide **€18,75 p.p.**
+- **Totaal basis:** 2027 €1.769,58 tegenover 2024 €1.622,24 → **€147,34 duurder**.
 
-³ Inclusief **€34,38 p.p.** aan ticketingfee, reserveringskosten, calamiteitenfonds en SGR. Deze kosten zijn als gemarkeerde aanvulling bij **Vlucht** opgenomen en vormen geen aparte kostencategorie.
+¹ **Villa Marazul 2027:** vluchtbudget €450 p.p. incl. bagage. Vervoer, ontbijt & lunch en diner zijn de 2024-referentie + **15%**. De 7 Golfamore-greenfees zijn samen **€533 p.p.**; de Golfamore-kaart zelf is niet meegerekend. Ontbijt & lunch is gebaseerd op €292,10 historische boodschappen; drankjes op €150,00.
 
-⁴ Voor 7 golfrondes is gerekend met €6,50 per lunchbox + €4,00 water = **€73,50 p.p.** extra.
+² **Golftime 2026:** geschatte interne waarde van verblijf + halfpension: **ca. €836,19 p.p.** (€1.350 pakket − €410 golf − €103,81 vervoer). Dit bedrag zit al in de pakketprijs en wordt niet nogmaals opgeteld.
+
+³ **Golftime 2026:** de vlucht van €461,38 p.p. bevat **€34,38 p.p.** ticketingfee, reserveringskosten, calamiteitenfonds en SGR.
+
+⁴ **Lunch + water:** 7 × (€6,50 lunchbox + €4,00 water) = **€73,50 p.p.** extra.
 
 ### 2027 Stay & Play-referentie Hotel Nuevo Portil
 
