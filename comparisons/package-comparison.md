@@ -35,8 +35,13 @@ Voor de centrale kostenvergelijking nemen we het historische Golftime-voorstel 2
 | Golfbagage 15 kilo – per retour 1 × 8 | €672,00 |
 | **Verblijf** | **€10.800,00** |
 | Verblijf / pakketreis | €10.800,00 |
-| **Vervoer** | **in pakket** |
-| Luchthaven ↔ hotel en hotel ↔ golf | in pakket |
+| **Vervoer** | **€830,50 / €103,81 p.p.** |
+| Bellavista ↔ hotel | €125,00 retour |
+| El Rompido ↔ hotel — 2x | €130,00 retour (€65,00 per keer) |
+| Islantilla ↔ hotel | €125,50 retour |
+| Quinta do Vale ↔ hotel | €220,00 retour |
+| Luchthaven ↔ hotel | €230,00 retour |
+| Nuevo Portil Golf ↔ hotel | €0,00 — golfbaan ligt bij het hotel |
 | **Golf** | **in pakket** |
 | 7 golfrondes | in pakket |
 | **Ontbijt/diner** | **in pakket** |
@@ -118,7 +123,7 @@ Voor de historische pakketreis is een verdedigbare werkverdeling:
 - **kamer + ontbijt:** €1.960–€2.520;
 - **halfpension:** €1.456;
 - **golfwaarde:** circa €3.280–€3.592;
-- **overige pakketcomponenten binnen de €10.800:** circa €3.232–€4.104, waaronder in ieder geval de luchthaven- en golftransfers en de bundelmarge/contractprijs.
+- **overige pakketcomponenten binnen de €10.800:** circa €2.401,50–€3.273,50, na aftrek van de bekende €830,50 aan vervoer. Dit restant omvat onder meer de bundel-/contractprijs en andere niet afzonderlijk uitgesplitste pakketcomponenten.
 
 De €10.800 blijft voor de hoofdvergelijking de **werkelijke historische pakketprijs**. De bovenstaande bedragen zijn uitsluitend bedoeld om inzicht te krijgen in de onderliggende kosten.
 
@@ -159,3 +164,20 @@ Voor een toekomstige vergelijking wordt het historische voorstel gebruikt als re
 | Hotel ↔ golf | Inbegrepen |
 
 [← Vergelijkingen](index.md)
+
+
+### Werkelijke vervoerskosten van de 2026-pakketreis, gebruikt als 2027 referentie
+
+Voor de 7 golfrondes en luchthavenvervoer zijn de werkelijk opgegeven retourprijzen als volgt:
+
+| Transfer | Retourprijs |
+|---|---:|
+| Bellavista | €125,00 |
+| El Rompido — 2 keer | €130,00 |
+| Islantilla | €125,50 |
+| Quinta do Vale | €220,00 |
+| Luchthaven ↔ hotel | €230,00 |
+| Nuevo Portil Golf | €0,00 — naast het hotel |
+| **Totaal vervoer** | **€830,50 / €103,81 p.p.** |
+
+Alle genoemde transferprijzen zijn **retourprijzen**. De €830,50 is daarmee de bekende totale vervoerscomponent voor de pakketreis; dit bedrag wordt voortaan gebruikt in de vergelijking in plaats van “in pakket”.
