@@ -34,7 +34,7 @@ De kostenvergelijking gebruikt steeds dezelfde groepen en onderliggende items:
 | **Vervoer** | Luchthavenvervoer en vervoer naar golfbanen |
 | **Golf** | 7 golfrondes |
 | **Ontbijt & lunch** | Ontbijt en lunch |
-| **Diner** | Diner, inclusief wijn bij het diner wanneer die gezamenlijk is afgerekend |
+| **Diner** | Diner; wijn wordt apart vermeld wanneer deze niet duidelijk onderdeel is van het diner |
 | **Drankjes** | Gezamenlijke extra drankjes buiten het diner |
 
 Buggy's en trolleys zijn persoonlijke kosten en worden niet meegenomen. Persoonlijke uitgaven en niet-gedeelde consumpties blijven eveneens buiten de gezamenlijke vergelijking.
@@ -52,7 +52,7 @@ Voor het pakket geldt een andere behandeling: de **€1.350 p.p. verblijf-/pakke
 | **Vervoer** | €146,10¹ | €146,10¹ | ca. €103,81² |
 | **Golf** | €563,00¹ | €563,00¹ | ca. €410,00² |
 | **Ontbijt & lunch** | €36,51¹ | €36,51¹ | In pakket: ontbijt² |
-| **Diner inclusief wijn** | €293,75¹ | €293,75¹ | In pakket² |
+| **Diner** | €293,75¹ | €293,75¹ | In pakket² |
 | **Kosten in basisvergelijking** | **€1.716,11¹** | **€1.905,24¹** | **€1.845,76³** |
 |  |  |  |  |
 | **Extra wijn bij eten** | inbegrepen in diner | inbegrepen in diner | + €40,50 |
@@ -68,7 +68,7 @@ Voor het pakket geldt een andere behandeling: de **€1.350 p.p. verblijf-/pakke
 
 ⁴ Voor 7 golfrondes is gerekend met €6,50 per lunchbox + €4,00 water = €10,50 per ronde, dus **€73,50 p.p.** extra.
 
-Bij de historische 2024-villa zat de wijn al in de dinerbedragen. De zeven diners bedroegen samen €2.350,00 (€293,75 p.p.) en worden daarom volledig als **Diner inclusief wijn** opgenomen. Er wordt geen extra wijnbedrag voor de villa toegevoegd.
+Bij de historische 2024-villa zat de wijn al in de dinerbedragen. De zeven diners bedroegen samen €2.350,00 (€293,75 p.p.) **inclusief wijn**. Er is daarom geen afzonderlijk wijnbedrag voor de villa toegevoegd.
 
 Bij het pakket is de wijn die gezamenlijk bij het eten is afgerekend (€40,50 p.p.) wél een extra kostenpost. De overige gezamenlijke drankjes (€93,34 p.p.) staan eveneens apart. De lunchbox en het water zijn bij het pakket geen onderdeel van de pakketprijs en zijn daarom als extra lunchkosten opgenomen.
 
