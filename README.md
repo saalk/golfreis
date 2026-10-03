@@ -68,9 +68,9 @@ Onderstaande tabel is de centrale **villa-versus-package kostenvergelijking**. B
 | Luchthaven ↔ hotel en hotel ↔ golf | € — | in pakket |
 | **Golf** |  | **in pakket** |
 | 7 golfrondes | € — | in pakket |
-| **Ontbijt/diner** | **€2.520,00 / €315,00 p.p.** | **in pakket** |
+| **Ontbijt/diner** | **€2.800,00 / €350,00 p.p.** | **in pakket** |
 | Ontbijt | € — | in pakket |
-| Diner – Restaurante Solgamba, 3 gangen + ½ fles wijn p.p. | €2.520,00 / **€315,00 p.p.** | in pakket |
+| Diner - Restaurante Solgamba, 3 gangen + wijn | €2.800,00 / **€350,00 p.p.** | in pakket |
 | **Drankjes** |  | **€1.070,75 / €133,84 p.p.** |
 | Wijn bij eten | € — | €324,00 / **€40,50 p.p.** |
 | Overig | € — | €746,75 / **€93,34 p.p.** |
@@ -79,11 +79,11 @@ Onderstaande tabel is de centrale **villa-versus-package kostenvergelijking**. B
 | **Totaal historische reis** | **€2.520,00 + overige villa-kosten / €315,00 + overige villa-kosten p.p.** | **€14.491,00 / €1.811,38 p.p.** |
 | **Totaal inclusief gezamenlijke drankjes** | **€2.520,00 + overige villa-kosten / €315,00 + overige villa-kosten p.p.** | **€15.561,75 / €1.945,22 p.p.** |
 
-### Richtprijs diner — Restaurante Solgamba
+### Richtprijs diner - Restaurante Solgamba
 
-Voor de villa-kostenvergelijking gebruiken we als richtprijs **€45,00 per persoon per diner** bij Restaurante Solgamba. Dit is gebaseerd op een realistische combinatie van een voorgerecht, hoofdgerecht, dessert en ongeveer een halve fles wijn per persoon. De actuele menukaart laat voorgerechten grofweg rond €4–€9 zien, hoofdgerechten rond €12–€25 en desserts rond €4,50–€6.
+Voor de villa-kostenvergelijking gebruiken we als richtprijs **€50,00 per persoon per diner** bij Restaurante Solgamba. Dit is een richtprijs voor een diner inclusief drank.
 
-Daarmee rekenen we voor **8 personen €360 per diner** en voor **7 diners €2.520**. Dit is nadrukkelijk een **richtprijs**, geen bevestigde groepsprijs. De gepubliceerde menukaart vermeldt geen vaste prijs voor een halve fles wijn; daarom is voor wijn een redelijke schatting opgenomen.
+Daarmee rekenen we voor **8 personen €400 per diner** en voor **7 diners €2.800**. Dit is nadrukkelijk een **richtprijs**, geen bevestigde groepsprijs.
 
 ### Historische Golftime 2026
 
