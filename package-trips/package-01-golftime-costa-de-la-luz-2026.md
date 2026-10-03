@@ -18,6 +18,19 @@ Historische package-reis van **24 september – 1 oktober 2026** voor **8 person
 | Golf op vertrekdag | Nee |
 | Personen | 8 |
 
+## 2027 Stay & Play-referentie — Hotel Nuevo Portil
+
+Voor een mogelijke pakketreis in 2027 is een Stay & Play-arrangement bij **Hotel Nuevo Portil** als aanvullende begrotingsreferentie opgenomen. De referentie geldt voor **7 nachten, 8 personen, 4 tweepersoonskamers en halfpension**, met **2 greenfees per persoon** inbegrepen.
+
+| Onderdeel | Richtprijs per eenheid | Totaal groep | p.p. |
+|---|---:|---:|---:|
+| Stay & Play overnachting + ontbijt | ca. €70–€90 per kamer/nacht | ca. €1.960–€2.520 | ca. €245–€315 |
+| Toeslag halfpension | ca. €26 per persoon/nacht | ca. €1.456 | €182 |
+| 2 greenfees p.p. | ca. €55 per greenfee | ca. €880 | ca. €110 |
+| **Stay & Play totaal** | | **ca. €4.296–€4.856** | **ca. €537–€607** |
+
+De greenfees zijn onderdeel van het Stay & Play-arrangement en worden dus niet nogmaals apart opgeteld. Dit is een **geschatte 2027-referentie**, geen betaalde 2027-pakketprijs. Voor de standaardvergelijking met **7 golfrondes** zijn nog 5 extra greenfees buiten dit arrangement nodig; daarvoor is hier nog geen bedrag ingevuld.
+
 ## Vlucht — historische 2026
 
 | Kostenpost | Totaal | p.p. |
@@ -29,7 +42,7 @@ Historische package-reis van **24 september – 1 oktober 2026** voor **8 person
 | Gemarkeerde boekings-/organisatiekosten¹ | €275,00 | €34,38 |
 | **Vlucht totaal inclusief gemarkeerde kosten** | **€3.691,00** | **€461,38** |
 
-¹ Inclusief ticketingfee €200, reserveringskosten €32,50, calamiteitenfonds €2,50 en SGR €40. Deze kosten worden bewust bij **Vlucht** opgenomen en niet als aparte kostencategorie weergegeven.
+¹ Inclusief ticketingfee €200, reserveringskosten €32,50, calamiteitenfonds €2,50 en SGR. Deze kosten worden bewust bij **Vlucht** opgenomen en niet als aparte kostencategorie weergegeven.
 
 ## Verblijf — historische 2026
 
