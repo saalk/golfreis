@@ -4,15 +4,17 @@
 
 Eenvoudige vergelijking van de greenfee **per persoon**. Alleen de greenfee is opgenomen; buggy, trolley, reistijd en andere persoonlijke of praktische kosten staan hier niet in.
 
+Bij de betaalde greenfees is nu expliciet aangegeven wanneer de prijs **inclusief Golfamore** of **inclusief Golfhaftet-korting** was. De Golfamore/Golfhaftet-kaarten kostten samen **€60,00 per persoon** voor alle gebruikte kortingen; dit is een eenmalige kaartkostenpost en staat dus niet in de greenfeeprijs per ronde.
+
 | Golfbaan | 2023 p.p. | 2024 p.p. | Golfamore p.p. | Golfhaftet p.p. | 2026 p.p. | 2027 p.p. |
 |---|---:|---:|---:|---:|---:|---:|
-| Pine Cliffs Golf Course | €34,00 | €36,00 | €33,00 indicatie | — | — | €66 indicatie |
+| Pine Cliffs Golf Course | €34,00 | **€36,00 incl. Golfamore** | €33,00 indicatie | — | — | €66 indicatie |
 | Quinta do Lago South | — | €152,50 | — | — | — | €264 indicatie |
 | Quinta do Lago Laranjal | — | €152,50 | — | — | — | — |
-| Pinheiros Altos Campo de Golfe | €74,00 | €74,00 | €41,50 indicatie | — | — | €83 indicatie |
-| Castro Marim | — | €52,50 | €29,50 indicatie | — | — | €59 indicatie |
-| NAU Salgados | — | €52,50 | €69,50 indicatie | — | — | €139 indicatie |
-| Boavista Golf | — | €52,00 | €60,00 indicatie | — | — | €120 indicatie |
+| Pinheiros Altos Campo de Golfe | €74,00 | **€74,00 incl. Golfamore** | €41,50 indicatie | — | — | €83 indicatie |
+| Castro Marim | — | **€52,50 incl. Golfamore** | €29,50 indicatie | — | — | €59 indicatie |
+| NAU Salgados | — | **€52,50 incl. Golfamore** | €69,50 indicatie | — | — | €139 indicatie |
+| Boavista Golf | — | **€52,00 incl. Golfamore** | €60,00 indicatie | — | — | €120 indicatie |
 | Villa Sol | €80,00 | — | — | — | — | — |
 | Alamos | €66,00 | — | — | — | — | — |
 | Vale do Lobo Ocean | €113,00 | — | — | — | — | — |
@@ -55,9 +57,10 @@ Eenvoudige vergelijking van de greenfee **per persoon**. Alleen de greenfee is o
 
 ### Notities
 
+- **Golfamore / Golfhaftet-kaart:** de totale kosten waren **€60,00 per persoon** voor de gebruikte kortingskaarten en alle daaruit voortgekomen kortingen. Deze €60 is een eenmalige kaartkostenpost en wordt niet bij iedere greenfee opgeteld.
+- **2024 daadwerkelijk met Golfamore gespeeld:** Pine Cliffs €36,00, Pinheiros Altos €74,00, Castro Marim €52,50, NAU Salgados €52,50 en Boavista €52,00. De genoemde 2024-prijzen zijn dus de **daadwerkelijk betaalde greenfees inclusief Golfamore-korting**.
+- **Golfhaftet:** waar geen afzonderlijke historische baan is vastgelegd als gespeeld met Golfhaftet, blijft de kolom leeg. Er wordt geen gebruik van Golfhaftet verondersteld zonder historische onderbouwing.
 - **Golfamore p.p.** bevat een extrapolatie voor 2027 op basis van de banen die in 2024 daadwerkelijk met Golfamore zijn gespeeld. Daarbij is de bekende 2-voor-1-korting als uitgangspunt gebruikt.
-- **Golfhaftet p.p.** blijft leeg waar in de beschikbare historische gegevens niet is vastgelegd dat de baan met Golfhaftet is gespeeld. Er wordt dus geen kaartgebruik verondersteld.
-- **2024 Golfamore:** Pine Cliffs €36, Pinheiros Altos €74, Castro Marim €52,50, NAU Salgados €52,50 en Boavista €52,00.
 - **2023:** Pine Cliffs, Pinheiros Altos, Villa Sol, Alamos en Palmares zijn met een kortingskaart gespeeld. Het specifieke kaarttype is voor deze rondes niet vastgelegd en wordt daarom niet als Golfamore of Golfhaftet ingevuld.
 - **2024 zonder Golfamore:** Quinta do Lago South en Laranjal zijn ieder op €152,50 p.p. gezet op basis van het gezamenlijke bedrag van €2.440 voor 8 personen.
 - **2026:** bedragen zijn historische referenties/reconstructies waar geen afzonderlijke betaalde greenfee beschikbaar is.
