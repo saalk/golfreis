@@ -45,6 +45,7 @@ Daardoor vergelijken we geen pakket met bijvoorbeeld 5 of 6 rondes met een villa
 | Ontbijt: boodschappen | € — | Inbegrepen / € — |
 | Diner: restaurants | € — | Inbegrepen / € — |
 | Golf: **7 rondes** | € — | Inbegrepen / € — |
+| **Drinken: extra drankjes/wijn** | € — | € — |
 | Huur 6- of 8-persoons busje | € — | € — / inbegrepen |
 | Huur 4-persoons auto | € — | € — / inbegrepen |
 | Brandstof / parkeren / tol | € — | € — |
@@ -74,6 +75,7 @@ De eenpersoonstoeslag wordt **apart weergegeven** en is geen onderdeel van de ba
 - ontbijtboodschappen voor 8 personen;
 - 7 avonden uit eten voor 8 personen;
 - 7 golfrondes;
+- extra drankjes en wijn als aparte categorie;
 - golf op de aankomstdag;
 - geen golf op de vertrekdag;
 - vlucht voor 8 personen;
@@ -102,6 +104,8 @@ De eenpersoonstoeslag wordt **apart weergegeven** en is geen onderdeel van de ba
 | Vrijheid | Zelf bepalen | Afhankelijk van pakket |
 | Organisatie | Zelf organiseren | Reisaanbieder organiseert een deel |
 | Flexibiliteit | Zelf bepalen | Afhankelijk van voorwaarden |
+
+**Persoonlijke kosten buiten beschouwing:** eten buiten de inbegrepen maaltijden, buggy's en trolleys worden niet meegenomen. Alleen gezamenlijke drank-/wijnuitgaven die aantoonbaar door alle 8 deelnemers zijn gedeeld, komen in de categorie **Drinken**.
 
 **Geen totaalscore of winnaar:** we vergelijken de werkelijke inhoud en totale kosten per persoon.
 
