@@ -59,7 +59,7 @@ Onderstaande tabel is de centrale **villa-versus-package kostenvergelijking**. B
 | Kostenpost | Villa | Historische Golftime 2026 |
 |---|---:|---:|
 | **Vlucht** |  | **€3.416,00 / €427,00 p.p.** |
-| Vlucht | € — | €1.896,00 / **€237,00 p.p.**** |
+| Vlucht | € — | €1.896,00 / **€237,00 p.p.** |
 | Bagage 20 kilo – per retour 1 × 8 | € — | €848,00 / **€106,00 p.p.** |
 | Golfbagage 15 kilo – per retour 1 × 8 | € — | €672,00 / **€84,00 p.p.** |
 | **Verblijf** |  | **€10.800,00 / €1.350,00 p.p.** |
