@@ -49,23 +49,22 @@
 | Portugal of Spanje | Nog te controleren |
 | Begin oktober 2027 | Gevonden: 2–9 oktober 2027 |
 
-## Kosten voor de uiteindelijke vergelijking
+## Historische kostenbenchmark voor de vergelijking
 
-Voor deze villa rekenen we straks mee:
+De werkelijke kosten van deze villa voor 2–9 oktober 2027 zijn nog niet gecontroleerd. Om de Marazul-kandidaat wel al in het centrale overzicht te kunnen opnemen, gebruiken we voorlopig de **werkelijke kosten van de historische villa-golfreis Algarve 2024** als kostenbenchmark. Dit zijn dus **geen Marazul-prijzen**.
 
-- villa voor 7 nachten;
-- vlucht voor 8 personen;
-- ontbijtboodschappen voor 8 personen;
-- 7 avonden uit eten voor 8 personen;
-- 6 golfrondes;
-- 6- of 8-persoons busje;
-- 4-persoons auto;
-- brandstof, parkeren en eventuele tol;
-- luchthaven ↔ villa;
-- villa ↔ golfbanen;
-- eventuele bagage;
-- toeristenbelasting;
-- buggy/trolley en overige golfkosten.
+| Kostenpost | Historische 2024 benchmark | p.p. |
+|---|---:|---:|
+| Vlucht | €1.752,00 | €219,00 |
+| Villa + toeristenbelasting | €1.391,00 | €173,88 |
+| Vervoer | €1.168,80 | €146,10 |
+| Golf | €4.504,00 | €563,00 |
+| Eten | €2.792,10 | €349,01 |
+| **Totaal benchmark** | **€11.607,90** | **€1.450,99** |
+
+Voor de toekomstige Marazul-berekening worden deze bedragen als **historische referentie** gekopieerd totdat de daadwerkelijke villa-, vlucht-, vervoer-, golf- en voedingskosten voor oktober 2027 zijn gecontroleerd. Zie ook [Historische villa 2024](villa-historisch-2024-algarve.md).
+
+**Uitgesloten:** borg, buggy's, trolleys en persoonlijke golfbaanconsumpties.
 
 **Status: te onderzoeken.**
 
