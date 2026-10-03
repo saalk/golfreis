@@ -32,7 +32,7 @@ Elke villa krijgt minimaal:
 
 | Villa | Periode | Gasten | Status |
 |---|---|---:|---|
-| [Villa 01 — Airbnb 30066458](villa-01-airbnb-30066458.md) | 2–9 oktober 2027 | 8 | Te onderzoeken |
+| [Villa Marazul — Airbnb 30066458](villa-01-airbnb-30066458.md) | 2–9 oktober 2027 | 8 | Te onderzoeken — historische kostenbenchmark ingevuld |\n| [Historische villa 2024 — Algarve](villa-historisch-2024-algarve.md) | 2024 | 8 | Historische referentie |
 
 Nieuwe villa's krijgen een eigen pagina in deze map.
 
