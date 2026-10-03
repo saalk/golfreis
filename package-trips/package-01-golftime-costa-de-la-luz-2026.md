@@ -1,99 +1,103 @@
 # Package 01 — Golftime Costa de la Luz 2026
 
-## Bron / reisvoorstel
+Historische package-reis van **24 september – 1 oktober 2026** voor **8 personen**. Deze pagina bevat alleen de globale reisgegevens en de kostenonderbouwing.
 
-Reisaanbieder: **Golftime**  
-Reisvoorstelnummer: **024333**  
-Periode: **24 september 2026 – 1 oktober 2026**  
-Reizigers: **8**
+## Verblijf
 
-Dit is de daadwerkelijk aangeboden/gebruikte pakketreis van de groep en wordt als historische referentie opgenomen.
-
-## Samenvatting
-
-| Onderdeel | Gegevens |
+| Item | Waarde |
 |---|---|
 | Aanbieder | Golftime |
 | Bestemming | Costa de la Luz, Spanje |
 | Hotel | Hotel Nuevo Portil Golf **** |
 | Verblijf | 7 nachten |
-| Kamerbasis voor vergelijking | **2-persoonskamer** |
-| Werkelijke kamerindeling 2026 | 3× 2-persoonskamer + 2× 1-persoonskamer |
-| Eenpersoonskamer | Werkelijke toeslag aanwezig; bedrag niet afzonderlijk uit het aangeleverde voorstel af te leiden |
+| Kamerbasis | 2-persoonskamer |
 | Ontbijt | Inbegrepen via halfpension |
 | Diner | Inbegrepen via halfpension |
-| Golf werkelijk | 7 rondes |
-| Golf voor normalisatie | **7 rondes** |
-| Golf op aankomstdag | **Ja** |
-| Golf op vertrekdag | **Nee** |
-| Vlucht | Transavia Rotterdam ↔ Faro |
-| Luchthaven | Faro |
-| Luchthaven ↔ hotel | Transfer inbegrepen |
-| Hotel ↔ golf | Transfers inbegrepen |
-| Busje/auto | Niet nodig in pakket |
+| Golf | 7 rondes |
+| Golf op aankomstdag | Ja |
+| Golf op vertrekdag | Nee |
 | Personen | 8 |
 
-## Genormaliseerde golfopzet
+## Vlucht — historische 2026
 
-Deze package voldoet al aan de nieuwe golfnormalisatie:
+| Kostenpost | Totaal | p.p. |
+|---|---:|---:|
+| Vlucht | €1.896,00 | €237,00 |
+| Bagage 20 kilo | €848,00 | €106,00 |
+| Golfbagage 15 kilo | €672,00 | €84,00 |
+| **Vlucht totaal** | **€3.416,00** | **€427,00** |
 
-| Dag | Activiteit |
-|---|---|
-| Aankomstdag 24-09-2026 | **Golf: Nuevo Portil, 13:30** |
-| 25-09 | Golf: El Rompido North |
-| 26-09 | Golf: Quinta do Vale |
-| 27-09 | Golf: Bellavista |
-| 28-09 | Golf: El Rompido South |
-| 29-09 | Golf: Islantilla GC |
-| 30-09 | Golf: Nuevo Portil |
-| Vertrekdag 01-10 | **Geen golf** |
+## Verblijf — historische 2026
 
-**Totaal: 7 golfrondes.**
+| Kostenpost | Totaal | p.p. |
+|---|---:|---:|
+| Verblijf / pakketprijs | **€10.800,00** | **€1.350,00** |
 
-## Extra categorie — Drinken
+De €10.800 is een bundelprijs; de exacte interne verdeling over hotel, halfpension, golf en transfers staat niet afzonderlijk op de factuur.
 
-Voor de kostenvergelijking nemen we alleen **gezamenlijke extra drankjes en wijn** mee wanneer aantoonbaar **alle 8 deelnemers** aan de uitgave deelnamen.
+## Vervoer — historische 2026
 
-Uit de aangeleverde verrekening zijn de volgende drank-/wijnuitgaven geschikt:
+| Kostenpost | Totaal | p.p. |
+|---|---:|---:|
+| **Vervoer totaal** | **€830,50** | **€103,81** |
+| Bellavista ↔ hotel | €125,00 | |
+| El Rompido ↔ hotel — 2x | €130,00 | |
+| Islantilla ↔ hotel | €125,50 | |
+| Quinta do Vale ↔ hotel | €220,00 | |
+| Luchthaven ↔ hotel | €230,00 | |
+| Nuevo Portil Golf ↔ hotel | €0,00 | |
 
-| Datum | Omschrijving | Bedrag |
-|---|---|---:|
-| 24-09 | Wijn diner | €91,00 |
-| 25-09 | Borrel El Rompido | €45,00 |
-| 25-09 | Happy hour | €91,50 |
-| 26-09 | Drankjes diner | €85,00 |
-| 26-09 | Drankjes Portugal | €90,00 |
-| 27-09 | Borrel Bella Vista | €122,20 |
-| 27-09 | Drankjes diner | €104,50 |
-| 28-09 | Wijn bij diner | €106,50 |
-| 28-09 | Drankjes El Rompido | €90,00 |
-| 29-09 | Wijn bij eten dinsdag | €126,50 |
-| 29-09 | Drankjes Islantilla | €47,50 |
-| 30-09 | Bar avond | €25,55 |
-| 30-09 | Drankjes kroketjes | — |
+Alle genoemde transferprijzen zijn retourprijzen.
 
-De laatste post is **niet meegenomen**, omdat deze drankjes gecombineerd zijn met kroketjes en uit de aangeleverde verrekening niet afzonderlijk kan worden vastgesteld welk deel drinken is.
+## Golf — historische 2026
 
-**Totaal aantoonbaar gezamenlijke drank/wijn: €1.070,75**  
-**Per persoon: €133,84**
+| Kostenpost | Waarde |
+|---|---:|
+| **7 golfrondes** | **In pakket** |
 
-### Niet meegenomen
+De zeven rondes waren Nuevo Portil, El Rompido North, Quinta do Vale, Bellavista, El Rompido South, Islantilla en opnieuw Nuevo Portil.
 
-- eten/lunches/maaltijden buiten het pakket: persoonlijk;
-- buggy's: persoonlijk;
-- trolleys: persoonlijk;
-- drankjes die niet door alle 8 deelnemers zijn gedeeld;
-- fooi voor chauffeur/bus: geen drankcategorie;
-- persoonlijke aankopen.
+## Ontbijt, diner & drankjes — historische 2026
 
-Deze regel geldt voortaan voor alle package- en villavergelijkingen.
+| Kostenpost | Waarde |
+|---|---:|
+| Ontbijt | In pakket |
+| Diner | In pakket |
 
-## Prijsregistratie
+### Extra categorie — Drinken
 
-Het aangeleverde reisvoorstel vermeldt een totaal van **€14.491** voor 8 personen, inclusief de genoemde vlucht-, bagage-, golfbagage-, ticketing-, reserverings-, calamiteitenfonds- en SGR-kosten.
+Alleen gezamenlijke extra drankjes en wijn van alle 8 deelnemers worden meegenomen.
 
-Voor toekomstige packagevergelijkingen registreren we daarnaast altijd de **basisprijs op 2-persoonskamers** en de **eenpersoonskamer-toeslag afzonderlijk**.
+| Kostenpost | Totaal | p.p. |
+|---|---:|---:|
+| **Gezamenlijke extra drankjes/wijn** | **€1.070,75** | **€133,84** |
+| Wijn bij eten | €324,00 | €40,50 |
+| Overige drankjes | €746,75 | €93,34 |
 
-De historische totaalprijs van 2026 blijft hier ongewijzigd als feitelijke referentie; we gebruiken hem niet als 2027-basisprijs.
+De gecombineerde post “Drankjes kroketjes” is niet meegenomen omdat het drankdeel niet afzonderlijk kon worden vastgesteld.
 
-[← Package-reizen](index.md) · [← Villa versus package](../comparisons/villa-vs-package.md)
+## Overige / organisatie — historische 2026
+
+| Kostenpost | Totaal | p.p. |
+|---|---:|---:|
+| Ticketingfee | €200,00 | €25,00 |
+| Reserveringskosten | €32,50 | €4,06 |
+| Calamiteitenfonds | €2,50 | €0,31 |
+| SGR-bijdrage | €40,00 | €5,00 |
+| **Overige / organisatie totaal** | **€275,00** | **€34,38** |
+
+## Historisch totaal
+
+| Kostenpost | Totaal | p.p. |
+|---|---:|---:|
+| Vlucht | €3.416,00 | €427,00 |
+| Verblijf | €10.800,00 | €1.350,00 |
+| Vervoer | €830,50 | €103,81 |
+| Golf | In pakket | — |
+| Ontbijt, diner & drankjes | In pakket + €1.070,75 drank | €133,84 drank |
+| Overige / organisatie | €275,00 | €34,38 |
+| **Historische pakketprijs** | **€14.491,00** | **€1.811,38** |
+
+De €1.070,75 gedeelde drankkosten zijn aanvullende historische kosten en zijn niet inbegrepen in de pakketprijs van €14.491,00.
+
+[← Georganiseerde golfreizen](index.md)
