@@ -70,22 +70,30 @@ De vluchtprijs van **€438,00 p.p.** was inclusief vlucht, bagage, golfuitrusti
 
 Zie [Golf](../golf/index.md) voor de centrale golfvergelijking.
 
-## Ontbijt, diner & drankjes — historische 2024
+## Ontbijt & lunch en drankjes — historische 2024
+
+De oorspronkelijke post **€442,10 ontbijt / boodschappen** bestond uit ontbijt en lunch plus drankjes. De drankjes zijn geschat op **€150,00**; het resterende bedrag is ontbijt en lunch.
 
 | Item | Totaal | p.p. |
 |---|---:|---:|
-| Ontbijt / boodschappen | €442,10 | €55,26 |
-| 7 diners | €2.350,00 | €293,75 |
-| **Eten totaal** | **€2.792,10** | **€349,01** |
+| Ontbijt & lunch | €292,10 | €36,51 |
+| Drankjes | €150,00 | €18,75 |
+| **Ontbijt & lunch + drankjes** | **€442,10** | **€55,26** |
 
-### Extra categorie — Drinken
+## Diner — historische 2024
 
-Alleen extra drankjes en wijn die voor alle 8 deelnemers gezamenlijk zijn betaald worden meegenomen.
+De wijn bij het eten zat al in de dinerbedragen. Daarom wordt voor de villa geen aparte extra wijnpost toegevoegd.
 
-| Item | Totaal | p.p. |
-|---|---:|---:|
-| Gezamenlijke extra drankjes/wijn | **€1.070,75**¹ | **€133,84**¹ |
-
-¹ Dit is de historische gezamenlijke drankreferentie van de package-reis; de villa-golfreis heeft hiervoor geen afzonderlijke betrouwbare registratie. Het bedrag is daarom niet opgeteld bij de €2.792,10 historische villa-voedingskosten.
+| Diner | Totaal |
+|---|---:|
+| Diner 1 Solgamba | €270,00 |
+| Diner 2 S. Martino | €370,00 |
+| Diner 3 Tasca do Viegas | €350,00 |
+| Diner 4 Cabana Fresca | €425,00 |
+| Diner 5 Pizza's (bezorgd) | €100,00 |
+| Diner 6 Copos & Petiscos | €370,00 |
+| Diner 7 Cabana Fresca | €465,00 |
+| **7 diners inclusief wijn** | **€2.350,00** |
+| **p.p.** | **€293,75** |
 
 [← Villa's](index.md)
