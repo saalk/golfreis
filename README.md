@@ -70,6 +70,19 @@ Voor de villa's wordt voor de **2027-vlucht €450,00 p.p. inclusief bagage** aa
 
 ⁴ Voor 7 golfrondes is gerekend met €6,50 per lunchbox + €4,00 water = €10,50 per ronde, dus **€73,50 p.p.** extra.
 
+### 2027 Stay & Play-referentie Hotel Nuevo Portil
+
+Voor 2027 is ook een **geschatte Stay & Play-opbouw** vastgelegd. Deze is gebaseerd op 7 nachten, 8 personen, 4 tweepersoonskamers, halfpension en **2 greenfees per persoon**. De greenfees zijn daarmee direct onderdeel van het arrangement en worden niet nogmaals apart bij het arrangement opgeteld.
+
+| Onderdeel | Richtprijs | Groep 8 personen | p.p. |
+|---|---:|---:|---:|
+| Stay & Play overnachting + ontbijt | ca. €70–€90 per kamer/nacht | ca. €1.960–€2.520 | ca. €245–€315 |
+| Toeslag halfpension | ca. €26 per persoon/nacht | ca. €1.456 | €182 |
+| 2 greenfees p.p. | ca. €55 per greenfee | ca. €880 | ca. €110 |
+| **Stay & Play totaal** | | **ca. €4.296–€4.856** | **ca. €537–€607** |
+
+Dit is een **2027 begrotingsreferentie**, geen betaalde 2027-pakketprijs. De €4.296–€4.856 omvat dus verblijf, halfpension en 2 greenfees p.p.; voor een vergelijking met onze standaard van 7 golfrondes moeten de overige 5 rondes nog afzonderlijk worden gewaardeerd. De historische betaalde pakkettotalen van 2026 blijven ongewijzigd.
+
 Bij de historische 2024-villa zat de wijn al in de dinerbedragen. De zeven diners bedroegen samen €2.350,00 (€293,75 p.p.) **inclusief wijn**. Er is daarom geen afzonderlijk wijnbedrag voor de villa toegevoegd.
 
 Bij het pakket is de wijn die gezamenlijk bij het eten is afgerekend (€40,50 p.p.) wél een extra kostenpost. De overige gezamenlijke drankjes (€93,34 p.p.) staan eveneens apart. De lunchbox en het water zijn bij het pakket geen onderdeel van de pakketprijs en zijn daarom als extra lunchkosten opgenomen.
