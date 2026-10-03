@@ -32,12 +32,12 @@ De overige kosten worden centraal op [Villa's](index.md) bijgehouden:
 | Kostenpost | Totaal | p.p. |
 |---|---:|---:|
 | Vlucht | centrale 2027-referentie | €450,00 |
-| Vervoer | €1.168,80¹ | €146,10¹ |
-| Golf | €4.504,00¹ | €563,00¹ |
-| Ontbijt & lunch | €292,10¹ | €36,51¹ |
-| Diner inclusief wijn | €2.350,00¹ | €293,75¹ |
+| Vervoer | €1.344,12¹ | €168,02¹ |
+| Golf | €8.640,00¹ | €1.080,00¹ |
+| Ontbijt & lunch | €336,00¹ | €42,00¹ |
+| Diner inclusief wijn | €2.702,50¹ | €337,81¹ |
 | Drankjes | €150,00¹ | €18,75¹ |
 
-¹ Historische 2024-referentie, nog niet gecontroleerd voor 2027. De €150,00 drankjes is een schatting binnen de historische boodschappenpost.
+¹ Voor Villa Marazul 2027 zijn vervoer, ontbijt & lunch en diner met **15%** verhoogd ten opzichte van de historische Villa Albufeira 78 2024-basis. Golf 2027 gebruikt de zeven Albufeira-banen uit de historische reis.
 
 [← Villa's](index.md)
