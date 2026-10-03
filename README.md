@@ -19,7 +19,7 @@ Vergelijkingssite voor een golftrip voor 8 personen, gepland voor begin oktober 
 | [GUARDRAILS](GUARDRAILS.md) | Uitgangspunten en vergelijkingscriteria |
 | [Villa's](villas/index.md) | Villa's en hun kenmerken |
 | [Golf](golf/index.md) | Golfbanen en golfmogelijkheden |
-| [Vergelijking villa's](comparisons/villa-comparison.md) | Centrale vergelijking van villa's |
+| [Villa's](villas/index.md) | Managementsamenvatting en centrale vergelijking van villa's |
 | [Packages](package-trips/index.md) | Georganiseerde golfreizen en pakketten |
 | [Package vergelijking](comparisons/package-comparison.md) | Vergelijking van georganiseerde golfreizen |
 
