@@ -45,30 +45,30 @@ De kostenvergelijking toont eerst de bedragen die al in de pakketprijs zitten en
 
 Voor het pakket geldt een andere behandeling: de **€1.350 p.p. pakketbundel bevat hotel, halfpension, golf en transfers**. Voor de vergelijking wordt het deel verblijf + halfpension geraamd op ca. **€836,19 p.p.** De daaronder vermelde bedragen voor vervoer en golf zijn alleen **geschatte interne pakketwaarden** en worden niet nogmaals bij het pakket totaal opgeteld.
 
-Voor de villa's wordt voor de **2027-vlucht €450,00 p.p. inclusief bagage** aangehouden als begrotingsbedrag. Dit is een aanname voor 2027 en geen geboekte prijs.
+Voor de villa's wordt voor de **2027-vlucht €450,00 p.p. inclusief bagage** aangehouden als begrotingsbedrag. Dit is een aanname voor 2027 en geen geboekte prijs. Voor **golf 2027** wordt nu gerekend met dezelfde zeven banen als in de historische 2026-reconstructie: **Nuevo Portil, El Rompido North, Quinta do Vale, Bellavista, El Rompido South en Islantilla** (Nuevo Portil twee keer). Op basis van de verwachte 2027-greenfees in [golf/index.md](golf/index.md) komt dit uit op **€459,00 p.p.** (€45 + €75 + €99 + €47 + €75 + €63 + €45).
 
 | Kostenpost | Villa Marazul 2027 p.p. | Villa Albufeira 78 2027 p.p. | Golftime 2026 p.p. |
 |---|---:|---:|---:|
 | **Vlucht** | €450,00¹ | €450,00¹ | €461,38³ |
 | **Verblijf** | €220,00 | €409,13¹ | ca. €836,19² |
 | **Vervoer** | €146,10¹ | €146,10¹ | ca. €103,81² |
-| **Golf** | €563,00¹ | €563,00¹ | ca. €410,00² |
+| **Golf** | €459,00¹ | €459,00¹ | ca. €410,00² |
 | **Ontbijt & lunch** | €36,51¹ | €36,51¹ | In pakket: ontbijt² |
 | **Diner** | €293,75¹ | €293,75¹ | In pakket² |
-| **Kosten in basisvergelijking** | **€1.728,11¹** | **€1.917,24¹** | **€1.811,38³** |
+| **Kosten in basisvergelijking** | **€1.624,11¹** | **€1.813,24¹** | **€1.811,38³** |
 |  |  |  |  |
 | **Extra wijn bij eten** | inbegrepen in diner | inbegrepen in diner | + €40,50 |
 | **Extra drankjes** | €18,75¹ | €18,75¹ | + €93,34 |
 | **Extra lunch + water** | — | — | + €73,50⁴ |
-| **Basis + alle extra's** | **€1.746,86¹** | **€1.935,99¹** | **€2.018,72³ ⁴** |
+| **Basis + alle extra's** | **€1.642,86¹** | **€1.831,99¹** | **€2.018,72³ ⁴** |
 
-¹ Voor de villa's wordt voor 2027 **€450,00 p.p. inclusief bagage** als vluchtbudget aangehouden. De werkelijk betaalde historische 2024-vlucht was €438,00 p.p., inclusief vlucht, bagage, golfuitrusting en cabinebagage. De overige villa-bedragen zijn historische 2024-referenties tenzij anders vermeld. De historische €442,10 voor ontbijt/boodschappen is opgesplitst in €292,10 ontbijt & lunch en €150,00 drankjes; daarom is €36,51 p.p. ontbijt & lunch en €18,75 p.p. drankjes.
+¹ Voor de villa's wordt voor 2027 **€450,00 p.p. inclusief bagage** als vluchtbudget aangehouden. De werkelijk betaalde historische 2024-vlucht was €438,00 p.p., inclusief vlucht, bagage, golfuitrusting en cabinebagage. De overige villa-bedragen zijn historische 2024-referenties tenzij anders vermeld. Voor golf is voor 2027 gerekend met dezelfde zeven banen als in de historische 2026-reconstructie; de verwachte greenfees zijn €45, €75, €99, €47, €75, €63 en €45 p.p., samen **€459,00 p.p.** De historische €442,10 voor ontbijt/boodschappen is opgesplitst in €292,10 ontbijt & lunch en €150,00 drankjes; daarom is €36,51 p.p. ontbijt & lunch en €18,75 p.p. drankjes.
 
 ² Geschatte interne waarde van het **verblijf + halfpension** binnen de pakketprijs. Berekening: €1.350,00 pakketprijs − €410,00 golf − €103,81 vervoer = ca. €836,19 p.p. Deze waarde is afgeleid uit de beschikbare 2026-gegevens en wordt **niet bovenop de pakketprijs opgeteld**.
 
 ³ Inclusief **€34,38 p.p.** aan ticketingfee, reserveringskosten, calamiteitenfonds en SGR. Deze kosten zijn als gemarkeerde aanvulling bij **Vlucht** opgenomen en vormen geen aparte kostencategorie.
 
-⁴ Voor 7 golfrondes is gerekend met €6,50 per lunchbox + €4,00 water = €10,50 per ronde, dus **€73,50 p.p.** extra.
+⁴ Voor 7 golfrondes is gerekend met €6,50 per lunchbox + €4,00 water = **€73,50 p.p.** extra.
 
 ### 2027 Stay & Play-referentie Hotel Nuevo Portil
 
