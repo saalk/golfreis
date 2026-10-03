@@ -13,23 +13,17 @@ Centraal overzicht van de villa-opties voor de golfreis van **8 personen, begin 
 
 ## Kostenvergelijking
 
-De groepen en items zijn gelijk aan de structuur op de individuele villa-pagina's.
+Alle bedragen hieronder zijn **per persoon**. De vergelijking gebruikt dezelfde kostenposten als de individuele villa-pagina's. Individuele historische vervoersdetails en verdere onderbouwing staan alleen op de subpagina's.
 
-| Kostenpost | [Villa Marazul](villa-01-airbnb-30066458.md) | [Villa Albufeira 78](villa-historisch-2024-algarve.md) |
+| Kostenpost | [Villa Marazul](villa-01-airbnb-30066458.md) p.p. | [Villa Albufeira 78](villa-historisch-2024-algarve.md) p.p. |
 |---|---:|---:|
-| **Vlucht** | — | €1.752,00 / €219,00 p.p. |
-| Vlucht | centraal | €1.752,00 / €219,00 p.p.¹ |
-| **Verblijf** | **€1.760,00 / €220,00 p.p.** | **€3.273,00 / €409,13 p.p.** |
-| Accommodatie | €1.760,00 / €220,00 p.p. | €3.273,00 / €409,13 p.p. |
-| **Vervoer** | €1.168,80 / €146,10 p.p.¹ | €1.168,80 / €146,10 p.p.¹ |
-| Huurauto/busje, brandstof, parkeren/tol en transfers | €1.168,80 / €146,10 p.p.¹ | €1.168,80 / €146,10 p.p.¹ |
-| **Golf** | €4.504,00 / €563,00 p.p.¹ | €4.504,00 / €563,00 p.p.¹ |
-| 7 golfrondes | €4.504,00 / €563,00 p.p.¹ | €4.504,00 / €563,00 p.p.¹ |
-| **Ontbijt, diner & drankjes** | €2.792,10 / €349,01 p.p.¹ | €2.792,10 / €349,01 p.p.¹ |
-| Ontbijt | onderdeel van centrale referentie | €442,10¹ |
-| Diner | onderdeel van centrale referentie | €2.350,00¹ |
+| Vlucht | centraal | €219,00¹ |
+| Accommodatie | €220,00 | €409,13 |
+| Huurauto/busje, brandstof, parkeren/tol en transfers | €146,10¹ | €146,10¹ |
+| 7 golfrondes | €563,00¹ | €563,00¹ |
+| Ontbijt | onderdeel van centrale referentie | €55,26¹ |
+| Diner | onderdeel van centrale referentie | €293,75¹ |
 | Gezamenlijke extra drankjes/wijn | onderdeel van centrale referentie | — |
-| **Totaal** | **€11.976,90 / €1.497,11 p.p.** | **€13.489,90 / €1.686,24 p.p.** |
 
 ¹ Historische 2024-referentie en nog geen gecontroleerde 2027-prijs. De historische bedragen worden op de historische subpagina verder onderbouwd.
 
@@ -37,13 +31,12 @@ De groepen en items zijn gelijk aan de structuur op de individuele villa-pagina'
 
 Voor nieuwe villa's worden de niet-accommodatiekosten centraal als referentie gebruikt totdat actuele 2027-bedragen beschikbaar zijn.
 
-| Kostenpost | Totaal 8 personen | p.p. |
-|---|---:|---:|
-| **Vlucht** | €1.752,00 | €219,00 |
-| **Vervoer** | €1.168,80 | €146,10 |
-| **Golf** | €4.504,00 | €563,00 |
-| **Ontbijt, diner & drankjes** | €2.792,10 | €349,01 |
-| **Centrale referentie** | **€10.216,90** | **€1.277,11** |
+| Kostenpost | p.p. |
+|---|---:|
+| Vlucht | €219,00 |
+| Vervoer | €146,10 |
+| Golf | €563,00 |
+| Ontbijt, diner & drankjes | €349,01 |
 
 Deze bedragen zijn historische 2024-referenties en worden voor 2027 later geactualiseerd.
 
