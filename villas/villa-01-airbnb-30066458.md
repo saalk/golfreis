@@ -1,4 +1,4 @@
-# Villa 01 — Airbnb 30066458
+# Villa Marazul — Airbnb 30066458
 
 ## Bron
 
@@ -10,45 +10,44 @@
 - Aankomst: 2 oktober 2027
 - Vertrek: 9 oktober 2027
 - Verblijf: 7 nachten
-- Doel: eerste kandidaat voor de villa-versus-package vergelijking
 
-## Villa-gegevens
+## Accommodatie
 
 | Veld | Waarde |
 |---|---|
 | Airbnb listing | 30066458 |
-| Land | Nog te verifiëren |
-| Regio | Nog te verifiëren |
-| Plaats | Nog te verifiëren |
+| Land | Portugal |
+| Regio | Algarve |
+| Plaats | Albufeira |
 | Verblijf | 2–9 oktober 2027 |
 | Nachten | 7 |
 | Gasten | 8 |
-| Totale prijs | Nog te verifiëren |
-| Prijs p.p. | Nog te verifiëren |
-| Slaapkamers | Nog te verifiëren |
-| Badkamers | Nog te verifiëren |
-| En-suite badkamers | Nog te verifiëren |
-| Kamerindeling | Nog te verifiëren |
-| Single met eigen slaapkamer + badkamer | Nog te verifiëren |
-| Zwembad | Nog te verifiëren |
-| Airco | Nog te verifiëren |
-| Parkeren | Nog te verifiëren |
-| Faro luchthaven → villa | Nog te verifiëren |
-| Golfbanen / rijtijden | Nog te verifiëren |
+| **Totale accommodatieprijs** | **€1.760,00** |
+| **Prijs per persoon** | **€220,00** |
+| Prijs per nacht | €251,43 |
+| Slaapkamers | 5 |
+| Badkamers | 5 |
+| Zwembad | Ja |
+| Uitzicht | Zeezicht |
+| Airco | Ja |
+| Parkeren | Ja |
+
+## Prijsoverzicht
+
+**7 nachten × €251,43 = €1.760,00**
+
+Dit is de accommodatieprijs voor de villa. Kosten voor vlucht, vervoer, golf, ontbijt, diner en gedeelde drankjes/wijn worden centraal op [Villa's](index.md) opgenomen en gelden als gemeenschappelijke vergelijkingskosten voor alle villa's.
 
 ## Controle voor onze guardrails
 
 | Guardrail | Status |
 |---|---|
-| 8 personen | Gevonden: 8 gasten in zoekopdracht |
-| Minimaal 5 slaapkamers | Nog te controleren |
-| Minimaal 5 badkamers | Nog te controleren |
-| Geen 3 personen op één kamer | Nog te controleren |
-| Minimaal 1 single eigen slaapkamer | Nog te controleren |
-| Diezelfde single eigen badkamer | Nog te controleren |
-| Portugal of Spanje | Nog te controleren |
-| Begin oktober 2027 | Gevonden: 2–9 oktober 2027 |
+| 8 personen | Voldoet |
+| Minimaal 5 slaapkamers | Voldoet: 5 |
+| Minimaal 5 badkamers | Voldoet: 5 |
+| Portugal of Spanje | Voldoet: Portugal |
+| Begin oktober 2027 | Voldoet: 2–9 oktober 2027 |
 
-**Status: te onderzoeken.**
+**Status: kandidaat voor vergelijking.**
 
-[← Villa's](index.md) · [← Vergelijkingen](../comparisons/villa-vs-package.md)
+[← Villa's](index.md)
