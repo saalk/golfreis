@@ -28,6 +28,12 @@ Elke villa krijgt minimaal:
 | Bron | URL / aanbieder |
 | Status | Onderzoekstatus |
 
+## Gevonden villa's
+
+| Villa | Periode | Gasten | Status |
+|---|---|---:|---|
+| [Villa 01 — Airbnb 30066458](villa-01-airbnb-30066458.md) | 2–9 oktober 2027 | 8 | Te onderzoeken |
+
 Nieuwe villa's krijgen een eigen pagina in deze map.
 
 [← Terug naar overzicht](../README.md)
