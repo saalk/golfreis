@@ -54,50 +54,50 @@ Prijzen, beschikbaarheid, vluchtmogelijkheden en exacte golfgegevens worden pas 
 
 ## Echte kostenvergelijking
 
-Onderstaande tabel is de centrale **villa-versus-package kostenvergelijking**. De **Kostenpost** is gegroepeerd: de groep staat vetgedrukt en de onderliggende items niet. We rekenen met 8 personen, 7 nachten en 7 golfrondes.
+Onderstaande tabel is de centrale **villa-versus-package kostenvergelijking**. Bedragen worden weergegeven als **totaal voor 8 personen / per persoon**; de prijs per persoon staat steeds **vetgedrukt**. De **Kostenpost** is gegroepeerd: de groep staat vetgedrukt en de onderliggende items niet. We rekenen met 8 personen, 7 nachten en 7 golfrondes.
 
 | Kostenpost | Villa | Historische Golftime 2026 |
 |---|---:|---:|
-| **Vlucht** |  | **€3.416,00** |
-| Vlucht | € — | €1.896,00 |
-| Bagage 20 kilo – per retour 1 × 8 | € — | €848,00 |
-| Golfbagage 15 kilo – per retour 1 × 8 | € — | €672,00 |
-| **Verblijf** |  | **€10.800,00** |
-| Verblijf | € — | €10.800,00 |
+| **Vlucht** |  | **€3.416,00 / €427,00 p.p.** |
+| Vlucht | € — | €1.896,00 / **€237,00 p.p.**** |
+| Bagage 20 kilo – per retour 1 × 8 | € — | €848,00 / **€106,00 p.p.** |
+| Golfbagage 15 kilo – per retour 1 × 8 | € — | €672,00 / **€84,00 p.p.** |
+| **Verblijf** |  | **€10.800,00 / €1.350,00 p.p.** |
+| Verblijf | € — | €10.800,00 / **€1.350,00 p.p.** |
 | **Vervoer** |  | **in pakket** |
 | Luchthaven ↔ hotel en hotel ↔ golf | € — | in pakket |
 | **Golf** |  | **in pakket** |
 | 7 golfrondes | € — | in pakket |
-| **Ontbijt/diner** | **€2.520,00** | **in pakket** |
+| **Ontbijt/diner** | **€2.520,00 / €315,00 p.p.** | **in pakket** |
 | Ontbijt | € — | in pakket |
-| Diner – Restaurante Solgamba, 3 gangen + ½ fles wijn p.p. | €2.520,00 | in pakket |
-| **Drankjes** |  | **€1.070,75** |
-| Wijn bij eten | € — | €324,00 |
-| Overig | € — | €746,75 |
-| **Pakketreis** |  | **€275,00** |
-| Kosten reisorganisatie | € — | €275,00 |
-| **Totaal historische reis** | **€2.520,00 + overige villa-kosten** | **€14.491,00** |
-| **Totaal inclusief gezamenlijke drankjes** | **€2.520,00 + overige villa-kosten** | **€15.561,75** |
+| Diner – Restaurante Solgamba, 3 gangen + ½ fles wijn p.p. | €2.520,00 / **€315,00 p.p.** | in pakket |
+| **Drankjes** |  | **€1.070,75 / €133,84 p.p.** |
+| Wijn bij eten | € — | €324,00 / **€40,50 p.p.** |
+| Overig | € — | €746,75 / **€93,34 p.p.** |
+| **Pakketreis** |  | **€275,00 / €34,38 p.p.** |
+| Kosten reisorganisatie | € — | €275,00 / **€34,38 p.p.** |
+| **Totaal historische reis** | **€2.520,00 + overige villa-kosten / €315,00 + overige villa-kosten p.p.** | **€14.491,00 / €1.811,38 p.p.** |
+| **Totaal inclusief gezamenlijke drankjes** | **€2.520,00 + overige villa-kosten / €315,00 + overige villa-kosten p.p.** | **€15.561,75 / €1.945,22 p.p.** |
 
 ### Richtprijs diner — Restaurante Solgamba
 
-Voor de villa-kostenvergelijking gebruiken we als richtprijs **€45,00 per persoon per diner** bij entity["restaurant","Restaurante Solgamba","Albufeira, Faro, Portugal | R. do Ténis 3, 8200-186 Albufeira"]. Dit is gebaseerd op een realistische combinatie van een voorgerecht, hoofdgerecht, dessert en ongeveer een halve fles wijn per persoon. De actuele menukaart laat voorgerechten grofweg rond €4–€9 zien, hoofdgerechten rond €12–€25 en desserts rond €4,50–€6. citeturn0search0turn0search4
+Voor de villa-kostenvergelijking gebruiken we als richtprijs **€45,00 per persoon per diner** bij Restaurante Solgamba. Dit is gebaseerd op een realistische combinatie van een voorgerecht, hoofdgerecht, dessert en ongeveer een halve fles wijn per persoon. De actuele menukaart laat voorgerechten grofweg rond €4–€9 zien, hoofdgerechten rond €12–€25 en desserts rond €4,50–€6.
 
-Daarmee rekenen we voor **8 personen €360 per diner** en voor **7 diners €2.520**. Dit is nadrukkelijk een **richtprijs**, geen bevestigde groepsprijs. De gepubliceerde menukaart vermeldt geen vaste prijs voor een halve fles wijn; daarom is voor wijn een redelijke schatting opgenomen. citeturn0search0turn0search9
+Daarmee rekenen we voor **8 personen €360 per diner** en voor **7 diners €2.520**. Dit is nadrukkelijk een **richtprijs**, geen bevestigde groepsprijs. De gepubliceerde menukaart vermeldt geen vaste prijs voor een halve fles wijn; daarom is voor wijn een redelijke schatting opgenomen.
 
 ### Historische Golftime 2026
 
-De historische Golftime-reis kostte **€14.491,00 voor 8 personen**. De oorspronkelijke opbouw wordt volledig in de vergelijking opgenomen:
+De historische Golftime-reis kostte **€14.491,00 voor 8 personen**, oftewel **€1.811,38 per persoon**. De oorspronkelijke opbouw wordt volledig in de vergelijking opgenomen:
 
-- vlucht: **€1.896,00**;
-- bagage 20 kilo: **€848,00**;
-- golfbagage 15 kilo: **€672,00**;
-- pakketreis/verblijf: **€10.800,00**;
-- kosten reisorganisatie: **€275,00**, bestaande uit ticketingfee €200,00 + reserveringskosten €32,50 + calamiteitenfonds €2,50 + SGR-bijdrage €40,00.
+- vlucht: **€1.896,00 / €237,00 p.p.**;
+- bagage 20 kilo: **€848,00 / €106,00 p.p.**;
+- golfbagage 15 kilo: **€672,00 / €84,00 p.p.**;
+- pakketreis/verblijf: **€10.800,00 / €1.350,00 p.p.**;
+- kosten reisorganisatie: **€275,00 / €34,38 p.p.**, bestaande uit ticketingfee €200,00 + reserveringskosten €32,50 + calamiteitenfonds €2,50 + SGR-bijdrage €40,00.
 
 Deze bedragen tellen samen op tot **€14.491,00**. Bagage wordt hiermee dus niet langer buiten beschouwing gelaten.
 
-Voor **Drankjes** nemen we de gezamenlijke extra drankjes/wijn apart mee. De historische €1.070,75 is opgesplitst in **€324,00 wijn bij eten** en **€746,75 overig**. Dit bedrag was geen onderdeel van de pakketprijs en wordt daarom als aanvullende gezamenlijke kosten getoond.
+Voor **Drankjes** nemen we de gezamenlijke extra drankjes/wijn apart mee. De historische €1.070,75 is opgesplitst in **€324,00 wijn bij eten** en **€746,75 overig**, oftewel respectievelijk **€40,50 en €93,34 per persoon**. Dit bedrag was geen onderdeel van de pakketprijs en wordt daarom als aanvullende gezamenlijke kosten getoond.
 
 Buggy's, trolleys, persoonlijke uitgaven en niet door alle 8 deelnemers gedeelde consumpties blijven uitgesloten.
 
