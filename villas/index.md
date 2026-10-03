@@ -6,28 +6,28 @@ Centraal overzicht van de villa-opties voor de golfreis van **8 personen, begin 
 
 | Villa | Periode | Gasten | Accommodatie | Totaal | p.p. | Status |
 |---|---|---:|---:|---:|---:|---|
-| [Villa Marazul — Airbnb 30066458](villa-01-airbnb-30066458.md) | 2–9 oktober 2027 | 8 | €1.760,00 | **€11.976,90** | **€1.497,11** | Kandidaat |
-| [Villa Albufeira 78 — historische villa 2024](villa-historisch-2024-algarve.md) | 2–9 oktober 2024 | 8 | €1.391,00 | **€11.607,90** | **€1.450,99** | Historische referentie |
-| [Villa Albufeira 78 — prijsindicatie 2027](villa-historisch-2024-algarve.md) | 23–30 oktober 2027¹ | 8 | €3.273,00 | **€13.489,90**¹ | **€1.686,24**¹ | Prijsindicatie |
+| [Villa Marazul — Airbnb 30066458](villa-01-airbnb-30066458.md) | 2–9 oktober 2027 | 8 | €1.760,00 | **€13.728,88** | **€1.716,11** | Kandidaat |
+| [Villa Albufeira 78 — historische villa 2024](villa-historisch-2024-algarve.md) | 2–9 oktober 2024 | 8 | €1.391,00 | **€13.359,90** | **€1.669,99** | Historische referentie |
+| [Villa Albufeira 78 — prijsindicatie 2027](villa-historisch-2024-algarve.md) | 23–30 oktober 2027¹ | 8 | €3.273,00 | **€15.241,90**¹ | **€1.905,24**¹ | Prijsindicatie |
 
 ¹ De overige kosten zijn historische 2024-referenties. De accommodatieprijs van €3.273,00 is de huidige prijsindicatie voor 2027.
 
 ## Kostenvergelijking
 
-Alle bedragen hieronder zijn **per persoon**. De historische villa uit 2024 wordt bewust naast de huidige 2027-prijsindicatie opgenomen, ook al is deze villa niet meer te boeken. Zo blijft zichtbaar wat het werkelijke kostenniveau van de eerdere reis was.
+Alle bedragen hieronder zijn **per persoon**. De historische villa uit 2024 wordt bewust naast de huidige 2027-prijsindicatie opgenomen, ook al is deze villa niet meer te boeken.
 
 | Kostenpost | [Villa Marazul](villa-01-airbnb-30066458.md) 2027 p.p. | [Villa Albufeira 78](villa-historisch-2024-algarve.md) 2024 p.p. | [Villa Albufeira 78](villa-historisch-2024-algarve.md) 2027 p.p. |
 |---|---:|---:|---:|
-| Vlucht | centraal | €219,00 | €219,00¹ |
+| Vlucht | €438,00¹ | €438,00 | €438,00¹ |
 | Accommodatie | €220,00 | €173,88 | €409,13 |
-| Huurauto/busje, brandstof, parkeren/tol en transfers | €146,10¹ | €146,10 | €146,10¹ |
-| 7 golfrondes | €563,00¹ | €563,00 | €563,00¹ |
-| Ontbijt | onderdeel van centrale referentie | €55,26 | €55,26¹ |
-| Diner | onderdeel van centrale referentie | €293,75 | €293,75¹ |
-| Gezamenlijke extra drankjes/wijn | onderdeel van centrale referentie | — | — |
-| **Totaal** | **€1.497,11** | **€1.450,99** | **€1.686,24¹** |
+| Vervoer | €146,10¹ | €146,10 | €146,10¹ |
+| Golf | €563,00¹ | €563,00 | €563,00¹ |
+| Ontbijt & lunch | €36,51¹ | €36,51 | €36,51¹ |
+| Diner inclusief wijn | €293,75¹ | €293,75 | €293,75¹ |
+| Drankjes | €18,75¹ | €18,75 | €18,75¹ |
+| **Totaal** | **€1.716,11¹** | **€1.669,99** | **€1.905,24¹** |
 
-¹ Historische 2024-referentie en nog geen gecontroleerde 2027-prijs. Voor de historische 2024-kolom zijn de daadwerkelijk betaalde kosten gebruikt. De historische bedragen worden op de subpagina verder onderbouwd.
+¹ Historische 2024-referentie en nog geen gecontroleerde 2027-prijs. Voor de historische 2024-kolom zijn de daadwerkelijk betaalde kosten gebruikt; de €150 drankjes binnen de oorspronkelijke €442,10 post zijn een schatting.
 
 ## Centrale kostenreferentie voor villa's
 
@@ -35,10 +35,13 @@ Voor nieuwe villa's worden de niet-accommodatiekosten centraal als referentie ge
 
 | Kostenpost | p.p. |
 |---|---:|
-| Vlucht | €219,00 |
+| Vlucht | €438,00 |
 | Vervoer | €146,10 |
 | Golf | €563,00 |
-| Ontbijt, diner & drankjes | €349,01 |
+| Ontbijt & lunch | €36,51 |
+| Diner inclusief wijn | €293,75 |
+| Drankjes | €18,75 |
+| **Totaal niet-accommodatie** | **€1.496,11** |
 
 Deze bedragen zijn historische 2024-referenties en worden voor 2027 later geactualiseerd.
 
