@@ -33,7 +33,7 @@ De kostenvergelijking gebruikt steeds dezelfde groepen en onderliggende items:
 | **Verblijf** | Villa of hotel/package |
 | **Vervoer** | Luchthavenvervoer en vervoer naar golfbanen |
 | **Golf** | 7 golfrondes |
-| **Ontbijt** | Ontbijt |
+| **Ontbijt & lunch** | Ontbijt en lunch |
 | **Diner** | Diner, inclusief wijn bij het diner wanneer die gezamenlijk is afgerekend |
 | **Drankjes** | Gezamenlijke extra drankjes buiten het diner |
 
@@ -41,28 +41,36 @@ Buggy's en trolleys zijn persoonlijke kosten en worden niet meegenomen. Persoonl
 
 ## Kostenvergelijking
 
-De villa-kolommen zijn opgebouwd door de onderliggende kosten per onderdeel op te tellen. Voor het pakket geldt een andere behandeling: de **€1.350 p.p. verblijf-/pakketprijs bevat al hotel, halfpension, golf en transfers**. De daaronder vermelde bedragen voor vervoer en golf zijn daarom alleen **geschatte interne pakketwaarden** en worden niet nogmaals bij het pakket totaal opgeteld.
+De kostenvergelijking toont eerst de bedragen die al in de pakketprijs zitten en de vergelijkbare villa-kosten. Daarna volgen de kosten die **bovenop** de pakketprijs komen: wijn bij het eten, extra drankjes en lunch/water.
+
+Voor het pakket geldt een andere behandeling: de **€1.350 p.p. verblijf-/pakketprijs bevat al hotel, halfpension, golf en transfers**. De daaronder vermelde bedragen voor vervoer en golf zijn alleen **geschatte interne pakketwaarden** en worden niet nogmaals bij het pakket totaal opgeteld.
 
 | Kostenpost | Villa Marazul 2027 p.p. | Villa Albufeira 78 2027 p.p. | Golftime 2026 p.p. |
 |---|---:|---:|---:|
-| Vlucht | €438,00¹ | €438,00¹ | €461,38³ |
-| Verblijf | €220,00 | €409,13¹ | €1.350,00 |
-| Vervoer | €146,10¹ | €146,10¹ | ca. €103,81² |
-| Golf | €563,00¹ | €563,00¹ | ca. €410,00² |
-| Ontbijt | €55,26¹ | €55,26¹ | In pakket² |
-| Diner inclusief wijn | €293,75¹ | €293,75¹ | In pakket + €40,50 wijn |
-| Drankjes | — | — | €93,34 |
-| **Berekend totaal villa** | **€1.716,11¹** | **€1.905,24¹** | — |
-| **Pakketprijs** | — | — | **€1.845,76³** |
-| **Pakketprijs + gezamenlijke drankjes buiten pakket** | — | — | **€1.979,60³** |
+| **Vlucht** | €438,00¹ | €438,00¹ | €461,38³ |
+| **Verblijf** | €220,00 | €409,13¹ | €1.350,00 |
+| **Vervoer** | €146,10¹ | €146,10¹ | ca. €103,81² |
+| **Golf** | €563,00¹ | €563,00¹ | ca. €410,00² |
+| **Ontbijt & lunch** | €36,51¹ | €36,51¹ | In pakket: ontbijt² |
+| **Diner inclusief wijn** | €293,75¹ | €293,75¹ | In pakket² |
+| **Kosten in basisvergelijking** | **€1.716,11¹** | **€1.905,24¹** | **€1.845,76³** |
+|  |  |  |  |
+| **Extra wijn bij eten** | inbegrepen in diner | inbegrepen in diner | + €40,50 |
+| **Extra drankjes** | €18,75¹ | €18,75¹ | + €93,34 |
+| **Extra lunch + water** | — | — | + €73,50⁴ |
+| **Basis + alle extra's** | **€1.734,86¹** | **€1.923,99¹** | **€2.053,10³ ⁴** |
 
-¹ De villa-vluchtreferentie is gebaseerd op de werkelijk betaalde historische 2024-vlucht van **€438,00 p.p.**, inclusief vlucht, bagage, golfuitrusting en cabinebagage. Voor 2027 is dit een referentie en nog geen gecontroleerde boekingsprijs. De overige villa-bedragen zijn eveneens historische 2024-referenties tenzij anders vermeld.
+¹ De villa-vluchtreferentie is gebaseerd op de werkelijk betaalde historische 2024-vlucht van **€438,00 p.p.**, inclusief vlucht, bagage, golfuitrusting en cabinebagage. Voor 2027 is dit een referentie en nog geen gecontroleerde boekingsprijs. De overige villa-bedragen zijn historische 2024-referenties tenzij anders vermeld. De historische €442,10 voor ontbijt/boodschappen is opgesplitst in €292,10 ontbijt & lunch en €150,00 drankjes; daarom is €36,51 p.p. ontbijt & lunch en €18,75 p.p. drankjes.
 
 ² Geschatte interne waarde van een onderdeel dat al in de pakketprijs zit. Deze waarde is afgeleid uit de beschikbare 2026-golf- en vervoersgegevens en wordt **niet bovenop de pakketprijs opgeteld**.
 
 ³ Inclusief **€34,38 p.p.** aan ticketingfee, reserveringskosten, calamiteitenfonds en SGR. Deze kosten zijn als gemarkeerde aanvulling bij **Vlucht** opgenomen en vormen geen aparte kostencategorie.
 
-Bij het pakket is de wijn die gezamenlijk bij het eten is afgerekend (€40,50 p.p.) bij **Diner** geplaatst. De overige gezamenlijke drankjes (€93,34 p.p.) staan apart. De totale aanvullende drankkosten bedragen daarmee €133,84 p.p.
+⁴ Voor 7 golfrondes is gerekend met €6,50 per lunchbox + €4,00 water = €10,50 per ronde, dus **€73,50 p.p.** extra.
+
+Bij de historische 2024-villa zat de wijn al in de dinerbedragen. De zeven diners bedroegen samen €2.350,00 (€293,75 p.p.) en worden daarom volledig als **Diner inclusief wijn** opgenomen. Er wordt geen extra wijnbedrag voor de villa toegevoegd.
+
+Bij het pakket is de wijn die gezamenlijk bij het eten is afgerekend (€40,50 p.p.) wél een extra kostenpost. De overige gezamenlijke drankjes (€93,34 p.p.) staan eveneens apart. De lunchbox en het water zijn bij het pakket geen onderdeel van de pakketprijs en zijn daarom als extra lunchkosten opgenomen.
 
 De historische pakketprijs van €1.845,76 p.p. bestaat uit de vlucht inclusief bagage, golfbagage en de gemarkeerde boekings-/organisatiekosten (€461,38 p.p.), plus de pakketprijs (€1.350,00 p.p.). De berekende golf- en vervoerswaarden zijn interne referenties binnen die pakketprijs.
 
