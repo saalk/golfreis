@@ -2,11 +2,11 @@
 
 Centrale vergelijking van de kandidaten.
 
-> Deze tabel bevat alleen gegevens die daadwerkelijk zijn onderzocht. Onbekende gegevens blijven `—`.
+> Deze tabel bevat alleen gegevens die daadwerkelijk zijn onderzocht. Onbekende gegevens blijven `—`. De Marazul-prijs is voorlopig gevuld met de historische 2024-kostenbenchmark en is **geen actuele Marazul-prijs**.\n\n¹ Historische 2024-benchmark voor 8 personen: vlucht €1.752 + villa/toeristenbelasting €1.391 + vervoer €1.168,80 + golf €4.504 + eten €2.792,10 = €11.607,90.
 
 | Villa | Land | Regio | Totaalprijs | €/p.p. | Slaapkamers | Badkamers | Single eigen BD | Zwembad | Luchthaven | Golfregio | Status |
 |---|---|---|---:|---:|---:|---:|---|---|---|---|---|
-| [Villa Marazul — Airbnb 30066458](../villas/villa-01-airbnb-30066458.md) | Portugal | Albufeira, Algarve | — | — | 5 | 5 | — | Ja | Faro | Salgados / Algarve | onderzocht |
+| [Villa Marazul — Airbnb 30066458](../villas/villa-01-airbnb-30066458.md) | Portugal | Albufeira, Algarve | **€11.607,90¹** | **€1.450,99¹** | 5 | 5 | — | Ja | Faro | Salgados / Algarve | onderzocht |\n| [Historische villa 2024 — Algarve](../villas/villa-historisch-2024-algarve.md) | Portugal | Algarve / Albufeira | **€11.607,90** | **€1.450,99** | — | — | — | — | Faro | Algarve | historisch |
 
 ## Villa Marazul — gecontroleerde gegevens
 
