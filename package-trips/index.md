@@ -19,7 +19,7 @@ Elke package wordt genormaliseerd naar:
 
 | Reis | Aanbieder | Bestemming | Periode | Personen | Golf | Totaal | p.p. | Status |
 |---|---|---|---|---:|---:|---:|---:|---|
-| [Package 01 — Golftime Costa de la Luz 2026](package-01-golftime-costa-de-la-luz-2026.md) | Golftime | Costa de la Luz | 24 sep – 1 okt 2026 | 8 | 7 rondes | **€14.491,00** | **€1.811,38** | Historische referentie |
+| [Package 01 — Golftime Costa de la Luz 2026](package-01-golftime-costa-de-la-luz-2026.md) | Golftime | Costa de la Luz | 24 sep – 1 okt 2026 | 8 | 7 rondes | **€14.766,00** | **€1.845,76** | Historische referentie |
 
 ## Kostenvergelijking
 
@@ -27,9 +27,8 @@ Alle bedragen hieronder zijn **per persoon**. De individuele vervoersdetails sta
 
 | Kostenpost | Golftime Costa de la Luz 2026 p.p. |
 |---|---:|
-| Vlucht | €237,00 |
-| Bagage 20 kilo | €106,00 |
-| Golfbagage 15 kilo | €84,00 |
+| Vlucht inclusief bagage en golfbagage | €427,00 |
+| Gemarkeerde boekings-/organisatiekosten bij vlucht | €34,38 |
 | Verblijf / pakketreis | €1.350,00 |
 | Luchthaven ↔ hotel | €28,75 |
 | Hotel ↔ golfbanen | €75,06 |
@@ -38,7 +37,6 @@ Alle bedragen hieronder zijn **per persoon**. De individuele vervoersdetails sta
 | Ontbijt | In pakket |
 | Diner | In pakket |
 | Gezamenlijke extra drankjes/wijn | €133,84 |
-| Kosten reisorganisatie | €34,38 |
 
 ## Onderliggende package-pagina's
 
