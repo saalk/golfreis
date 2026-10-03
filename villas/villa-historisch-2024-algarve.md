@@ -1,15 +1,77 @@
-# Historische villa 2024 — Algarve / Albufeira
+# Villa Albufeira 78 — historische villa 2024
 
-Historische referentie voor de kosten van een villa-golfreis met **8 personen** in de Algarve in 2024. Deze reis wordt gebruikt als kostenbenchmark voor Villa Marazul en toekomstige villa's.
+Historische referentie van de villa die is gebruikt tijdens de golfreis in **2024** in de Algarve. De accommodatiegegevens zijn gebaseerd op de oorspronkelijke verhuuradvertentie; de prijs is de werkelijk geregistreerde accommodatiekost van de reis.
 
 ## Accommodatie
+
+| Kenmerk | Gegevens |
+|---|---|
+| Naam | **Villa Albufeira 78** |
+| Land | Portugal |
+| Regio | Algarve |
+| Plaats | Albufeira |
+| Maximale bezetting | **12 personen** |
+| Slaapkamers | **6** |
+| Badkamers | **5** |
+| Huisdieren | Niet toegestaan |
+| Zeezicht | **Ja** — uitzicht over de haven van Albufeira en de oceaan |
+| Zwembad | **Ja — 9 × 4,5 meter**, diepte ca. 80–160 cm |
+| Airconditioning | **Ja** |
+| Terrassen | Meerdere terrassen, waaronder terrassen bij slaapkamers en een dakterras |
+| Ligging | Ca. 1,5 km van het strand en het oude centrum van Albufeira |
+| Renovatie | Volledig gerenoveerd in 2019 |
+| Barbecue | Ja |
+| Parkeren | Niet als afzonderlijk kenmerk vastgelegd |
+
+**Beschrijving:** moderne villa in Albufeira met schitterend zeezicht, meerdere terrassen en een groot privézwembad. De villa ligt aan het begin van Albufeira en combineert de nabijheid van het strand en het oude centrum met een rustige verblijfslocatie.
+
+> **Let op:** groepen met jongeren waren volgens de oorspronkelijke advertentie niet toegestaan.
+
+## Indeling
+
+### Begane grond
+
+- Entree via 6 treden vanaf de straat.
+- Ruime hal met gastentoilet en voetbaltafel.
+- Woonkamer met twee banken, grote flatscreen-tv en eettafel.
+- Terras aan de voorkant met loungeset en zeezicht.
+- Toegang tot zwembadterras en keuken.
+- Woonkamer voorzien van airconditioning.
+- Moderne keuken met elektrische kookplaat, broodrooster, waterkoker, Dolce Gusto-koffiezetapparaat en grote koel-/vriescombinatie.
+- **Slaapkamer 1:** twee eenpersoonsbedden en badkamer en-suite; airconditioning.
+
+### Eerste verdieping
+
+- **Slaapkamer 2:** tweepersoonsbed, badkamer en-suite, sofabank met tv, eigen terras met zeezicht; airconditioning.
+- **Slaapkamer 3:** tweepersoonsbed, badkamer en-suite, eigen terras met zeezicht; airconditioning.
+- **Slaapkamer 4:** tweepersoonsbed, badkamer en-suite, eigen terras met uitzicht op het zwembad; airconditioning.
+- **Slaapkamer 5:** eenpersoonsbed, uitzicht op het zwembad; deelt badkamer met slaapkamer 6; airconditioning.
+- **Slaapkamer 6:** drie eenpersoonsbedden, uitzicht op het zwembad; deelt badkamer met slaapkamer 5; airconditioning.
+
+### Tweede verdieping
+
+- Wasruimte met wasmachine van 17 kg.
+- Dakterras met zeezicht.
+
+## Buitenruimte
+
+- Terras aan de voorkant met uitzicht over de haven van Albufeira en de oceaan.
+- Meerdere terrassen bij slaapkamers.
+- Privézwembad van **9 × 4,5 meter**, circa **80–160 cm** diep, met Romeinse trap.
+- 10 ligbedden en parasol.
+- Voldoende schaduwplekken.
+- Grote buitentafel met 12, eventueel 14 stoelen.
+- Grote barbecue met spoelbak, water en twee stopcontacten.
+- Tweepersoonsslaapkamer aan de achterkant met eigen terras en uitzicht over het achterland van Albufeira.
+
+## Historische accommodatiekosten 2024
 
 | Kostenpost | Totaal | p.p. |
 |---|---:|---:|
 | Vakantiehuis aanbetaling | €400,50 | €50,06 |
 | Vakantiehuis restant | €934,50 | €116,81 |
 | Toeristenbelasting | €56,00 | €7,00 |
-| **Vakantiehuis + toeristenbelasting** | **€1.391,00** | **€173,88** |
+| **Accommodatie + toeristenbelasting** | **€1.391,00** | **€173,88** |
 
 De borg van €50 is niet als kosten meegenomen.
 
@@ -62,4 +124,4 @@ De diners waren:
 - Copos & Petiscos: €370
 - Cabana Fresca: €465
 
-[← Villa's](index.md) · [← Vergelijkingen](../comparisons/villa-comparison.md)
+[← Villa's](index.md)
