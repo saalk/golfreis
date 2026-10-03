@@ -1,6 +1,6 @@
 # Golfreis 2027
 
-Vergelijkingssite voor een golftrip voor 8 personen, gepland voor begin oktober 2027.
+Vergelijkingssite voor een golftrip voor **8 personen**, gepland voor begin oktober 2027.
 
 ## Uitgangspunten
 
@@ -17,104 +17,41 @@ Vergelijkingssite voor een golftrip voor 8 personen, gepland voor begin oktober 
 | Onderdeel | Inhoud |
 |---|---|
 | [GUARDRAILS](GUARDRAILS.md) | Uitgangspunten en vergelijkingscriteria |
-| [Villa's](villas/index.md) | Villa's en hun kenmerken |
+| [Villa's](villas/index.md) | Villa's en centrale kostenvergelijking |
 | [Golf](golf/index.md) | Golfbanen en golfmogelijkheden |
-| [Villa's](villas/index.md) | Managementsamenvatting en centrale vergelijking van villa's |
-| [Packages](package-trips/index.md) | Georganiseerde golfreizen en pakketten |
-| [Package vergelijking](comparisons/package-comparison.md) | Vergelijking van georganiseerde golfreizen |
+| [Golftime](package-trips/index.md) | Georganiseerde golfreizen en centrale kostenvergelijking |
 
 ## Werkwijze
 
-Iedere kandidaat-reis wordt op dezelfde manier doorgerekend voor **8 personen, 7 nachten en 7 golfrondes**. Golf wordt daarbij gepland op de aankomstdag en niet op de vertrekdag.
+Iedere kandidaat-reis wordt op dezelfde manier doorgerekend voor **8 personen, 7 nachten en 7 golfrondes**.
 
-De vergelijking bestaat uit vijf eenvoudige kostenposten:
+De kostenvergelijking gebruikt steeds dezelfde groepen en onderliggende items:
 
-| Kostenpost | Wat nemen we mee? |
+| Kostenpost | Items |
 |---|---|
-| **Vlucht** | Vluchten voor 8 personen, inclusief aantoonbare verplichte vluchtkosten |
-| **Verblijf** | Villa of hotel/package voor 7 nachten |
-| **Vervoer** | Huurauto's/busje, brandstof, parkeren, tol en luchthaven-/golftransfers |
+| **Vlucht** | Vlucht, verplichte bagage en golfbagage |
+| **Verblijf** | Villa of hotel/package |
+| **Vervoer** | Luchthavenvervoer en vervoer naar golfbanen |
 | **Golf** | 7 golfrondes |
-| **Ontbijt, diner & drankjes** | Ontbijtboodschappen bij een villa, 7 diners buiten de deur of inbegrepen hotelmaaltijden, plus alleen extra drankjes/wijn die aantoonbaar door alle 8 deelnemers gezamenlijk zijn betaald |
+| **Ontbijt, diner & drankjes** | Ontbijt, diner en gedeelde extra drankjes/wijn |
+| **Overige / organisatie** | Alleen wanneer een pakket een afzonderlijke organisatie-/boekingspost bevat |
 
-**Buiten beschouwing:** buggy's en trolleys, omdat dit persoonlijke golfkosten zijn. Ook persoonlijke uitgaven en niet-gedeelde consumpties worden niet in de gezamenlijke vergelijking opgenomen.
-
-Voor hotelpackages gebruiken we als basis een **2-persoonskamer**. Een eventuele eenpersoonstoeslag wordt afzonderlijk vermeld en verandert de basisvergelijking niet.
-
-Per kandidaat tonen we vervolgens:
-
-- totale kosten voor 8 personen;
-- kosten per persoon;
-- kosten per kostenpost;
-- wat inbegrepen is en wat apart moet worden betaald;
-- eventuele onzekerheden of aannames.
-
-Prijzen, beschikbaarheid, vluchtmogelijkheden en exacte golfgegevens worden pas als bevestigd beschouwd wanneer ze voor de gekozen periode zijn gecontroleerd.
+Buggy's en trolleys zijn persoonlijke kosten en worden niet meegenomen. Persoonlijke uitgaven en niet-gedeelde consumpties blijven eveneens buiten de gezamenlijke vergelijking.
 
 ## Kostenvergelijking
 
-Onderstaande tabel is de centrale **villa-versus-package kostenvergelijking**. Bedragen worden weergegeven als **totaal voor 8 personen / per persoon**; de prijs per persoon staat steeds **vetgedrukt**. De **Kostenpost** is gegroepeerd: de groep staat vetgedrukt en de onderliggende items niet. We rekenen met 8 personen, 7 nachten en 7 golfrondes.
+Dit is uitsluitend de **managementsamenvatting**. De tabel bevat geen individuele transfers, afzonderlijke golfbanen, restaurants of andere reisdetails. Dezelfde kostenstructuur wordt verder uitgewerkt in [Villa's](villas/index.md) en [Golftime](package-trips/index.md).
 
-| Kostenpost | Villa | Historische Golftime 2026 |
-|---|---:|---:|
-| **Vlucht** |  | **€3.416,00 / €427,00 p.p.** |
-| Vlucht | € — | €1.896,00 / **€237,00 p.p.** |
-| Bagage 20 kilo – per retour 1 × 8 | € — | €848,00 / **€106,00 p.p.** |
-| Golfbagage 15 kilo – per retour 1 × 8 | € — | €672,00 / **€84,00 p.p.** |
-| **Verblijf** |  | **€10.800,00 / €1.350,00 p.p.** |
-| Verblijf | € — | €10.800,00 / **€1.350,00 p.p.** |
-| **Vervoer** |  | **€830,50 / €103,81 p.p.** |
-| Bellavista ↔ hotel | € — | €125,00 retour |
-| El Rompido ↔ hotel — 2x | € — | €130,00 retour |
-| Islantilla ↔ hotel | € — | €125,50 retour |
-| Quinta do Vale ↔ hotel | € — | €220,00 retour |
-| Luchthaven ↔ hotel | € — | €230,00 retour |
-| Nuevo Portil Golf ↔ hotel | € — | €0,00 — naast het hotel |
-| **Golf** |  | **in pakket** |
-| 7 golfrondes | € — | in pakket |
-| **Ontbijt, diner & drankjes** | **€2.800,00 / €350,00 p.p. + ontbijt** | **€1.070,75 / €133,84 p.p. + in pakket** |
-| Ontbijt | € — | in pakket |
-| Diner - Restaurante Solgamba, 3 gangen + wijn | €2.800,00 / **€350,00 p.p.** | in pakket |
-| Gezamenlijke extra drankjes/wijn | € — | €1.070,75 / **€133,84 p.p.** |
-| **Golftime** |  | **€275,00 / €34,38 p.p.** |
-| Kosten reisorganisatie | € — | €275,00 / **€34,38 p.p.** |
-| **Totaal historische reis** | **€2.800,00 + ontbijt + overige villa-kosten / €350,00 + ontbijt + overige villa-kosten p.p.** | **€14.491,00 / €1.811,38 p.p.** |
-| **Totaal inclusief gezamenlijke drankjes** | **€2.800,00 + ontbijt + overige villa-kosten / €350,00 + ontbijt + overige villa-kosten p.p.** | **€15.561,75 / €1.945,22 p.p.** |
+| Reis | Type | Vlucht | Verblijf | Vervoer | Golf | Ontbijt, diner & drankjes | Overige / organisatie | Totaal | p.p. | Status |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---|
+| [Villa Marazul](villas/villa-01-airbnb-30066458.md) | Villa | — | €1.760,00 | €1.168,80 | €4.504,00 | €2.792,10 | — | **€11.976,90** | **€1.497,11** | Kandidaat 2027 |
+| [Villa Albufeira 78](villas/villa-historisch-2024-algarve.md) | Villa | €1.752,00¹ | €3.273,00² | €1.168,80¹ | €4.504,00¹ | €2.792,10¹ | — | **€13.489,90** | **€1.686,24** | Prijsindicatie 2027 |
+| [Golftime Costa de la Luz 2026](package-trips/package-01-golftime-costa-de-la-luz-2026.md) | Golftime | €3.416,00 | €10.800,00 | €830,50 | In pakket | In pakket + €1.070,75 gedeelde drank | €275,00 | **€14.491,00** | **€1.811,38** | Historische referentie |
 
-### Richtprijs diner - Restaurante Solgamba
+¹ Historische 2024-referentie voor de villa-golfreis; nog niet geactualiseerd voor 2027.
 
-Voor de villa-kostenvergelijking gebruiken we als richtprijs **€50,00 per persoon per diner** bij Restaurante Solgamba. Dit is een richtprijs voor een diner inclusief drank.
+² Actuele prijsindicatie voor 23–30 oktober 2027, inclusief verplichte accommodatiekosten; de historische betaalde accommodatieprijs staat op de villa-subpagina.
 
-Daarmee rekenen we voor **8 personen €400 per diner** en voor **7 diners €2.800**. Dit is nadrukkelijk een **richtprijs**, geen bevestigde groepsprijs.
+De managementtabel laat bewust alleen de groepen zien. De onderliggende pagina's bevatten de historische onderbouwingen en de individuele items waar die beschikbaar zijn.
 
-### Historische Golftime 2026
-
-De historische Golftime-reis kostte **€14.491,00 voor 8 personen**, oftewel **€1.811,38 per persoon**. De oorspronkelijke opbouw wordt volledig in de vergelijking opgenomen:
-
-- vlucht: **€1.896,00 / €237,00 p.p.**;
-- bagage 20 kilo: **€848,00 / €106,00 p.p.**;
-- golfbagage 15 kilo: **€672,00 / €84,00 p.p.**;
-- pakketreis/verblijf: **€10.800,00 / €1.350,00 p.p.**;
-- kosten reisorganisatie: **€275,00 / €34,38 p.p.**, bestaande uit ticketingfee €200,00 + reserveringskosten €32,50 + calamiteitenfonds €2,50 + SGR-bijdrage €40,00.
-
-Deze bedragen tellen samen op tot **€14.491,00**. Bagage wordt hiermee dus niet langer buiten beschouwing gelaten.
-
-#### Schatting binnen de pakketprijs van €10.800
-
-Omdat €10.800 een bundelprijs is, is de exacte verdeling tussen hotel, halfpension, golf en transfers niet uit de factuur af te leiden. Op basis van het aangeleverde Stay & Play-niveau en de inmiddels verzamelde green fees is de werkbare reconstructie:
-
-| Onderdeel | Schatting voor 8 personen | Per persoon |
-|---|---:|---:|
-| Kamer + ontbijt, 4 kamers × 7 nachten | €1.960–€2.520 | €245–€315 |
-| Halfpension | €1.456 | €182 |
-| Golfwaarde, 7 rondes | ca. €3.280–€3.592 | ca. €410–€449 |
-| **Kamer + ontbijt + halfpension + golf** | **ca. €6.696–€7.568** | **ca. €837–€946** |
-| Resterend binnen pakketprijs €10.800 | ca. €3.232–€4.104 | ca. €404–€513 |
-
-De golfwaarde is een reconstructie; de afzonderlijke green fees stonden niet op de historische factuur. De resterende €3.232–€4.104 moet daarom niet als pure golfmarge worden gezien. Daarin zitten in ieder geval luchthaven-/golftransfers en overige bundel- en contractkosten. Zie de [golfbaanvergelijker](golf/index.md) en de [uitgebreide pakketberekening](comparisons/package-comparison.md) voor de onderliggende aannames.
-
-Voor **Ontbijt, diner & drankjes** nemen we de gezamenlijke extra drankjes/wijn apart mee. De historische €1.070,75 is opgesplitst in **€324,00 wijn bij eten** en **€746,75 overig**, oftewel respectievelijk **€40,50 en €93,34 per persoon**. Dit bedrag was geen onderdeel van de pakketprijs en wordt daarom als aanvullende gezamenlijke kosten getoond.
-
-Buggy's, trolleys, persoonlijke uitgaven en niet door alle 8 deelnemers gedeelde consumpties blijven uitgesloten.
-
-Voor de villa worden de overige bedragen pas ingevuld zodra de daadwerkelijke villa-, vlucht-, vervoers-, golf- en overige restaurantkosten voor begin oktober 2027 zijn gecontroleerd.
+[← Naar boven]
