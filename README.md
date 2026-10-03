@@ -54,27 +54,45 @@ Prijzen, beschikbaarheid, vluchtmogelijkheden en exacte golfgegevens worden pas 
 
 ## Echte kostenvergelijking
 
-Onderstaande tabel is de centrale **villa-versus-package kostenvergelijking**. We gebruiken de afgesproken zes kostenposten en rekenen steeds met 8 personen, 7 nachten en 7 golfrondes. Waar een pakketbedrag niet betrouwbaar over de zes posten kan worden uitgesplitst, blijft dat zichtbaar als onderdeel van het pakket in plaats van het bedrag kunstmatig te verdelen.
+Onderstaande tabel is de centrale **villa-versus-package kostenvergelijking**. De **Kostenpost** is gegroepeerd: de groep staat vetgedrukt en de onderliggende items niet. We rekenen met 8 personen, 7 nachten en 7 golfrondes.
 
-| Kostenpost | Villa | Georganiseerde golfreis |
+| Kostenpost | Villa | Historische Golftime 2026 |
 |---|---:|---:|
-| **Vlucht** | € — | **€2.096,00** |
-| **Verblijf** | € — | **in pakket** |
-| **Vervoer** | € — | **in pakket** |
-| **Golf** | € — | **in pakket** |
-| **Ontbijt/diner** | € — | **in pakket** |
-| **Drankjes** | € — | **€1.070,75** |
-| **Totaal basisvergelijking voor 8** | **€ —** | **€12.971,00** |
-| **Basisprijs per persoon** | **€ —** | **€1.621,38** |
-| **Totaal inclusief gezamenlijke drankjes** | **€ —** | **€14.041,75** |
-| **Per persoon inclusief gezamenlijke drankjes** | **€ —** | **€1.755,22** |
+| **Vlucht** |  | **€3.416,00** |
+| Vlucht | € — | €1.896,00 |
+| Bagage 20 kilo – per retour 1 × 8 | € — | €848,00 |
+| Golfbagage 15 kilo – per retour 1 × 8 | € — | €672,00 |
+| **Verblijf** |  | **€10.800,00** |
+| Verblijf | € — | €10.800,00 |
+| **Vervoer** |  | **in pakket** |
+| Luchthaven ↔ hotel en hotel ↔ golf | € — | in pakket |
+| **Golf** |  | **in pakket** |
+| 7 golfrondes | € — | in pakket |
+| **Ontbijt/diner** |  | **in pakket** |
+| Ontbijt | € — | in pakket |
+| Diner | € — | in pakket |
+| **Drankjes** |  | **€1.070,75** |
+| Wijn bij eten | € — | €324,00 |
+| Overig | € — | €746,75 |
+| **Pakketreis** |  | **€275,00** |
+| Kosten reisorganisatie | € — | €275,00 |
+| **Totaal historische reis** | **€ —** | **€14.491,00** |
+| **Totaal inclusief gezamenlijke drankjes** | **€ —** | **€15.561,75** |
 
-### Toelichting package
+### Historische Golftime 2026
 
-De package-kolom is gebaseerd op het historische Golftime-voorstel 2026, voor de vergelijking als rekenkundige aanname gebruikt voor 2027. Het historische totaal was **€14.491,00** voor 8 personen. Daarvan laten we **€1.520,00 aan bagagekosten** buiten beschouwing, conform de afgesproken vergelijkingsmethode. De resterende **€12.971,00** is de basisprijs voor de zes kostenposten; het pakket zelf kan niet betrouwbaar verder worden uitgesplitst zonder bedragen te verzinnen.
+De historische Golftime-reis kostte **€14.491,00 voor 8 personen**. De oorspronkelijke opbouw wordt volledig in de vergelijking opgenomen:
 
-De vlucht bestaat uit **€1.896,00 vluchtkosten + €200,00 ticketing fee = €2.096,00**. De pakketprijs van **€10.800,00** bevat de overige pakketonderdelen (waaronder verblijf, golf, halfboard en transfers), maar is niet betrouwbaar over de afzonderlijke kostenposten te verdelen.
+- vlucht: **€1.896,00**;
+- bagage 20 kilo: **€848,00**;
+- golfbagage 15 kilo: **€672,00**;
+- pakketreis/verblijf: **€10.800,00**;
+- kosten reisorganisatie: **€275,00**, bestaande uit ticketingfee €200,00 + reserveringskosten €32,50 + calamiteitenfonds €2,50 + SGR-bijdrage €40,00.
 
-De gezamenlijke extra drankjes/wijn bedragen **€1.070,75** en worden apart toegevoegd. Buggy's, trolleys, persoonlijke uitgaven en niet door alle 8 deelnemers gedeelde consumpties zijn uitgesloten.
+Deze bedragen tellen samen op tot **€14.491,00**. Bagage wordt hiermee dus niet langer buiten beschouwing gelaten.
+
+Voor **Drankjes** nemen we de gezamenlijke extra drankjes/wijn apart mee. De historische €1.070,75 is opgesplitst in **€324,00 wijn bij eten** en **€746,75 overig**. Dit bedrag was geen onderdeel van de pakketprijs en wordt daarom als aanvullende gezamenlijke kosten getoond.
+
+Buggy's, trolleys, persoonlijke uitgaven en niet door alle 8 deelnemers gedeelde consumpties blijven uitgesloten.
 
 Voor de villa worden de bedragen pas ingevuld zodra de daadwerkelijke villa-, vlucht-, vervoers-, golf- en restaurantkosten voor begin oktober 2027 zijn gecontroleerd.
