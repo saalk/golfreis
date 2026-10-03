@@ -18,16 +18,16 @@ Alle bedragen hieronder zijn **per persoon**. De historische villa uit 2024 word
 
 | Kostenpost | [Villa Marazul](villa-01-airbnb-30066458.md) 2027 p.p. | [Villa Albufeira 78](villa-historisch-2024-algarve.md) 2024 p.p. | [Villa Albufeira 78](villa-historisch-2024-algarve.md) 2027 p.p. |
 |---|---:|---:|---:|
-| Vlucht | €450,00¹ | €438,00 | €450,00¹ |
+| Vlucht | €450,00¹ | €400,00 | €450,00¹ |
 | Accommodatie | €220,00 | €173,88 | €409,13 |
 | Vervoer | €168,02¹ | €146,10 | €146,10¹ |
 | Golf | €533,00¹ | €563,00 | €533,00¹ |
 | Ontbijt & lunch | €42,00¹ | €36,51 | €42,00¹ |
 | Diner inclusief wijn | €337,81¹ | €293,75 | €337,81¹ |
 | Drankjes | €18,75¹ | €18,75 | €18,75¹ |
-| **Totaal** | **€1.769,58¹** | **€1.669,99** | **€1.887,24¹** |
+| **Totaal** | **€1.769,58¹** | **€1.631,99** | **€1.887,24¹** |
 
-¹ Voor 2027 wordt een vluchtbudget van **€450,00 p.p. inclusief bagage** aangehouden. De historische 2024-kolom gebruikt de werkelijk betaalde €438,00 p.p.; de €150 drankjes binnen de oorspronkelijke €442,10 post zijn een schatting. Voor 2027 wordt voor golf uitsluitend gerekend met banen met Golfamore-korting: Pine Cliffs, Pinheiros Altos, Castro Marim, NAU Salgados, Boavista, Villa Sol en Palmares, samen €533,00 p.p. na Golfamore-korting. De selectie is gericht op een totaal rond €600 p.p.
+¹ Voor 2027 wordt een vluchtbudget van **€450,00 p.p. inclusief bagage** aangehouden. De historische 2024-kolom gebruikt €400,00 p.p. voor vlucht, bagage en golfuitrusting; cabinebagage wordt niet meegerekend. De €150 drankjes binnen de oorspronkelijke €442,10 post zijn een schatting. Voor 2027 wordt voor golf uitsluitend gerekend met banen met Golfamore-korting: Pine Cliffs, Pinheiros Altos, Castro Marim, NAU Salgados, Boavista, Villa Sol en Palmares, samen €533,00 p.p. na Golfamore-korting. De selectie is gericht op een totaal rond €600 p.p.
 
 ## Centrale kostenreferentie voor villa's
 
