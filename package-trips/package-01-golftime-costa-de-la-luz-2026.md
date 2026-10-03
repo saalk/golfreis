@@ -50,7 +50,7 @@ De greenfees zijn onderdeel van het Stay & Play-arrangement en worden dus niet n
 |---|---:|---:|
 | Verblijf / pakketprijs | **€10.800,00** | **€1.350,00** |
 
-De €10.800 is een bundelprijs; de exacte interne verdeling over hotel, halfpension, golf en transfers staat niet afzonderlijk op de factuur.
+De €10.800 is de bundelprijs voor verblijf, halfpension, golf en transfers. Voor de vergelijkende tabel wordt deze bundel intern geraamd als ca. €836,19 p.p. verblijf + halfpension, €410,00 p.p. golf en €103,81 p.p. vervoer. Deze verdeling is een berekende referentie, niet een afzonderlijk gefactureerde hotelprijs.
 
 ## Vervoer — historische 2026
 
@@ -115,9 +115,9 @@ De gecombineerde post “Drankjes kroketjes” is niet meegenomen omdat het dran
 | Extra wijn bij eten | €324,00 | €40,50 |
 | Extra drankjes | €746,75 | €93,34 |
 | Extra lunch + water | €588,00 | €73,50 |
-| **Historische pakketprijs** | **€14.766,00** | **€1.845,76** |
-| **Pakketprijs + alle extra's** | **€16.424,75** | **€2.053,10** |
+| **Historische basisvergelijking** | **€14.491,00** | **€1.811,38** |
+| **Basisvergelijking + alle extra's** | **€16.149,75** | **€2.018,72** |
 
-De €1.070,75 gedeelde drankkosten en €588,00 lunch/water zijn aanvullende historische kosten en zijn niet inbegrepen in de pakketprijs van €14.766,00.
+De €1.070,75 gedeelde drankkosten en €588,00 lunch/water zijn aanvullende historische kosten en zijn niet inbegrepen in de pakketbundel van €10.800,00.
 
 [← Georganiseerde golfreizen](index.md)
