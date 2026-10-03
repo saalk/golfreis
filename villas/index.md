@@ -9,7 +9,7 @@ De individuele villa-pagina's bevatten alleen de gegevens van de accommodatie ze
 | Villa | Periode | Gasten | Accommodatie | Accommodatie p.p. | Totaal incl. gemeenschappelijke kosten | Totaal p.p. | Status |
 |---|---|---:|---:|---:|---:|---:|---|
 | [Villa Marazul — Airbnb 30066458](villa-01-airbnb-30066458.md) | 2–9 oktober 2027 | 8 | **€1.760,00** | **€220,00** | **€11.976,90¹** | **€1.497,11¹** | Kandidaat |
-| [Historische villa 2024 — Algarve](villa-historisch-2024-algarve.md) | 2024 | 8 | **€1.391,00²** | **€173,88²** | **€11.607,90²** | **€1.450,99²** | Historische referentie |
+| [Villa Albufeira 78 — historische villa 2024](villa-historisch-2024-algarve.md) | 2024 | 8 | **€1.391,00²** | **€173,88²** | **€11.607,90²** | **€1.450,99²** | Historische referentie |
 
 ¹ Marazul: accommodatieprijs van €1.760,00 plus de hieronder vastgelegde gemeenschappelijke kosten. Deze gemeenschappelijke kosten zijn historische 2024-referenties en zijn geen gecontroleerde 2027-prijzen.
 
@@ -31,7 +31,7 @@ Deze kosten worden **niet per villa opnieuw berekend**. Ze vormen de centrale ve
 
 ## Echte kostenvergelijking — accommodatie + gemeenschappelijke kosten
 
-| Kostenpost | [Villa Marazul](villa-01-airbnb-30066458.md) | [Historische villa 2024](villa-historisch-2024-algarve.md) |
+| Kostenpost | [Villa Marazul](villa-01-airbnb-30066458.md) | [Villa Albufeira 78](villa-historisch-2024-algarve.md) |
 |---|---:|---:|
 | **Accommodatie** | **€1.760,00 / €220,00 p.p.** | **€1.391,00 / €173,88 p.p.** |
 | Vlucht | €1.752,00 / €219,00 p.p. | €1.752,00 / €219,00 p.p. |
