@@ -1,69 +1,62 @@
 # Villa's
 
-Managementoverzicht van de villa-opties voor de golfreis van **8 personen, begin oktober 2027**.
-
-De individuele villa-pagina's bevatten alleen de gegevens van de accommodatie zelf. Alle kosten die niet rechtstreeks onderdeel zijn van de accommodatie worden hieronder centraal vastgelegd en gelden als dezelfde vergelijkingsposten voor iedere villa.
+Centraal overzicht van de villa-opties voor de golfreis van **8 personen, begin oktober 2027**. Deze pagina is het kostenoverzicht van alle villa's; de individuele villa-pagina's bevatten de onderbouwing.
 
 ## Managementsamenvatting
 
-| Villa | Periode | Gasten | Accommodatie | Accommodatie p.p. | Totaal incl. gemeenschappelijke kosten | Totaal p.p. | Status |
-|---|---|---:|---:|---:|---:|---:|---|
-| [Villa Marazul — Airbnb 30066458](villa-01-airbnb-30066458.md) | 2–9 oktober 2027 | 8 | **€1.760,00** | **€220,00** | **€11.976,90¹** | **€1.497,11¹** | Kandidaat |
-| [Villa Albufeira 78 — historische villa 2024](villa-historisch-2024-algarve.md) | 2024 | 8 | **€1.391,00²** | **€173,88²** | **€11.607,90²** | **€1.450,99²** | Historische referentie |
+| Villa | Periode | Gasten | Accommodatie | Totaal | p.p. | Status |
+|---|---|---:|---:|---:|---:|---|
+| [Villa Marazul — Airbnb 30066458](villa-01-airbnb-30066458.md) | 2–9 oktober 2027 | 8 | €1.760,00 | **€11.976,90** | **€1.497,11** | Kandidaat |
+| [Villa Albufeira 78 — historische villa 2024](villa-historisch-2024-algarve.md) | 23–30 oktober 2027¹ | 8 | €3.273,00 | **€13.489,90**¹ | **€1.686,24**¹ | Prijsindicatie |
 
-¹ Marazul: accommodatieprijs van €1.760,00 plus de hieronder vastgelegde gemeenschappelijke kosten. Deze gemeenschappelijke kosten zijn historische 2024-referenties en zijn geen gecontroleerde 2027-prijzen.
+¹ De overige kosten zijn historische 2024-referenties. De accommodatieprijs van €3.273,00 is de huidige prijsindicatie voor 2027.
 
-² Villa Albufeira 78: huidige prijsindicatie voor 23–30 oktober 2027, inclusief schoonmaak, administratiekosten en toeristenbelasting; de borg van €50 is uitgesloten. De daadwerkelijke historische reis vond plaats van 2–9 oktober 2024.
+## Kostenvergelijking
 
-## Gemeenschappelijke kosten — gelden voor alle villa's
-
-Deze kosten worden **niet per villa opnieuw berekend**. Ze vormen de centrale vergelijkingsbasis voor iedere villa.
-
-| Kostenpost | Totaal 8 personen | p.p. | Referentie |
-|---|---:|---:|---|
-| **Vlucht** | **€1.752,00** | **€219,00** | Historische 2024-referentie |
-| **Vervoer** | **€1.168,80** | **€146,10** | Historische 2024-referentie |
-| **Golf — 7 rondes** | **€4.504,00** | **€563,00** | Historische golfkosten; zie [golfvergelijker](../golf/index.md) |
-| **Ontbijt, diner & drankjes** | **€2.792,10** | **€349,01** | Historische 2024-referentie |
-| **Gemeenschappelijke kosten totaal** | **€10.216,90** | **€1.277,11** | Referentie voor alle villa's |
-
-> **Belangrijk:** de €10.216,90 is de huidige centrale kostenreferentie buiten de accommodatie. Voor een definitieve 2027-begroting worden deze posten later geactualiseerd met de werkelijke vlucht-, vervoer-, golf- en voedingskosten.
-
-## Kostenvergelijking — accommodatie + gemeenschappelijke kosten
+De groepen en items zijn gelijk aan de structuur op de individuele villa-pagina's.
 
 | Kostenpost | [Villa Marazul](villa-01-airbnb-30066458.md) | [Villa Albufeira 78](villa-historisch-2024-algarve.md) |
 |---|---:|---:|
-| **Accommodatie** | **€1.760,00 / €220,00 p.p.** | **€3.273,00 / €409,13 p.p.** |
-| Vlucht | €1.752,00 / €219,00 p.p. | €1.752,00 / €219,00 p.p. |
-| Vervoer | €1.168,80 / €146,10 p.p. | €1.168,80 / €146,10 p.p. |
-| Golf | €4.504,00 / €563,00 p.p. | €4.504,00 / €563,00 p.p. |
-| Ontbijt, diner & drankjes | €2.792,10 / €349,01 p.p. | €2.792,10 / €349,01 p.p. |
+| **Vlucht** | — | €1.752,00 / €219,00 p.p. |
+| Vlucht | centraal | €1.752,00 / €219,00 p.p.¹ |
+| **Verblijf** | **€1.760,00 / €220,00 p.p.** | **€3.273,00 / €409,13 p.p.** |
+| Accommodatie | €1.760,00 / €220,00 p.p. | €3.273,00 / €409,13 p.p. |
+| **Vervoer** | €1.168,80 / €146,10 p.p.¹ | €1.168,80 / €146,10 p.p.¹ |
+| Huurauto/busje, brandstof, parkeren/tol en transfers | €1.168,80 / €146,10 p.p.¹ | €1.168,80 / €146,10 p.p.¹ |
+| **Golf** | €4.504,00 / €563,00 p.p.¹ | €4.504,00 / €563,00 p.p.¹ |
+| 7 golfrondes | €4.504,00 / €563,00 p.p.¹ | €4.504,00 / €563,00 p.p.¹ |
+| **Ontbijt, diner & drankjes** | €2.792,10 / €349,01 p.p.¹ | €2.792,10 / €349,01 p.p.¹ |
+| Ontbijt | onderdeel van centrale referentie | €442,10?¹ |
+| Diner | onderdeel van centrale referentie | €2.350,00?¹ |
+| Gezamenlijke extra drankjes/wijn | onderdeel van centrale referentie | — |
 | **Totaal** | **€11.976,90 / €1.497,11 p.p.** | **€13.489,90 / €1.686,24 p.p.** |
 
-## Wat moet nog worden vastgesteld voor 2027?
+¹ Historische 2024-referentie en nog geen gecontroleerde 2027-prijs. De vraagtekenbedragen worden op de historische subpagina als historische kostenonderbouwing verder uitgewerkt.
 
-| Onderdeel | Status |
-|---|---|
-| Marazul accommodatie 2–9 oktober 2027 | **Vastgelegd: €1.760,00** |
-| Villa Albufeira 78 accommodatie 23–30 oktober 2027 | **Prijsindicatie: €3.273,00 incl. verplichte extra's** |
-| Toeristenbelasting / verplichte accommodatiekosten | Nog controleren of inbegrepen in €1.760,00 |
-| Vlucht voor 8 personen | 2027-prijs nog bepalen |
-| Huurauto / busje | 2027-prijs nog bepalen |
-| Brandstof, parkeren en tol | 2027-prijs nog bepalen |
-| 7 golfrondes | 2027-prijzen bepalen via [golfvergelijker](../golf/index.md) |
-| 7 diners + ontbijt | 2027-budget bepalen |
-| Gedeelde extra drankjes/wijn | 2027-budget bepalen |
+## Centrale kostenreferentie voor villa's
+
+Voor nieuwe villa's worden de niet-accommodatiekosten centraal als referentie gebruikt totdat actuele 2027-bedragen beschikbaar zijn.
+
+| Kostenpost | Totaal 8 personen | p.p. |
+|---|---:|---:|
+| **Vlucht** | €1.752,00 | €219,00 |
+| **Vervoer** | €1.168,80 | €146,10 |
+| **Golf** | €4.504,00 | €563,00 |
+| **Ontbijt, diner & drankjes** | €2.792,10 | €349,01 |
+| **Centrale referentie** | **€10.216,90** | **€1.277,11** |
+
+Deze bedragen zijn historische 2024-referenties en worden voor 2027 later geactualiseerd.
 
 ## Villa-kenmerken
 
-| Villa | Land | Regio / plaats | Slaapkamers | Badkamers | Zwembad | Airco | Parkeren | Bron |
-|---|---|---|---:|---:|---|---|---|---|
-| [Villa Marazul](villa-01-airbnb-30066458.md) | Portugal | Albufeira, Algarve | 5 | 5 | Ja | Ja | Ja | [Airbnb](https://www.airbnb.nl/rooms/30066458) |
-| [Villa Albufeira 78](villa-historisch-2024-algarve.md) | 23–30 oktober 2027 | 8 | **€3.273,00** | **€409,13** | **€13.489,90** | **€1.686,24** | Huidige prijsindicatie |
+| Villa | Land | Regio / plaats | Slaapkamers | Badkamers | Zwembad | Airco | Parkeren |
+|---|---|---|---:|---:|---|---|---|
+| [Villa Marazul](villa-01-airbnb-30066458.md) | Portugal | Albufeira, Algarve | 5 | 5 | Ja | Ja | Ja |
+| [Villa Albufeira 78](villa-historisch-2024-algarve.md) | Portugal | Albufeira, Algarve | 6 | 5 | Ja | Ja | Niet vastgelegd |
 
 ## Onderliggende pagina's
 
-- [Villa Marazul — accommodatiegegevens](villa-01-airbnb-30066458.md)
-- [Historische villa 2024 — werkelijke kosten](villa-historisch-2024-algarve.md)
+- [Villa Marazul — kosten en globale kenmerken](villa-01-airbnb-30066458.md)
+- [Villa Albufeira 78 — historische kostenonderbouwing](villa-historisch-2024-algarve.md)
 
 [← Terug naar overzicht](../README.md)
