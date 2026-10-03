@@ -68,16 +68,22 @@ Onderstaande tabel is de centrale **villa-versus-package kostenvergelijking**. D
 | Luchthaven ↔ hotel en hotel ↔ golf | € — | in pakket |
 | **Golf** |  | **in pakket** |
 | 7 golfrondes | € — | in pakket |
-| **Ontbijt/diner** |  | **in pakket** |
+| **Ontbijt/diner** | **€2.520,00** | **in pakket** |
 | Ontbijt | € — | in pakket |
-| Diner | € — | in pakket |
+| Diner – Restaurante Solgamba, 3 gangen + ½ fles wijn p.p. | €2.520,00 | in pakket |
 | **Drankjes** |  | **€1.070,75** |
 | Wijn bij eten | € — | €324,00 |
 | Overig | € — | €746,75 |
 | **Pakketreis** |  | **€275,00** |
 | Kosten reisorganisatie | € — | €275,00 |
-| **Totaal historische reis** | **€ —** | **€14.491,00** |
-| **Totaal inclusief gezamenlijke drankjes** | **€ —** | **€15.561,75** |
+| **Totaal historische reis** | **€2.520,00 + overige villa-kosten** | **€14.491,00** |
+| **Totaal inclusief gezamenlijke drankjes** | **€2.520,00 + overige villa-kosten** | **€15.561,75** |
+
+### Richtprijs diner — Restaurante Solgamba
+
+Voor de villa-kostenvergelijking gebruiken we als richtprijs **€45,00 per persoon per diner** bij entity["restaurant","Restaurante Solgamba","Albufeira, Faro, Portugal | R. do Ténis 3, 8200-186 Albufeira"]. Dit is gebaseerd op een realistische combinatie van een voorgerecht, hoofdgerecht, dessert en ongeveer een halve fles wijn per persoon. De actuele menukaart laat voorgerechten grofweg rond €4–€9 zien, hoofdgerechten rond €12–€25 en desserts rond €4,50–€6. citeturn0search0turn0search4
+
+Daarmee rekenen we voor **8 personen €360 per diner** en voor **7 diners €2.520**. Dit is nadrukkelijk een **richtprijs**, geen bevestigde groepsprijs. De gepubliceerde menukaart vermeldt geen vaste prijs voor een halve fles wijn; daarom is voor wijn een redelijke schatting opgenomen. citeturn0search0turn0search9
 
 ### Historische Golftime 2026
 
@@ -95,4 +101,4 @@ Voor **Drankjes** nemen we de gezamenlijke extra drankjes/wijn apart mee. De his
 
 Buggy's, trolleys, persoonlijke uitgaven en niet door alle 8 deelnemers gedeelde consumpties blijven uitgesloten.
 
-Voor de villa worden de bedragen pas ingevuld zodra de daadwerkelijke villa-, vlucht-, vervoers-, golf- en restaurantkosten voor begin oktober 2027 zijn gecontroleerd.
+Voor de villa worden de overige bedragen pas ingevuld zodra de daadwerkelijke villa-, vlucht-, vervoers-, golf- en overige restaurantkosten voor begin oktober 2027 zijn gecontroleerd.
