@@ -55,7 +55,7 @@ Alle genoemde transferprijzen zijn retourprijzen.
 
 | Kostenpost | Waarde |
 |---|---:|
-| **7 golfrondes** | **In pakket** |
+| **7 golfrondes — berekende greenfee-referentie** | **€410,00 p.p.** |
 
 De zeven rondes waren Nuevo Portil, El Rompido North, Quinta do Vale, Bellavista, El Rompido South, Islantilla en opnieuw Nuevo Portil.
 
@@ -95,7 +95,7 @@ De gecombineerde post “Drankjes kroketjes” is niet meegenomen omdat het dran
 | Vlucht | €3.416,00 | €427,00 |
 | Verblijf / pakket | €10.800,00 | €1.350,00 |
 | Vervoer | Onderdeel van pakket | — |
-| Golf | In pakket | — |
+| Golf | Onderdeel van pakket; berekende greenfee-referentie €410,00 p.p. | €410,00 |
 | Ontbijt, diner & drankjes | In pakket + €1.070,75 drank | €133,84 drank |
 | Overige / organisatie | €275,00 | €34,38 |
 | **Historische pakketprijs** | **€14.491,00** | **€1.811,38** |
