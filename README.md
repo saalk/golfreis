@@ -46,7 +46,7 @@ De villa-kolommen zijn opgebouwd door de onderliggende kosten per onderdeel op t
 
 | Kostenpost | Villa Marazul 2027 p.p. | Villa Albufeira 78 2027 p.p. | Golftime 2026 p.p. |
 |---|---:|---:|---:|
-| Vlucht | €219,00¹ | €219,00¹ | €427,00 |
+| Vlucht | €438,00¹ | €438,00¹ | €427,00 |
 | Verblijf | €220,00 | €409,13¹ | €1.350,00 |
 | Vervoer | €146,10¹ | €146,10¹ | ca. €103,81² |
 | Golf | €563,00¹ | €563,00¹ | ca. €410,00² |
@@ -54,11 +54,11 @@ De villa-kolommen zijn opgebouwd door de onderliggende kosten per onderdeel op t
 | Diner inclusief wijn | €293,75¹ | €293,75¹ | In pakket + €40,50 wijn |
 | Drankjes | — | — | €93,34 |
 | Overige / organisatie | — | — | €34,38 |
-| **Berekend totaal villa** | **€1.497,11** | **€1.686,24¹** | — |
+| **Berekend totaal villa** | **€1.716,11¹** | **€1.905,24¹** | — |
 | **Pakketprijs** | — | — | **€1.811,38** |
 | **Pakketprijs + gezamenlijke drankjes buiten pakket** | — | — | **€1.945,22** |
 
-¹ Historische 2024-referentie die voor de 2027-villa's als centrale kostenreferentie wordt gebruikt. De bedragen zijn nog geen gecontroleerde 2027-prijzen.
+¹ De villa-vluchtreferentie is gebaseerd op de werkelijk betaalde historische 2024-vlucht van **€438,00 p.p.**, inclusief vlucht, bagage, golfuitrusting en cabinebagage. Voor 2027 is dit een referentie en nog geen gecontroleerde boekingsprijs. De overige villa-bedragen zijn eveneens historische 2024-referenties tenzij anders vermeld.
 
 ² Geschatte interne waarde van een onderdeel dat al in de pakketprijs zit. Deze waarde is afgeleid uit de beschikbare 2026-golf- en vervoersgegevens en wordt **niet bovenop de pakketprijs opgeteld**.
 
