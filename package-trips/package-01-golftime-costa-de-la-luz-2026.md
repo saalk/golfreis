@@ -96,11 +96,12 @@ Alleen gezamenlijke extra drankjes en wijn van alle 8 deelnemers worden meegenom
 
 | Kostenpost | Totaal | p.p. |
 |---|---:|---:|
-| **Gezamenlijke extra drankjes/wijn** | **€1.070,75** | **€133,84** |
+| **Gezamenlijke extra drankjes/wijn** | **€1.136,60** | **€142,08** |
 | Wijn bij eten | €324,00 | €40,50 |
 | Overige drankjes | €746,75 | €93,34 |
+| Drankjes kroketjes | €65,85 | €8,23 |
 
-De gecombineerde post “Drankjes kroketjes” is niet meegenomen omdat het drankdeel niet afzonderlijk kon worden vastgesteld.
+De gecombineerde post “Drankjes kroketjes” wordt nu volledig meegenomen als aanvullende drankkosten.
 
 ## Historisch totaal
 
@@ -113,11 +114,11 @@ De gecombineerde post “Drankjes kroketjes” is niet meegenomen omdat het dran
 | Ontbijt | In pakket | — |
 | Diner | In pakket | — |
 | Extra wijn bij eten | €324,00 | €40,50 |
-| Extra drankjes | €746,75 | €93,34 |
+| Extra drankjes | €812,60 | €101,58 |
 | Extra lunch + water | €588,00 | €73,50 |
 | **Historische basisvergelijking** | **€14.491,00** | **€1.811,38** |
-| **Basisvergelijking + alle extra's** | **€16.149,75** | **€2.018,72** |
+| **Basisvergelijking + alle extra's** | **€16.215,60** | **€2.026,95** |
 
-De €1.070,75 gedeelde drankkosten en €588,00 lunch/water zijn aanvullende historische kosten en zijn niet inbegrepen in de pakketbundel van €10.800,00.
+De €1.136,60 gedeelde drankkosten en €588,00 lunch/water zijn aanvullende historische kosten en zijn niet inbegrepen in de pakketbundel van €10.800,00.
 
 [← Georganiseerde golfreizen](index.md)
