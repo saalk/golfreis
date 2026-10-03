@@ -10,22 +10,56 @@ Waar een 2027-tarief nog niet officieel beschikbaar is, staat een indicatie of `
 
 ## Golfbaanvergelijker
 
-| Reis | Golfbaan | Land | Historische betaalde / gereconstrueerde green fee p.p. | Mogelijke 2027 green fee p.p. |
-|---|---|---|---:|---:|
-| **2024** | [Pine Cliffs](https://www.pinecliffs.com/en/golf/) | Portugal | **€36,00*** | **€66 indicatie** |
-| **2024** | [Quinta do Lago South](https://www.quintadolago.com/en/golf/) | Portugal | **€152,50** ** | **€264 indicatie** |
-| **2024** | [Quinta do Lago Laranjal](https://www.quintadolago.com/en/golf/) | Portugal | **€152,50** ** | — |
-| **2024** | [Pinheiros Altos](https://www.pinheirosaltos.com/) | Portugal | **€74,00** | — |
-| **2024** | [Castro Marim](https://www.castromarimgolf.com/) | Portugal | **€52,50** | — |
-| **2024** | [NAU Salgados](https://www.nauhotels.com/en/hotel/nau-salgados-golf-course/) | Portugal | **€52,50** | **€139 indicatie** |
-| **2024** | [Boavista Golf](https://www.boavistaresort.pt/en/Menu/Golf/) | Portugal | **€52,00** | **€120 indicatie** |
-| **2026** | [Nuevo Portil Golf](https://www.golfnuevoportil.com/) | Spanje | **€45 indicatie** | **€45 indicatie** |
-| **2026** | [El Rompido North](https://www.elrompidogolf.com/) | Spanje | **€59** | **€75** |
-| **2026** | [Quinta do Vale](https://www.quintadovale.com/) | Portugal | **€95** | **€99** / **€86 groep 8+** |
-| **2026** | [Bellavista Golf Club](https://golfbellavista.com/) | Spanje | **ca. €46 indicatie** | **ca. €47 indicatie** |
-| **2026** | [El Rompido South](https://www.elrompidogolf.com/) | Spanje | **€59** | **€75** |
-| **2026** | [Islantilla Golf](https://www.islantillagolfresort.com/) | Spanje | **€61** | **€63** |
-| **2026** | [Nuevo Portil Golf](https://www.golfnuevoportil.com/) | Spanje | **€45 indicatie** | **€45 indicatie** |
+De tabel bevat zowel eerder gespeelde banen als interessante Algarve-banen uit de aangeleverde 2024-selectie. De belangrijkste vergelijkingskolommen blijven de **historische green fee** en de **mogelijke 2027 green fee**.
+
+Voor banen waarvoor alleen een 2024-prijs beschikbaar is, is de 2027-prijs als indicatie berekend met een eenvoudige jaarlijkse prijsstijging van **4%**: 2024-prijs × 1,04³ ≈ 2027-prijs. Waar inmiddels een concretere 2027-prijs bekend is, gebruiken we die in plaats van de rekenkundige prognose.
+
+| Reis | Golfbaan | Plaats | Cijfer | Afstand Albufeira km | Historische green fee p.p. | Mogelijke 2027 green fee p.p. |
+|---|---|---|---:|---:|---:|---:|
+| **2024** | [Pine Cliffs](https://www.pinecliffs.com/en/golf/) | Albufeira | 7,6 | 7 | **€36,00*** | **€66 indicatie** |
+| **2024** | [Quinta do Lago South](https://www.quintadolago.com/en/golf/) | Vale do Lobo | 8,6 | 41 | **€152,50** ** | **€264 indicatie** |
+| **2024** | [Quinta do Lago Laranjal](https://www.quintadolago.com/en/golf/) | Vale do Lobo | — | 41 | **€152,50** ** | — |
+| **2024** | [Pinheiros Altos](https://www.pinheirosaltos.com/) | Vale do Lobo | 7,9 | 42 | **€74,00** | **€83 indicatie** |
+| **2024** | [Castro Marim](https://www.castromarimgolf.com/) | Castro Marim | 7,9 | 93 | **€52,50** | **€59 indicatie** |
+| **2024** | [NAU Salgados](https://www.nauhotels.com/en/hotel/nau-salgados-golf-course/) | Albufeira | 7,5 | 9 | **€52,50** | **€139 indicatie** |
+| **2024** | [Boavista Golf](https://www.boavistaresort.pt/en/Menu/Golf/) | Lagos | 7,8 | 58 | **€52,00** | **€120 indicatie** |
+| **2024** | Monte Rei Golf Club | Vila Nova de Cacela | 9,1 | 95 | **€220,00** | **€248 indicatie** |
+| **2024** | Quinta do Lago Golf Club | Vale do Lobo | 8,6 | 41 | — | — |
+| **2024** | Dom Pedro Victoria | Vilamoura | 8,4 | 14 | **€175,00** | **€197 indicatie** |
+| **2024** | Vale do Lobo Golf Club | Vale do Lobo | 8,4 | 39 | **€190,00** | **€214 indicatie** |
+| **2024** | Ombria | — | 8,4 | 36 | **€160,00** | **€180 indicatie** |
+| **2024** | Dom Pedro Old Course | Vilamoura | 8,3 | 16 | **€175,00** | **€197 indicatie** |
+| **2024** | Quinta de Cima | Vila Nova de Cacela | 8,2 | 80 | **€190,00** | **€214 indicatie** |
+| **2024** | Amendoeira Golf Resort — Faldo / O'Connor | Alcantarilha | 8,1 | 20 | **ca. €160,00** | **ca. €180 indicatie** |
+| **2024** | Espiche | Lagos | 8,1 | 63 | — | — |
+| **2026** | [Quinta do Vale](https://www.quintadovale.com/) | Castro Marim | 8,1 | 90 | **€95** | **€99** / **€86 groep 8+** |
+| **2024** | Pestana Golf Gramacho Course | Lagos | 8,1 | 33 | **€129,00** | **€145 indicatie** |
+| **2024** | Quinta da Ria | Vila Nova de Cacela | 8,1 | 80 | **€121,00** | **€136 indicatie** |
+| **2024** | Palmares Golf — Praia / Alvor | Lagos | 8,0 | 50 | **€122,00** | **€137 indicatie** |
+| **2024** | Castro Marim Golfe and Country Club | Castro Marim | 7,9 | 93 | — | — |
+| **2024** | Dom Pedro Pinhal Golf | Vilamoura | 7,9 | 17 | **€121,00** | **€136 indicatie** |
+| **2024** | Pestana Vila Sol Golf | Vilamoura | 7,9 | 18 | **€122,00** | **€137 indicatie** |
+| **2024** | San Lorenzo | Vale do Lobo | 7,9 | 44 | **€180,00** | **€203 indicatie** |
+| **2024** | NAU Alamos | — | 7,9 | — | — | — |
+| **2024** | Benamor Golf | Tavira | 7,8 | 75 | **€86,00** | **€97 indicatie** |
+| **2024** | Balaia Golf Village | Olhos de Água | 7,7 | 4 | — | — |
+| **2024** | Parque da Floresta / Santo Antonio | Budens | 7,7 | 70 | — | — |
+| **2024** | Dom Pedro Millennium Golf Course | Vilamoura | 7,6 | 13 | **€121,00** | **€136 indicatie** |
+| **2024** | Pestana Golf Silves Course | Lagos | 7,6 | 31 | **€99,00** | **€111 indicatie** |
+| **2024** | Pestana / Vale da Pinta | — | 7,6 | — | **€129,00** | **€145 indicatie** |
+| **2024** | NAU Morgado do Reguengo — Morgado / Álamos | Portimão | 7,5 | 39 | — | — |
+| **2024** | Penina Golf & Resort Le Meridien | Portimão | 7,5 | 40 | — | — |
+| **2024** | Pestana Alto Golf | Alvor | 7,3 | 44 | **€76,00** | **€86 indicatie** |
+| **2024** | Vale de Milho | Lagoa | 7,2 | 28 | — | — |
+| **2024** | Dom Pedro Laguna Golf Course | Vilamoura | 7,1 | 13 | **€121,00** | **€136 indicatie** |
+| **2024** | Pestana Beloura | — | 6,8 | — | **€75,00** | **€84 indicatie** |
+| **2024** | Colina Verde Golf Maragota | Moncarapacho | 5,9 | 60 | — | — |
+| **2026** | [Nuevo Portil Golf](https://www.golfnuevoportil.com/) | Spanje | — | — | **€45 indicatie** | **€45 indicatie** |
+| **2026** | [El Rompido North](https://www.elrompidogolf.com/) | Spanje | — | — | **€59** | **€75** |
+| **2026** | [Bellavista Golf Club](https://golfbellavista.com/) | Spanje | — | — | **ca. €46 indicatie** | **ca. €47 indicatie** |
+| **2026** | [El Rompido South](https://www.elrompidogolf.com/) | Spanje | — | — | **€59** | **€75** |
+| **2026** | [Islantilla Golf](https://www.islantillagolfresort.com/) | Spanje | — | — | **€61** | **€63** |
+| **2026** | [Nuevo Portil Golf](https://www.golfnuevoportil.com/) | Spanje | — | — | **€45 indicatie** | **€45 indicatie** |
 
 ### Toelichting historische bedragen
 
