@@ -74,7 +74,7 @@ Onderstaande tabel is de centrale **villa-versus-package kostenvergelijking**. B
 | **Pakketreis** |  | **€275,00 / €34,38 p.p.** |
 | Kosten reisorganisatie | € — | €275,00 / **€34,38 p.p.** |
 | **Totaal historische reis** | **€2.800,00 + ontbijt + overige villa-kosten / €350,00 + ontbijt + overige villa-kosten p.p.** | **€14.491,00 / €1.811,38 p.p.** |
-| **Totaal inclusief gezamenlijke drankjes** | **€2.800,00 + ontbijt + overige villa-kosten / €350,00 + ontbijt + overige villa-kosten p.p.** | **€15.561,75 / €1.945,22 p.p.** |
+| **Totaal inclusief gezamenlijke drankjes** | **€2.800,00 + ontbijt + overige villa-kosten / €350,00 + €133,84 + overige villa-kosten p.p.** | **€15.561,75 / €1.945,22 p.p.** |
 
 ### Richtprijs diner - Restaurante Solgamba
 
@@ -93,6 +93,20 @@ De historische Golftime-reis kostte **€14.491,00 voor 8 personen**, oftewel **
 - kosten reisorganisatie: **€275,00 / €34,38 p.p.**, bestaande uit ticketingfee €200,00 + reserveringskosten €32,50 + calamiteitenfonds €2,50 + SGR-bijdrage €40,00.
 
 Deze bedragen tellen samen op tot **€14.491,00**. Bagage wordt hiermee dus niet langer buiten beschouwing gelaten.
+
+#### Schatting binnen de pakketprijs van €10.800
+
+Omdat €10.800 een bundelprijs is, is de exacte verdeling tussen hotel, halfpension, golf en transfers niet uit de factuur af te leiden. Op basis van het aangeleverde Stay & Play-niveau en de inmiddels verzamelde green fees is de werkbare reconstructie:
+
+| Onderdeel | Schatting voor 8 personen | Per persoon |
+|---|---:|---:|
+| Kamer + ontbijt, 4 kamers × 7 nachten | €1.960–€2.520 | €245–€315 |
+| Halfpension | €1.456 | €182 |
+| Golfwaarde, 7 rondes | ca. €3.280–€3.592 | ca. €410–€449 |
+| **Kamer + ontbijt + halfpension + golf** | **ca. €6.696–€7.568** | **ca. €837–€946** |
+| Resterend binnen pakketprijs €10.800 | ca. €3.232–€4.104 | ca. €404–€513 |
+
+De golfwaarde is een reconstructie; de afzonderlijke green fees stonden niet op de historische factuur. De resterende €3.232–€4.104 moet daarom niet als pure golfmarge worden gezien. Daarin zitten in ieder geval luchthaven-/golftransfers en overige bundel- en contractkosten. Zie de [golfbaanvergelijker](golf/index.md) en de [uitgebreide pakketberekening](comparisons/package-comparison.md) voor de onderliggende aannames.
 
 Voor **Ontbijt, diner & drankjes** nemen we de gezamenlijke extra drankjes/wijn apart mee. De historische €1.070,75 is opgesplitst in **€324,00 wijn bij eten** en **€746,75 overig**, oftewel respectievelijk **€40,50 en €93,34 per persoon**. Dit bedrag was geen onderdeel van de pakketprijs en wordt daarom als aanvullende gezamenlijke kosten getoond.
 
