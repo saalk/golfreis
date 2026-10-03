@@ -25,7 +25,11 @@ Historische package-reis van **24 september – 1 oktober 2026** voor **8 person
 | Vlucht | €1.896,00 | €237,00 |
 | Bagage 20 kilo | €848,00 | €106,00 |
 | Golfbagage 15 kilo | €672,00 | €84,00 |
-| **Vlucht totaal** | **€3.416,00** | **€427,00** |
+| **Vlucht + bagage + golfbagage** | **€3.416,00** | **€427,00** |
+| Gemarkeerde boekings-/organisatiekosten¹ | €275,00 | €34,38 |
+| **Vlucht totaal inclusief gemarkeerde kosten** | **€3.691,00** | **€461,38** |
+
+¹ Inclusief ticketingfee €200, reserveringskosten €32,50, calamiteitenfonds €2,50 en SGR €40. Deze kosten worden bewust bij **Vlucht** opgenomen en niet als aparte kostencategorie weergegeven.
 
 ## Verblijf — historische 2026
 
@@ -78,28 +82,17 @@ Alleen gezamenlijke extra drankjes en wijn van alle 8 deelnemers worden meegenom
 
 De gecombineerde post “Drankjes kroketjes” is niet meegenomen omdat het drankdeel niet afzonderlijk kon worden vastgesteld.
 
-## Overige / organisatie — historische 2026
-
-| Kostenpost | Totaal | p.p. |
-|---|---:|---:|
-| Ticketingfee | €200,00 | €25,00 |
-| Reserveringskosten | €32,50 | €4,06 |
-| Calamiteitenfonds | €2,50 | €0,31 |
-| SGR-bijdrage | €40,00 | €5,00 |
-| **Overige / organisatie totaal** | **€275,00** | **€34,38** |
-
 ## Historisch totaal
 
 | Kostenpost | Totaal | p.p. |
 |---|---:|---:|
-| Vlucht | €3.416,00 | €427,00 |
+| Vlucht inclusief gemarkeerde kosten | €3.691,00 | €461,38 |
 | Verblijf / pakket | €10.800,00 | €1.350,00 |
 | Vervoer | Onderdeel van pakket | — |
 | Golf | Onderdeel van pakket; berekende greenfee-referentie €410,00 p.p. | €410,00 |
 | Ontbijt, diner & drankjes | In pakket + €1.070,75 drank | €133,84 drank |
-| Overige / organisatie | €275,00 | €34,38 |
-| **Historische pakketprijs** | **€14.491,00** | **€1.811,38** |
+| **Historische pakketprijs** | **€14.766,00** | **€1.845,76** |
 
-De €1.070,75 gedeelde drankkosten zijn aanvullende historische kosten en zijn niet inbegrepen in de pakketprijs van €14.491,00.
+De €1.070,75 gedeelde drankkosten zijn aanvullende historische kosten en zijn niet inbegrepen in de pakketprijs van €14.766,00.
 
 [← Georganiseerde golfreizen](index.md)
