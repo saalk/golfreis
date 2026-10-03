@@ -37,15 +37,17 @@ De €10.800 is een bundelprijs; de exacte interne verdeling over hotel, halfpen
 
 ## Vervoer — historische 2026
 
+Het vervoer was onderdeel van de pakketreis en is daarom **niet als afzonderlijke kostenpost bovenop de pakketprijs** meegenomen in de historische totaalprijs. De onderstaande bedragen zijn uitsluitend de historische onderbouwing van de vervoerscomponent van de reis.
+
 | Kostenpost | Totaal | p.p. |
 |---|---:|---:|
-| **Vervoer totaal** | **€830,50** | **€103,81** |
 | Bellavista ↔ hotel | €125,00 | |
 | El Rompido ↔ hotel — 2x | €130,00 | |
 | Islantilla ↔ hotel | €125,50 | |
 | Quinta do Vale ↔ hotel | €220,00 | |
 | Luchthaven ↔ hotel | €230,00 | |
 | Nuevo Portil Golf ↔ hotel | €0,00 | |
+| **Vervoer — onderdeel van pakket** | **€830,50** | **€103,81** |
 
 Alle genoemde transferprijzen zijn retourprijzen.
 
@@ -91,8 +93,8 @@ De gecombineerde post “Drankjes kroketjes” is niet meegenomen omdat het dran
 | Kostenpost | Totaal | p.p. |
 |---|---:|---:|
 | Vlucht | €3.416,00 | €427,00 |
-| Verblijf | €10.800,00 | €1.350,00 |
-| Vervoer | €830,50 | €103,81 |
+| Verblijf / pakket | €10.800,00 | €1.350,00 |
+| Vervoer | Onderdeel van pakket | — |
 | Golf | In pakket | — |
 | Ontbijt, diner & drankjes | In pakket + €1.070,75 drank | €133,84 drank |
 | Overige / organisatie | €275,00 | €34,38 |
