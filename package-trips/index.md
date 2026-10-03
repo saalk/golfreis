@@ -29,14 +29,16 @@ Alle bedragen hieronder zijn **per persoon**. De individuele vervoersdetails sta
 | Kostenpost | Golftime Costa de la Luz 2026 p.p. |
 |---|---:|
 | Vlucht inclusief bagage, golfbagage en gemarkeerde kosten³ | €461,38 |
-| Verblijf / pakketreis | €1.350,00 |
-| Luchthaven ↔ hotel | €28,75 |
-| Hotel ↔ golfbanen | €75,06 |
+| Verblijf + halfpension binnen pakket | ca. €836,19² |
+| Luchthaven ↔ hotel | €28,75² |
+| Hotel ↔ golfbanen | €75,06² |
 | Golf | In pakket |
 | 7 golfrondes | In pakket |
 | Ontbijt | In pakket |
 | Diner | In pakket |
 | Gezamenlijke extra drankjes/wijn | €133,84 |
+
+² Geschatte interne waarden binnen de pakketprijs: verblijf + halfpension ca. €836,19 p.p.; vervoer €103,81 p.p. Deze bedragen worden niet bovenop de pakketprijs opgeteld.
 
 ³ Inclusief ticketingfee, reserveringskosten, calamiteitenfonds en SGR; deze kosten zijn onderdeel van Vlucht en worden nergens als aparte categorie opgenomen.
 
