@@ -50,41 +50,41 @@ De vluchtprijs van **€438,00 p.p.** was inclusief vlucht, bagage, golfuitrusti
 
 | Item | Totaal | p.p. |
 |---|---:|---:|
-| Vervoer | **€1.168,80** | **€146,10** |
-| Huurauto Seat Leon | €321,00 | |
-| Mercedes Vito | €572,00 | |
-| Brandstof | €167,80 | |
-| Taxi | €108,00 | |
+| Huurauto Seat Leon | €321,00 | €40,13 |
+| Mercedes Vito | €572,00 | €71,50 |
+| Brandstof | €167,80 | €20,98 |
+| Taxi | €108,00 | €13,50 |
+| **Vervoer totaal** | **€1.168,80** | **€146,10** |
 
 ## Golf — historische 2024
 
-| Item | Totaal |
-|---|---:|
-| Golf totaal | **€4.504,00** |
-| Pine Cliffs | €216,00 |
-| Quinta do Lago South + Laranjal | €2.440,00 |
-| Pinheiros Altos | €592,00 |
-| Castro Marim | €420,00 |
-| NAU Salgados | €420,00 |
-| Boavista | €416,00 |
+| Item | Totaal | p.p. |
+|---|---:|---:|
+| Pine Cliffs | €216,00 | €27,00 |
+| Quinta do Lago South + Laranjal | €2.440,00 | €305,00 |
+| Pinheiros Altos | €592,00 | €74,00 |
+| Castro Marim | €420,00 | €52,50 |
+| NAU Salgados | €420,00 | €52,50 |
+| Boavista | €416,00 | €52,00 |
+| **Golf totaal** | **€4.504,00** | **€563,00** |
 
 Zie [Golf](../golf/index.md) voor de centrale golfvergelijking.
 
 ## Ontbijt, diner & drankjes — historische 2024
 
-| Item | Totaal |
-|---|---:|
-| Ontbijt / boodschappen | €442,10 |
-| 7 diners | €2.350,00 |
-| **Eten totaal** | **€2.792,10** |
+| Item | Totaal | p.p. |
+|---|---:|---:|
+| Ontbijt / boodschappen | €442,10 | €55,26 |
+| 7 diners | €2.350,00 | €293,75 |
+| **Eten totaal** | **€2.792,10** | **€349,01** |
 
 ### Extra categorie — Drinken
 
 Alleen extra drankjes en wijn die voor alle 8 deelnemers gezamenlijk zijn betaald worden meegenomen.
 
-| Item | Totaal |
-|---|---:|
-| Gezamenlijke extra drankjes/wijn | **€1.070,75**¹ |
+| Item | Totaal | p.p. |
+|---|---:|---:|
+| Gezamenlijke extra drankjes/wijn | **€1.070,75**¹ | **€133,84**¹ |
 
 ¹ Dit is de historische gezamenlijke drankreferentie van de package-reis; de villa-golfreis heeft hiervoor geen afzonderlijke betrouwbare registratie. Het bedrag is daarom niet opgeteld bij de €2.792,10 historische villa-voedingskosten.
 
