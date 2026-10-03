@@ -92,16 +92,14 @@ Het ontbijt was inbegrepen in de pakketprijs. Lunch was niet inbegrepen en werd 
 
 Het diner was inbegrepen in de pakketprijs.
 
-Alleen gezamenlijke extra drankjes en wijn van alle 8 deelnemers worden meegenomen.
+Alle gezamenlijke extra wijn bij eten, drank/kroketjes en tips/fooien van alle 8 deelnemers worden meegenomen. Transacties die slechts aan één persoon waren gericht zijn niet meegenomen.
 
 | Kostenpost | Totaal | p.p. |
 |---|---:|---:|
-| **Gezamenlijke extra drankjes/wijn** | **€1.136,60** | **€142,08** |
-| Wijn bij eten | €324,00 | €40,50 |
-| Overige drankjes | €746,75 | €93,34 |
-| Drankjes kroketjes | €65,85 | €8,23 |
-
-De gecombineerde post “Drankjes kroketjes” wordt nu volledig meegenomen als aanvullende drankkosten.
+| **Wijn bij eten** | **€324,00** | **€40,50** |
+| **Drank/kroketjes** | **€1.201,05** | **€150,13** |
+| **Tip/fooi** | **€70,00** | **€8,75** |
+| **Diner & drankjes — totaal** | **€1.595,05** | **€199,38** |
 
 ## Historisch totaal
 
@@ -114,11 +112,12 @@ De gecombineerde post “Drankjes kroketjes” wordt nu volledig meegenomen als 
 | Ontbijt | In pakket | — |
 | Diner | In pakket | — |
 | Extra wijn bij eten | €324,00 | €40,50 |
-| Extra drankjes | €812,60 | €101,58 |
+| Extra drank/kroketjes | €1.201,05 | €150,13 |
+| Tip/fooi | €70,00 | €8,75 |
 | Extra lunch + water | €588,00 | €73,50 |
-| **Historische basisvergelijking** | **€14.491,00** | **€1.811,38** |
-| **Basisvergelijking + alle extra's** | **€16.215,60** | **€2.026,95** |
+| **Historische basisvergelijking** | **€14.949,45** | **€1.868,68** |
+| **Basisvergelijking + alle extra's** | **€16.674,05** | **€2.084,26** |
 
-De €1.136,60 gedeelde drankkosten en €588,00 lunch/water zijn aanvullende historische kosten en zijn niet inbegrepen in de pakketbundel van €10.800,00.
+De €1.595,05 gezamenlijke extra kosten voor wijn bij eten, drank/kroketjes en tip/fooi, plus €588,00 lunch/water, zijn aanvullende historische kosten en zijn niet inbegrepen in de pakketbundel van €10.800,00.
 
 [← Georganiseerde golfreizen](index.md)
