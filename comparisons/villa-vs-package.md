@@ -1,21 +1,40 @@
 # Villa versus georganiseerde golfreis
 
-Deze vergelijking gebruikt **éénzelfde reisscope voor 8 personen**. De villa-variant wordt bewust doorgerekend met **zelf geregeld ontbijt en iedere avond uit eten**. Voor vervoer bij de villa-variant nemen we een **6- of 8-persoons busje plus een 4-persoons auto**.
+Deze vergelijking gebruikt altijd **één vaste reisscope voor 8 personen**.
 
-## Uitgangspunten
+## Vaste normalisatie
 
-| Onderdeel | Villa-reis | Georganiseerde golfreis |
-|---|---|---|
-| Reizigers | 8 | 8 |
-| Bestemming | Portugal of Spanje | Portugal of Spanje |
-| Periode | begin oktober 2027 | begin oktober 2027 |
-| Accommodatie | Villa | Hotel |
-| Golf | 6 rondes | 6 rondes |
-| Ontbijt | Zelf inkopen en zelf verzorgen | Inbegrepen indien aangeboden |
-| Diner | Iedere avond uit eten | Inbegrepen indien aangeboden |
-| Luchthaven | Faro als uitgangspunt voor pakketvergelijking | Faro |
-| Luchthavenvervoer | Zelf regelen met huurauto's | Inbegrepen indien aangeboden |
-| Golfvervoer | Zelf regelen met huurauto's | Inbegrepen indien aangeboden |
+| Onderdeel | Norm voor vergelijking |
+|---|---|
+| Reizigers | 8 |
+| Periode | Begin oktober 2027 |
+| Verblijf | 7 nachten |
+| Golf | **7 rondes** |
+| Golf op aankomstdag | **Ja** |
+| Golf op vertrekdag | **Nee** |
+| Accommodatie villa | Minimaal 5 slaapkamers + 5 badkamers |
+| Hotelkamerbasis | **2-persoonskamer** |
+| Eenpersoonskamer | Toeslag apart vermelden, maar **niet opnemen in de basisprijs** |
+| Ontbijt villa | Zelf inkopen |
+| Diner villa | Iedere avond uit eten |
+| Vervoer villa | 6- of 8-persoons busje + 4-persoons auto |
+| Luchthaven | Faro |
+| Vlucht | Voor 8 personen |
+| Golfvervoer villa | Met eigen huurauto's |
+| Package-vervoer | Volgens het aangeboden pakket |
+
+**Belangrijk:** de basisvergelijking voor een hotelpackage is dus gebaseerd op **2-persoonskamers**. Als een reiziger een 1-persoonskamer nodig/wil, tonen we de eenpersoonstoeslag als een afzonderlijke opslag. Die toeslag verandert de basisprijs van de packagevergelijking niet.
+
+## Golfnormalisatie
+
+Elke kandidaat-reis wordt naar hetzelfde golfprogramma vertaald:
+
+- **7 golfrondes**
+- ronde 1 op de **aankomstdag**
+- rondes 2 t/m 7 op de daaropvolgende dagen
+- **geen golf op de vertrekdag**
+
+Daardoor vergelijken we geen pakket met bijvoorbeeld 5 of 6 rondes met een villa waar 7 rondes worden gepland.
 
 ## Kostenvergelijking
 
@@ -25,7 +44,7 @@ Deze vergelijking gebruikt **éénzelfde reisscope voor 8 personen**. De villa-v
 | Accommodatie | € — | € — |
 | Ontbijt: boodschappen | € — | Inbegrepen / € — |
 | Diner: restaurants | € — | Inbegrepen / € — |
-| Golf: 6 rondes | € — | Inbegrepen / € — |
+| Golf: **7 rondes** | € — | Inbegrepen / € — |
 | Huur 6- of 8-persoons busje | € — | € — / inbegrepen |
 | Huur 4-persoons auto | € — | € — / inbegrepen |
 | Brandstof / parkeren / tol | € — | € — |
@@ -38,56 +57,51 @@ Deze vergelijking gebruikt **éénzelfde reisscope voor 8 personen**. De villa-v
 | **Totaal voor 8 personen** | **€ —** | **€ —** |
 | **Per persoon** | **€ —** | **€ —** |
 
+### Hotelkamers en eenpersoonstoeslag
+
+Voor iedere package noteren we:
+
+1. prijs op basis van **2-persoonskamers**;
+2. aantal benodigde kamers voor 8 personen;
+3. eventuele **eenpersoonstoeslag per persoon**;
+4. eventuele totale toeslag als iemand voor een eigen kamer kiest.
+
+De eenpersoonstoeslag wordt **apart weergegeven** en is geen onderdeel van de basisprijs waarmee we villa en package vergelijken.
+
 ### Villa: wat rekenen we mee?
 
-Voor een eerlijke vergelijking rekenen we bij de villa-variant dus **niet** met een zelfgekookt diner. De kosten zijn:
-
+- villa voor 7 nachten;
 - ontbijtboodschappen voor 8 personen;
-- iedere avond restaurantkosten voor 8 personen;
-- 6 golf­rondes;
+- 7 avonden uit eten voor 8 personen;
+- 7 golfrondes;
+- golf op de aankomstdag;
+- geen golf op de vertrekdag;
 - vlucht voor 8 personen;
-- villa;
 - 6- of 8-persoons busje;
 - 4-persoons auto;
 - brandstof, parkeren en eventuele tol;
-- vervoer luchthaven ↔ villa;
-- vervoer villa ↔ golfbanen;
+- luchthaven ↔ villa;
+- villa ↔ golfbanen;
 - bagage en overige aantoonbare kosten.
 
 ## Inhoudelijke vergelijking
 
 | Onderwerp | Villa + zelf regelen | Georganiseerde golfreis |
 |---|---|---|
-| Slaapaccommodatie | Villa met minimaal 5 slaapkamers en 5 badkamers | Hotelkamerverdeling controleren |
-| Privacy | Minimaal volgens villa-guardrails | Kamerverdeling expliciet controleren |
-| Ontbijt | Zelf inkopen en verzorgen | Hotelontbijt |
-| Diner | Iedere avond restaurant | Hotel­diner indien inbegrepen |
-| Golf | Zelf 6 banen/rondes kiezen | 6 rondes volgens pakket |
+| Slaapaccommodatie | Minimaal 5 slaapkamers + 5 badkamers | Basis op 2-persoonskamers |
+| Eenpersoonskamer | Eigen kamer volgens villa-indeling | Toeslag apart tonen |
+| Ontbijt | Zelf inkopen en verzorgen | Hotelontbijt indien inbegrepen |
+| Diner | Iedere avond restaurant | Hoteldiner indien inbegrepen |
+| Golf | 7 rondes | 7 rondes |
+| Golf aankomst | Ja | Ja |
+| Golf vertrek | Nee | Nee |
 | Keuze golfbanen | Zelf bepalen | Afhankelijk van pakket |
 | Vervoer | 6/8-persoons busje + 4-persoons auto | Volgens pakket |
 | Luchthavenvervoer | Zelf regelen | Mogelijk inbegrepen |
 | Golfvervoer | Zelf regelen | Mogelijk inbegrepen |
-| Vrijheid | Hoog | Afhankelijk van pakket |
-| Restaurantkeuze | Vrij | Hotel­diner beperkt restaurantkeuze |
+| Vrijheid | Zelf bepalen | Afhankelijk van pakket |
 | Organisatie | Zelf organiseren | Reisaanbieder organiseert een deel |
 | Flexibiliteit | Zelf bepalen | Afhankelijk van voorwaarden |
-| Risico op extra kosten | Zelf bewaken | Inclusies/exclusies controleren |
-
-## Belangrijk voor de uiteindelijke vergelijking
-
-We vergelijken de twee varianten pas financieel als dezelfde scope is vastgesteld:
-
-1. **8 personen**
-2. **begin oktober 2027**
-3. **6 golf­rondes**
-4. **dezelfde luchthaven en vergelijkbare vluchten**
-5. **bagage gelijk meenemen**
-6. Villa met minimaal **5 slaapkamers en 5 badkamers**
-7. Bij de villa: **ontbijt zelf inkopen**
-8. Bij de villa: **iedere avond uit eten**
-9. Bij de villa: **6- of 8-persoons busje + 4-persoons auto**
-10. Alle transport-, brandstof-, parkeer- en tol­kosten meenemen
-11. Bij het pakket: exact vastleggen wat werkelijk inbegrepen is voor vlucht, hotel, ontbijt, diner, golf, luchthavenvervoer en golfvervoer.
 
 **Geen totaalscore of winnaar:** we vergelijken de werkelijke inhoud en totale kosten per persoon.
 
