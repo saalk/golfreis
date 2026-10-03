@@ -29,7 +29,7 @@ Deze kosten worden **niet per villa opnieuw berekend**. Ze vormen de centrale ve
 
 > **Belangrijk:** de €10.216,90 is de huidige centrale kostenreferentie buiten de accommodatie. Voor een definitieve 2027-begroting worden deze posten later geactualiseerd met de werkelijke vlucht-, vervoer-, golf- en voedingskosten.
 
-## Echte kostenvergelijking — accommodatie + gemeenschappelijke kosten
+## Kostenvergelijking — accommodatie + gemeenschappelijke kosten
 
 | Kostenpost | [Villa Marazul](villa-01-airbnb-30066458.md) | [Villa Albufeira 78](villa-historisch-2024-algarve.md) |
 |---|---:|---:|
