@@ -54,9 +54,27 @@ De hoofdvergelijking is bewust compact. De belangrijkste vergelijkingskolommen z
 |  **2026**  |  [Nuevo Portil Golf](https://www.golfnuevoportil.com/)  |  Spanje  |  —  |  —  | — |  **€45 indicatie**  |  **€45 indicatie**  |
 
 
+
+## 2023 — gespeelde rondes
+
+| **Baan** | **Starttijd** | **Reistijd vanaf appartement** | **Aantal** | **Kortingskaart** | **Greenfee normaal p.p.** | **Greenfee korting p.p.** | **Buggy p.p.** |
+|---|---|---|---:|---|---:|---:|---:|
+| Pine Cliffs Golf Course | 15:12 / 15:20 | 20 minuten | 7 | ja | €34,00 | €34,00 | nvt |
+| Pinheiros Altos Campo de Golfe | 13:00 – 13:22 | 40 minuten | 9 | ja | €74,00 | €74,00 | — |
+| Villa Sol | 13:03 / 13:12 / 13:21 | 30 minuten | 9 | ja | €80,00 | €80,00 | €45,00 |
+| Alamos | vanaf 10:57 | 35 minuten | 9 | ja | €66,00 | €66,00 | €50,00 |
+| Vale do Lobo Ocean | 13:00 / 13:10 / 13:20 | 35 minuten | 9 | — | €113,00 | €113,00 | — |
+| Pine Cliffs Golf Course | 8:16 / 8:24 | 20 minuten | 6 | ja | €34,00 | €34,00 | nvt |
+| Vale do Lobo Royal | 13:00 / 13:10 / 13:20 | 35 minuten | 9 | — | €113,00 | €113,00 | — |
+| Palmares Golf (Praia / Alvor) | vanaf 12:45 | 40 minuten | 9 | ja | €69,00 | €69,00 | €50,00 |
+
+**2023 totaal referentie:** €583 p.p. aan genoemde greenfees.
+
+> De brongegevens bevatten bij de kortingskolom dezelfde bedragen als de normale greenfee. De kolom **Kortingskaart** is daarom apart opgenomen als registratie van het gebruik van een kortingskaart; de exacte kaart (Golfamore of Golfhaftet) is in de aangeleverde 2023-gegevens niet per ronde vastgelegd.
+
 ## 2024 — gespeelde rondes
 
-Naast de greenfee blijven de praktische gegevens van de 2024-reis beschikbaar. Deze tabel is ondersteunend; de jaarkolommen hierboven blijven de hoofdvergelijking.
+Naast de greenfee blijven de praktische gegevens van de 2023- en 2024-reizen beschikbaar. Deze tabellen zijn ondersteunend; de jaarkolommen hierboven blijven de hoofdvergelijking. **Golfamore** en **Golfhaftet** zijn kortingskaarten; in de tabellen staat daarom de gebruikte kortingskaart en daarnaast de normale en gereduceerde greenfee.
 
 | **Datum** | **Baan** | **Starttijd** | **Inchecken / koffie / inslaan** | **Tijd aanwezig** | **Reistijd vanaf appartement** | **Vertrektijd** | **Aantal** | **Golfamore** | **Greenfee normaal** | **Greenfee korting** | **Buggy** |
 |---|---|---|---|---|---|---|---:|---|---:|---:|---:|
