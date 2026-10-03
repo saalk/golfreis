@@ -45,24 +45,24 @@ De kostenvergelijking toont eerst de bedragen die al in de pakketprijs zitten en
 
 Voor het pakket geldt een andere behandeling: de **€1.350 p.p. pakketbundel bevat hotel, halfpension, golf en transfers**. Voor de vergelijking wordt het deel verblijf + halfpension geraamd op ca. **€836,19 p.p.** De daaronder vermelde bedragen voor vervoer en golf zijn alleen **geschatte interne pakketwaarden** en worden niet nogmaals bij het pakket totaal opgeteld.
 
-Voor de villa's wordt voor de **2027-vlucht €450,00 p.p. inclusief bagage** aangehouden als begrotingsbedrag. Dit is een aanname voor 2027 en geen geboekte prijs. Voor **golf 2027** wordt voor de villa's uitgegaan van dezelfde zeven banen als bij de historische **Villa Albufeira 2024**, Voor **golf 2027** worden uitsluitend banen gekozen met een **Golfamore-korting**: **Pine Cliffs, Pinheiros Altos, Castro Marim, NAU Salgados, Boavista, Villa Sol en Palmares**. Op basis van de verwachte 2027-greenfees in [golf/index.md](golf/index.md) komt dit uit op **€933,00 p.p.** (€95 + €128 + €109 + €139 + €120 + €175 + €167).
+Voor de villa's wordt voor de **2027-vlucht €450,00 p.p. inclusief bagage** aangehouden als begrotingsbedrag. Dit is een aanname voor 2027 en geen geboekte prijs. Voor **golf 2027** worden uitsluitend banen gekozen met een **Golfamore-korting**, waarbij voor de begroting de **prijs ná Golfamore-korting** wordt gebruikt: **Pine Cliffs, Pinheiros Altos, Castro Marim, NAU Salgados, Boavista, Villa Sol en Palmares**. De 2027-GA-prijzen zijn respectievelijk €47,50, €64,00, €54,50, €69,50, €60,00, €87,50 en €83,50, samen **€466,50 p.p.** De Golfamore-kaart zelf is hierbij, net als bij de historische 2024-prijzen, niet apart in de greenfee opgenomen.
 
 | Kostenpost | Villa Marazul 2027 p.p. | Villa Albufeira 78 2024 p.p. | Golftime 2026 p.p. |
 |---|---:|---:|---:|
 | **Vlucht** | €450,00¹ | €438,00 | €461,38³ |
 | **Verblijf** | €220,00 | €173,88 | ca. €836,19² |
 | **Vervoer** | €168,02¹ | €146,10 | ca. €103,81² |
-| **Golf** | €1.011,00¹ | €563,00 | ca. €410,00² |
+| **Golf** | €466,50¹ | €563,00 | ca. €410,00² |
 | **Ontbijt & lunch** | €42,00¹ | €36,51 | In pakket: ontbijt² |
 | **Diner** | €337,81¹ | €293,75 | In pakket² |
-| **Kosten in basisvergelijking** | **€2.247,58¹** | **€1.651,24** | **€1.811,38³** |
+| **Kosten in basisvergelijking** | **€1.703,08¹** | **€1.651,24** | **€1.811,38³** |
 |  |  |  |  |
 | **Extra wijn bij eten** | inbegrepen in diner | inbegrepen in diner | + €40,50 |
 | **Extra drankjes** | €18,75¹ | €18,75 | + €93,34 |
 | **Extra lunch + water** | — | — | + €73,50⁴ |
-| **Basis + alle extra's** | **€2.266,33¹** | **€1.669,99** | **€2.018,72³ ⁴** |
+| **Basis + alle extra's** | **€1.721,83¹** | **€1.669,99** | **€2.018,72³ ⁴** |
 
-¹ Voor de villa's wordt voor 2027 **€450,00 p.p. inclusief bagage** als vluchtbudget aangehouden. De werkelijk betaalde historische 2024-vlucht was €438,00 p.p., inclusief vlucht, bagage, golfuitrusting en cabinebagage. De overige villa-bedragen zijn historische 2024-referenties met voor **Vervoer, Ontbijt & lunch en Diner** een opslag van **15%** voor Villa Marazul 2027. Voor golf is voor 2027 gerekend met dezelfde zeven banen als bij de historische Villa Albufeira 2024; de verwachte greenfees zijn €95, €128, €109, €139, €120, €175 en €167 p.p., samen **€933,00 p.p.** De historische €442,10 voor ontbijt/boodschappen is opgesplitst in €292,10 ontbijt & lunch en €150,00 drankjes; daarom is €42,00 p.p. ontbijt & lunch en €18,75 p.p. drankjes voor Villa Marazul 2027.
+¹ Voor de villa's wordt voor 2027 **€450,00 p.p. inclusief bagage** als vluchtbudget aangehouden. De werkelijk betaalde historische 2024-vlucht was €438,00 p.p., inclusief vlucht, bagage, golfuitrusting en cabinebagage. De overige villa-bedragen zijn historische 2024-referenties met voor **Vervoer, Ontbijt & lunch en Diner** een opslag van **15%** voor Villa Marazul 2027. Voor golf is voor 2027 gerekend met dezelfde zeven banen als bij de historische Villa Albufeira 2024; de verwachte 2027-GA-greenfees zijn €47,50, €64,00, €54,50, €69,50, €60,00, €87,50 en €83,50 p.p., samen **€466,50 p.p.** De historische €442,10 voor ontbijt/boodschappen is opgesplitst in €292,10 ontbijt & lunch en €150,00 drankjes; daarom is €42,00 p.p. ontbijt & lunch en €18,75 p.p. drankjes voor Villa Marazul 2027.
 
 ² Geschatte interne waarde van het **verblijf + halfpension** binnen de pakketprijs. Berekening: €1.350,00 pakketprijs − €410,00 golf − €103,81 vervoer = ca. €836,19 p.p. Deze waarde is afgeleid uit de beschikbare 2026-gegevens en wordt **niet bovenop de pakketprijs opgeteld**.
 
