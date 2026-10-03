@@ -74,7 +74,7 @@ Onderstaande tabel is de centrale **villa-versus-package kostenvergelijking**. B
 | **Pakketreis** |  | **€275,00 / €34,38 p.p.** |
 | Kosten reisorganisatie | € — | €275,00 / **€34,38 p.p.** |
 | **Totaal historische reis** | **€2.800,00 + ontbijt + overige villa-kosten / €350,00 + ontbijt + overige villa-kosten p.p.** | **€14.491,00 / €1.811,38 p.p.** |
-| **Totaal inclusief gezamenlijke drankjes** | **€2.800,00 + ontbijt + overige villa-kosten / €350,00 + €133,84 + overige villa-kosten p.p.** | **€15.561,75 / €1.945,22 p.p.** |
+| **Totaal inclusief gezamenlijke drankjes** | **€2.800,00 + ontbijt + overige villa-kosten / €350,00 + ontbijt + overige villa-kosten p.p.** | **€15.561,75 / €1.945,22 p.p.** |
 
 ### Richtprijs diner - Restaurante Solgamba
 
