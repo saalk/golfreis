@@ -63,8 +63,13 @@ Onderstaande tabel is de centrale **villa-versus-package kostenvergelijking**. B
 | Golfbagage 15 kilo – per retour 1 × 8 | € — | €672,00 / **€84,00 p.p.** |
 | **Verblijf** |  | **€10.800,00 / €1.350,00 p.p.** |
 | Verblijf | € — | €10.800,00 / **€1.350,00 p.p.** |
-| **Vervoer** |  | **in pakket** |
-| Luchthaven ↔ hotel en hotel ↔ golf | € — | in pakket |
+| **Vervoer** |  | **€830,50 / €103,81 p.p.** |
+| Bellavista ↔ hotel | € — | €125,00 retour |
+| El Rompido ↔ hotel — 2x | € — | €130,00 retour |
+| Islantilla ↔ hotel | € — | €125,50 retour |
+| Quinta do Vale ↔ hotel | € — | €220,00 retour |
+| Luchthaven ↔ hotel | € — | €230,00 retour |
+| Nuevo Portil Golf ↔ hotel | € — | €0,00 — naast het hotel |
 | **Golf** |  | **in pakket** |
 | 7 golfrondes | € — | in pakket |
 | **Ontbijt, diner & drankjes** | **€2.800,00 / €350,00 p.p. + ontbijt** | **€1.070,75 / €133,84 p.p. + in pakket** |
