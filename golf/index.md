@@ -7,7 +7,7 @@ Eenvoudige vergelijking van de greenfee **per persoon**. Alleen de greenfee is o
 Bij de betaalde greenfees is aangegeven wanneer de prijs **op basis van Golfamore** was. De Golfamore/Golfhaftet-kaarten kostten samen **€60,00 per persoon**; dit is een eenmalige kaartkostenpost en staat niet in de greenfeeprijs per ronde.
 
 | Golfbaan | 2023 p.p. | 2024 p.p. | 2026 p.p. | 2027 p.p. |
-|---|---:|---:|---:|---:|---:|---:|
+|---|---:|---:|---:|---:|
 | Pine Cliffs Golf Course | €34,00 | **€36,00 obv. Golfamore** | — | €66 indicatie |
 | Quinta do Lago South | — | €152,50 | — | €264 indicatie |
 | Quinta do Lago Laranjal | — | €152,50 | — | — |
