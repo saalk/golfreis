@@ -20,7 +20,7 @@ Hier verzamelen we golfreizen van reisaanbieders die aansluiten op de gewenste f
 
 | Reis | Land | Hotel | Nachten | Vlucht | Ontbijt | Diner | Golf | Airport transfer | Golf transfers | Prijs p.p. | Status |
 |---|---|---|---:|---|---|---|---:|---|---|---:|---|
-| [Package 01 — Golftime Costa de la Luz 2026](../package-trips/package-01-golftime-costa-de-la-luz-2026.md) | Spanje | Hotel Nuevo Portil Golf **** | 7 | Transavia Rotterdam ↔ Faro | Inbegrepen | Inbegrepen | **7x** | Inbegrepen | Inbegrepen | **€1.811,38** | **2027-prijs aangenomen** |
+| [Package 01 — Golftime Costa de la Luz 2026](../package-trips/package-01-golftime-costa-de-la-luz-2026.md) | Spanje | Hotel Nuevo Portil Golf **** | 7 | Transavia Rotterdam ↔ Faro | Inbegrepen | Inbegrepen | **7x** | Inbegrepen | Inbegrepen | **€1.811,38** | **historische referentie** |
 | — | — | — | — | — | — | — | 7x | — | — | — | te onderzoeken |
 
 ## Package 01 — historische kostenopbouw
@@ -52,6 +52,75 @@ De **€275,00 kosten reisorganisatie** bestaat uit:
 - SGR-bijdrage: €40,00
 
 De posten tellen samen op tot **€14.491,00**. Bagage wordt in deze historische kostenvergelijking dus meegenomen.
+
+## Schatting verblijf + halfpension + golf
+
+De pakketprijs van €10.800 is een bundelprijs. Daarom kunnen kamer, halfpension, golf en transfers niet rechtstreeks uit de factuur worden uitgesplitst. Op basis van het door jou aangeleverde Stay & Play-referentieniveau bij Hotel Nuevo Portil kunnen we wel een bruikbare schatting maken.
+
+### 1. Kamer + ontbijt
+
+Voor 7 nachten, 4 tweepersoonskamers en 8 personen geeft de Stay & Play-bandbreedte van **€70–€90 per kamer per nacht**:
+
+- 4 kamers × 7 nachten × €70 = **€1.960**
+- 4 kamers × 7 nachten × €90 = **€2.520**
+
+Dit is kamer + ontbijt als richtwaarde.
+
+### 2. Halfpension
+
+De aangeleverde richtprijs is **€26 per persoon per nacht**. Voor 8 personen en 7 nachten:
+
+- 8 × 7 × €26 = **€1.456**
+
+Daarmee komt **kamer + ontbijt + halfpension** op ongeveer **€3.416–€3.976 voor 8 personen**, oftewel **€427–€497 p.p.**
+
+### 3. Golf
+
+Voor de zeven historische rondes is een reconstructie gemaakt op basis van gepubliceerde green fees. De golfbaanvergelijker in [golf/index.md](../golf/index.md) bevat per baan de actuele 2027-prijs waar beschikbaar en een indicatie van de mogelijke 2026-prijs.
+
+| Historische ronde | 2027 green fee p.p. | Mogelijk betaald 2026 p.p. |
+|---|---:|---:|
+| Nuevo Portil | €45 indicatie | €45 |
+| El Rompido North | €75 | €59 |
+| Quinta do Vale | €99* | €95 |
+| Bellavista | ca. €47** | ca. €46** |
+| El Rompido South | €75 | €59 |
+| Islantilla | €63 | €61 |
+| Nuevo Portil | €45 indicatie | €45 |
+| **7 rondes** | **ca. €449 p.p.** | **ca. €410 p.p.** |
+| **8 personen** | **ca. €3.592** | **ca. €3.280** |
+
+\* Quinta do Vale heeft voor groepen vanaf 8 personen een gepubliceerd tarief van **€86 p.p.** voor 16 september–30 november 2027. Bij een echte groepsboeking is dat dus waarschijnlijk de betere referentie.
+
+\*\* Bellavista heeft voor oktober 2027 nog geen afzonderlijk gepubliceerd tarief; €47 is alleen een voorlopige rekenwaarde.
+
+### 4. Gecombineerde schatting
+
+Voor **kamer + ontbijt + halfpension + golf** ontstaat daarmee een indicatieve bandbreedte van ongeveer:
+
+| Onderdeel | Voor 8 personen | Per persoon |
+|---|---:|---:|
+| Kamer + ontbijt | €1.960–€2.520 | €245–€315 |
+| Halfpension | €1.456 | €182 |
+| Golf – 2027 individuele referentie | ca. €3.592 | ca. €449 |
+| **Totaal** | **ca. €7.008–€7.568** | **ca. €876–€946** |
+
+Met het **Quinta do Vale groepstarief van €86** in plaats van €99 daalt de bovenste golfreferentie met €104 voor 8 personen. De genormaliseerde bandbreedte wordt dan ongeveer **€6.904–€7.464**, oftewel **€863–€933 p.p.**
+
+Als we specifiek reconstrueren wat de historische **2026-reis** aan green fees had kunnen kosten op basis van de beschikbare 2026-prijzen, komt de golfwaarde uit op circa **€3.280 / €410 p.p.**. Dan wordt kamer + ontbijt + halfpension + historische golfwaarde ongeveer **€6.696–€7.256 voor 8 personen**, oftewel **€837–€907 p.p.**
+
+Het verschil tussen deze geschatte componenten en de historische pakketprijs van **€10.800** is dus ongeveer **€3.544–€4.104**. Dat restant moet niet automatisch als golf worden geboekt: het pakket bevatte ook **luchthaven- en golftransfers en overige pakket-/contractkosten**. De componenten zijn daarom een reconstructie, geen factuuruitsplitsing.
+
+### Conclusie van de reconstructie
+
+Voor de historische pakketreis is een verdedigbare werkverdeling:
+
+- **kamer + ontbijt:** €1.960–€2.520;
+- **halfpension:** €1.456;
+- **golfwaarde:** circa €3.280–€3.592;
+- **overige pakketcomponenten binnen de €10.800:** circa €3.232–€4.104, waaronder in ieder geval de luchthaven- en golftransfers en de bundelmarge/contractprijs.
+
+De €10.800 blijft voor de hoofdvergelijking de **werkelijke historische pakketprijs**. De bovenstaande bedragen zijn uitsluitend bedoeld om inzicht te krijgen in de onderliggende kosten.
 
 ### Drankjes
 
