@@ -30,6 +30,5 @@ We vergelijken twee hoofdtypen golfvakanties:
 
 - [Villa's](villa-comparison.md)
 - [Georganiseerde golfreizen](package-comparison.md)
-- [Villa versus georganiseerde golfreis](villa-vs-package.md)
 
 [← Terug naar overzicht](../README.md)
