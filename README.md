@@ -41,11 +41,22 @@ Buggy's en trolleys zijn persoonlijke kosten en worden niet meegenomen. Persoonl
 
 ## Kostenvergelijking
 
-De kostenvergelijking toont eerst de bedragen die al in de pakketprijs zitten en de vergelijkbare villa-kosten. Daarna volgen de kosten die **bovenop** de pakketprijs komen: wijn bij het eten, extra drankjes en lunch/water.
-
-Voor het pakket geldt een andere behandeling: de **€1.350 p.p. pakketbundel bevat hotel, halfpension, golf en transfers**. Voor de vergelijking wordt het deel verblijf + halfpension geraamd op ca. **€836,19 p.p.** De daaronder vermelde bedragen voor vervoer en golf zijn alleen **geschatte interne pakketwaarden** en worden niet nogmaals bij het pakket totaal opgeteld.
-
-Voor de villa's wordt voor de **2027-vlucht €450,00 p.p. inclusief bagage** aangehouden als begrotingsbedrag. Dit is een aanname voor 2027 en geen geboekte prijs. Voor **golf 2027** worden uitsluitend banen gekozen met een **Golfamore-korting**, waarbij voor de begroting de **prijs ná Golfamore-korting** wordt gebruikt: **Quinta de Cima, Palmares, Vale da Pinta, Gramacho, Pestana Vila Sol, Quinta da Ria en Amendoeira O'Connor**. De beschikbare 2027-GA-prijzen zijn respectievelijk €107,00, €83,50, €72,50, €72,50, €68,50, €68,00 en €61,00, samen **€533,00 p.p.**. Dit ligt met de nu bekende 2027-GA-prijzen het dichtst bij het gewenste niveau van circa €600 p.p. De Golfamore-kaart zelf is hierbij, net als bij de historische 2024-prijzen, niet apart in de greenfee opgenomen.
+- Eerst worden de kosten in de pakketprijs en de vergelijkbare villa-kosten getoond.
+- Daarna volgen de extra kosten bovenop de pakketprijs: wijn, extra drankjes en lunch/water.
+- **Golftime 2026:** de pakketprijs van **€1.350 p.p.** bevat hotel, halfpension, golf en transfers.
+  - Verblijf + halfpension: ca. **€836,19 p.p.** (afgeleide interne waarde).
+  - Vervoer en golf zijn alleen interne schattingen en worden niet nogmaals bij het pakket opgeteld.
+- **Villa's 2027:** vlucht begroot op **€450 p.p. inclusief bagage**; dit is een aanname, geen geboekte prijs.
+- **Golf 2027:** alleen banen met Golfamore-korting; gerekend wordt met de prijs **ná korting**:
+  - Quinta de Cima: €107,00
+  - Palmares: €83,50
+  - Vale da Pinta: €72,50
+  - Gramacho: €72,50
+  - Pestana Vila Sol: €68,50
+  - Quinta da Ria: €68,00
+  - Amendoeira O'Connor: €61,00
+  - **Totaal: €533,00 p.p.**
+- De Golfamore-kaart zelf is niet in de greenfee opgenomen, net als bij de historische 2024-prijzen.
 
 | Kostenpost | Villa Marazul 2027 p.p. | Villa Albufeira 78 2024 p.p. | Golftime 2026 p.p. |
 |---|---:|---:|---:|
