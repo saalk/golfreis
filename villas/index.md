@@ -26,12 +26,12 @@ De groepen en items zijn gelijk aan de structuur op de individuele villa-pagina'
 | **Golf** | €4.504,00 / €563,00 p.p.¹ | €4.504,00 / €563,00 p.p.¹ |
 | 7 golfrondes | €4.504,00 / €563,00 p.p.¹ | €4.504,00 / €563,00 p.p.¹ |
 | **Ontbijt, diner & drankjes** | €2.792,10 / €349,01 p.p.¹ | €2.792,10 / €349,01 p.p.¹ |
-| Ontbijt | onderdeel van centrale referentie | €442,10?¹ |
-| Diner | onderdeel van centrale referentie | €2.350,00?¹ |
+| Ontbijt | onderdeel van centrale referentie | €442,10¹ |
+| Diner | onderdeel van centrale referentie | €2.350,00¹ |
 | Gezamenlijke extra drankjes/wijn | onderdeel van centrale referentie | — |
 | **Totaal** | **€11.976,90 / €1.497,11 p.p.** | **€13.489,90 / €1.686,24 p.p.** |
 
-¹ Historische 2024-referentie en nog geen gecontroleerde 2027-prijs. De vraagtekenbedragen worden op de historische subpagina als historische kostenonderbouwing verder uitgewerkt.
+¹ Historische 2024-referentie en nog geen gecontroleerde 2027-prijs. De historische bedragen worden op de historische subpagina verder onderbouwd.
 
 ## Centrale kostenreferentie voor villa's
 
