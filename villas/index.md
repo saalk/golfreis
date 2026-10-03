@@ -20,12 +20,12 @@ Alle bedragen hieronder zijn **per persoon**. De historische villa uit 2024 word
 |---|---:|---:|---:|
 | Vlucht | €450,00¹ | €438,00 | €450,00¹ |
 | Accommodatie | €220,00 | €173,88 | €409,13 |
-| Vervoer | €146,10¹ | €146,10 | €146,10¹ |
-| Golf | €563,00¹ | €563,00 | €563,00¹ |
-| Ontbijt & lunch | €36,51¹ | €36,51 | €36,51¹ |
-| Diner inclusief wijn | €293,75¹ | €293,75 | €293,75¹ |
+| Vervoer | €168,02¹ | €146,10 | €146,10¹ |
+| Golf | €1.080,00¹ | €563,00 | €1.080,00¹ |
+| Ontbijt & lunch | €42,00¹ | €36,51 | €42,00¹ |
+| Diner inclusief wijn | €337,81¹ | €293,75 | €337,81¹ |
 | Drankjes | €18,75¹ | €18,75 | €18,75¹ |
-| **Totaal** | **€1.728,11¹** | **€1.669,99** | **€1.917,24¹** |
+| **Totaal** | **€2.316,58¹** | **€1.669,99** | **€2.434,24¹** |
 
 ¹ Voor 2027 wordt een vluchtbudget van **€450,00 p.p. inclusief bagage** aangehouden. De historische 2024-kolom gebruikt de werkelijk betaalde €438,00 p.p.; de €150 drankjes binnen de oorspronkelijke €442,10 post zijn een schatting.
 
@@ -36,12 +36,12 @@ Voor nieuwe villa's worden de niet-accommodatiekosten centraal als referentie ge
 | Kostenpost | p.p. |
 |---|---:|
 | Vlucht | €450,00 |
-| Vervoer | €146,10 |
-| Golf | €563,00 |
-| Ontbijt & lunch | €36,51 |
-| Diner inclusief wijn | €293,75 |
+| Vervoer | €168,02 |
+| Golf | €1.080,00 |
+| Ontbijt & lunch | €42,00 |
+| Diner inclusief wijn | €337,81 |
 | Drankjes | €18,75 |
-| **Totaal niet-accommodatie** | **€1.508,11** |
+| **Totaal niet-accommodatie** | **€2.025,11** |
 
 De bedragen zijn een mix van het 2027-vluchtbudget en historische 2024-referenties; overige 2027-kosten worden later geactualiseerd.
 
