@@ -90,20 +90,20 @@ Het ontbijt was inbegrepen in de pakketprijs. Lunch was niet inbegrepen en werd 
 
 ## Diner & drankjes — historische 2026
 
-Het diner was inbegrepen in de pakketprijs.
+Het diner was inbegrepen in de pakketprijs. Voor de aanvullende gezamenlijke kosten is onderstaande afbakening gebruikt:
 
-Alle gezamenlijke extra wijn bij eten, drank/kroketjes en tips/fooien van alle 8 deelnemers worden meegenomen. Transacties die slechts aan één persoon waren gericht zijn niet meegenomen.
+**Wel meegenomen**
+- **Wijn bij het eten:** €324,00 totaal / €40,50 p.p.
+- **Drank/kroketjes:** €1.201,05 totaal / €150,13 p.p.
+- **Tip/fooi:** €70,00 totaal / €8,75 p.p.
+- **Totaal meegenomen:** €1.595,05 / €199,38 p.p.
 
-| Kostenpost | Totaal | p.p. |
-|---|---:|---:|
-| **Wijn bij eten** | **€324,00** | **€40,50** |
-| **Drank/kroketjes** | **€1.201,05** | **€150,13** |
-| **Tip/fooi** | **€70,00** | **€8,75** |
-| **Diner & drankjes — totaal** | **€1.595,05** | **€199,38** |
+**Niet meegenomen**
+- **Buggy/trolly:** volledig buiten deze kostenverdeling gelaten.
+- Transacties die slechts aan **één persoon** waren gericht.
+- Kosten die buiten de drie gezamenlijke categorieën **wijn bij eten, drank/kroketjes en tip/fooi** vallen, zoals een stoel, clubkosten, een chauffeur, een individueel rondje en afzonderlijke lunch-/maaltijdkosten.
 
-Het totale bedrag van alle geregistreerde transacties bedraagt **€2.994,65**. Dit bedrag is niet volledig doorgevoerd in de kostenverdeling hierboven. Een aantal transacties was namelijk uitsluitend aan één persoon gericht of betrof kosten die buiten de afgesproken categorieën vallen, zoals een stoel, clubkosten, een chauffeur, een individueel rondje en enkele afzonderlijke lunch-/maaltijdkosten.
-
-Voor de gezamenlijke kostenverdeling zijn daarom alleen de relevante kosten voor **buggy/trolly, tip/fooi, drank/kroketjes en wijn bij het eten** meegenomen. Hierdoor sluit het totaal van deze categorieën niet aan op het volledige bedrag van €2.994,65, maar wel op de kosten die daadwerkelijk gezamenlijk over de deelnemers zijn verdeeld.
+Het totale bedrag van alle geregistreerde transacties bedraagt **€2.994,65**. Dit is dus **niet** het bedrag dat in de gezamenlijke kostenverdeling hierboven is opgenomen. Alleen de drie afgesproken gezamenlijke categorieën zijn meegenomen; **buggy/trolly is daarbij bewust uitgesloten**.
 
 ## Historisch totaal
 
