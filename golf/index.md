@@ -27,7 +27,7 @@ De kolom **2026 p.p.** is waar mogelijk bijgewerkt naar de actuele **oktober 202
 | Ombria | — | €160,00 | €131 | €180 indicatie |
 | Dom Pedro Old Course | — | €175,00 | €274 | €197 indicatie |
 | Quinta de Cima | — | €190,00 | €145 / €72,50 GA | €214 indicatie |
-| Amendoeira Golf Resort — Faldo / O'Connor | — | ca. €160,00 | €116 / €58 GA* | ca. €180 indicatie |
+| Amendoeira Golf Resort — Faldo / O'Connor | — | ca. €160,00 | €116 / €58 GA | ca. €180 indicatie |
 | Espiche | — | — | €90 | — |
 | Quinta do Vale | — | — | €95,00 | €99,00 / €86 groep 8+ |
 | Pestana Golf Gramacho Course | — | €129,00 | €167 / €83,50 GA | €145 indicatie |
@@ -59,7 +59,7 @@ De kolom **2026 p.p.** is waar mogelijk bijgewerkt naar de actuele **oktober 202
 
 - **GA = Golfamore:** de genoemde GA-prijs is 50% van het actuele reguliere greenfee. De actuele Golfamore Greenfee-Card 2026 kost **€59,00 per persoon** en geeft op partnerbanen één ronde per baan per seizoen voor de helft van het greenfee.
 - **Actueel als Golfamore-partner bevestigd:** Pestana Golf Resorts (Gramacho, Vale da Pinta, Silves, Alto, Vila Sol en Beloura), Palmares, Quinta da Ria / Quinta de Cima en Amendoeira O'Connor. Voor deze banen is de GA-prijs rechtstreeks als 50% van de actuele greenfee berekend.
-- **GA* = recente aanwijzing, maar actuele partnerstatus niet rechtstreeks op de huidige Golfamore-banenlijst kunnen bevestigen:** Amendoeira O'Connor, Benamor en Penina Championship. Deze prijzen zijn daarom bruikbaar als indicatie, maar moeten vóór boeken in de Golfamore-app worden gecontroleerd.
+- **GA* = recente aanwijzing, maar actuele partnerstatus niet rechtstreeks op de huidige Golfamore-banenlijst kunnen bevestigen:** Benamor en Penina Championship. Deze prijzen zijn daarom bruikbaar als indicatie, maar moeten vóór boeken in de Golfamore-app worden gecontroleerd.
 - **2024 daadwerkelijk met Golfamore gespeeld:** Pine Cliffs €36,00, Pinheiros Altos €74,00, Castro Marim €52,50, NAU Salgados €52,50 en Boavista €52,00. De genoemde 2024-prijzen zijn dus de **daadwerkelijk betaalde greenfees op basis van Golfamore-korting**.
 - **2023:** Pine Cliffs, Pinheiros Altos, Villa Sol, Alamos en Palmares zijn met een kortingskaart gespeeld. Het specifieke kaarttype is voor deze rondes niet vastgelegd.
 - **2026:** actuele bedragen zijn zoveel mogelijk gebaseerd op de **oktober 2026** greenfee. Waar alleen een seizoens- of indicatieprijs beschikbaar is, is dat niet als definitieve betaalde prijs bedoeld.
