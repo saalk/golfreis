@@ -51,7 +51,7 @@ Per kandidaat tonen we vervolgens:
 
 Prijzen, beschikbaarheid, vluchtmogelijkheden en exacte golfgegevens worden pas als bevestigd beschouwd wanneer ze voor de gekozen periode zijn gecontroleerd.
 
-## Echte kostenvergelijking
+## Kostenvergelijking
 
 Onderstaande tabel is de centrale **villa-versus-package kostenvergelijking**. Bedragen worden weergegeven als **totaal voor 8 personen / per persoon**; de prijs per persoon staat steeds **vetgedrukt**. De **Kostenpost** is gegroepeerd: de groep staat vetgedrukt en de onderliggende items niet. We rekenen met 8 personen, 7 nachten en 7 golfrondes.
 
@@ -76,7 +76,7 @@ Onderstaande tabel is de centrale **villa-versus-package kostenvergelijking**. B
 | Ontbijt | € — | in pakket |
 | Diner - Restaurante Solgamba, 3 gangen + wijn | €2.800,00 / **€350,00 p.p.** | in pakket |
 | Gezamenlijke extra drankjes/wijn | € — | €1.070,75 / **€133,84 p.p.** |
-| **Pakketreis** |  | **€275,00 / €34,38 p.p.** |
+| **Golftime** |  | **€275,00 / €34,38 p.p.** |
 | Kosten reisorganisatie | € — | €275,00 / **€34,38 p.p.** |
 | **Totaal historische reis** | **€2.800,00 + ontbijt + overige villa-kosten / €350,00 + ontbijt + overige villa-kosten p.p.** | **€14.491,00 / €1.811,38 p.p.** |
 | **Totaal inclusief gezamenlijke drankjes** | **€2.800,00 + ontbijt + overige villa-kosten / €350,00 + ontbijt + overige villa-kosten p.p.** | **€15.561,75 / €1.945,22 p.p.** |
