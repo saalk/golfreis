@@ -63,15 +63,15 @@ Buggy's en trolleys zijn persoonlijke kosten en worden niet meegenomen. Persoonl
 | **Vlucht** | €450,00¹ | €400,00 | €461,38³ |
 | **Verblijf** | €220,00 | €173,88 | ca. €836,19² |
 | **Vervoer** | €168,02¹ | €146,10 | ca. €103,81² |
-| **Golf** | €533,00¹ | €563,00 | ca. €410,00² |
+| **Golf** | €533,00¹ | €572,00 | ca. €410,00² |
 | **Ontbijt & lunch** | €42,00¹ | €36,51 | In pakket: ontbijt² |
 | **Diner** | €337,81¹ | €293,75 | In pakket² |
-| **Kosten in basisvergelijking** | **€1.769,58¹** | **€1.651,24** | **€1.811,38³** |
+| **Kosten in basisvergelijking** | **€1.769,58¹** | **€1.622,24** | **€1.811,38³** |
 |  |  |  |  |
 | **Extra wijn bij eten** | inbegrepen in diner | inbegrepen in diner | + €40,50 |
 | **Extra drankjes** | €18,75¹ | €18,75 | + €93,34 |
 | **Extra lunch + water** | — | — | + €73,50⁴ |
-| **Basis + alle extra's** | **€1.788,33¹** | **€1.669,99** | **€2.018,72³ ⁴** |
+| **Basis + alle extra's** | **€1.788,33¹** | **€1.640,99** | **€2.018,72³ ⁴** |
 
 ¹ Voor de villa's wordt voor 2027 **€450,00 p.p. inclusief bagage** als vluchtbudget aangehouden. De historische 2024-vlucht wordt op €400,00 p.p. gezet, inclusief vlucht, bagage en golfuitrusting; cabinebagage wordt niet meegerekend. De overige villa-bedragen zijn historische 2024-referenties met voor **Vervoer, Ontbijt & lunch en Diner** een opslag van **15%** voor Villa Marazul 2027. Voor golf is voor 2027 gerekend met dezelfde zeven banen als bij de historische Villa Albufeira 2024; de beschikbare 2027-GA-greenfees zijn €107,00, €83,50, €72,50, €72,50, €68,50, €68,00 en €61,00 p.p., samen **€533,00 p.p.** De historische €442,10 voor ontbijt/boodschappen is opgesplitst in €292,10 ontbijt & lunch en €150,00 drankjes; daarom is €42,00 p.p. ontbijt & lunch en €18,75 p.p. drankjes voor Villa Marazul 2027.
 
